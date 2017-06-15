@@ -1,0 +1,221 @@
+Fire Alarm: Standard (Red Light; Automatic Tone)
+
+1.	DETERMINE STANDARD fire alarm or LOCAL fire alarm?
+•	RED and GREEN lights to the LEFT of the radio console.
+i.	RED light = STANDARD fire alarm; proceed to #2.
+ii.	GREEN light = LOCAL fire alarm; switch to “Fire Alarm: LOCAL” protocol.
+2.	DOUBLE-CLICK red alarm listing in the “NEW EVENTS” list.
+•	There should be a RED line in the “NEW EVENTS” list (upper left edge of screen).  You MUST double-click the red alarm line in the list to see the info at the bottom.
+•	IMPORTANT NOTE: Do NOT use the “New Events” list to determine the building; it will not always be accurate!
+3.	Determine the LOCATION and SOURCE of the alarm (BLACK area; BOTTOM of screen).
+•	ALWAYS look at the MIDDLE (2nd) line for accurate information. Note it.
+4.	Acknowledge the alarm (by clicking the check mark at “New Events”).
+5.	Dispatch on Channel 3:
+	“Control to all units. You are responding to a fire alarm activation at 	[building]. The source is [detail information from line 2]. I will be 	calling Regional.”
+6.	Call Essex Regional Dispatch (speed dial on either phone)
+“This is the Gordon College dispatcher. The fire alarm activation you received is in [building].”
+
+IMPORTANT NOTE: Be sure to recognize and communicate if the source is a CO detector or CO is in any way indicated.
+
+7.	Acknowledge responding units.
+8.	If the gate is down put it up. You may need to give directions to the scene of the fire.
+9.	Keep alert for the first responding Wenham units. Notify the officer when they arrive.
+10.	 Mark any responding officers who are not already as on patrol.
+11.	Begin an incident for the alarm.  Include the alarm time location.  Include officer(s) responding, arriving and clear times.  Include Wenham arrival time and any other details the officer asks you to note.
+12.	Your log entry should only have the time of the alarm and the incident number.
+
+Fire Alarm: LOCAL (Green Light; NO Automatic Tone)
+
+1.	DETERMINE STANDARD fire alarm or LOCAL ONLY fire alarm?
+•	Look at RED and GREEN lights to the LEFT of the radio console.
+i.	GREEN light = LOCAL fire alarm; proceed to #2.
+ii.	RED light = STANDARD fire alarm; switch to “Fire Alarm: STANDARD” protocol.
+2.	DOUBLE-CLICK red alarm listing in the “NEW EVENTS” list.
+•	There should be a RED or PINK line in the “NEW EVENTS” list (upper left edge of screen).
+•	You MUST double-click the red/pink alarm line in the list. The correct information will only appear at screen bottom AFTER you double click.
+•	IMPORTANT NOTE: Do NOT use the “New Events” list to determine the building.
+3.	Determine the LOCATION and SOURCE of the alarm (BLACK area; BOTTOM of screen)
+•	ALWAYS look at the MIDDLE (2nd) line for accurate information. Note it.
+4.	Acknowledge the alarm (by clicking the check mark at “New Events”).
+5.	Press the fire tone button.
+6.	Dispatch on channel 3:
+ “Control to all units. You are responding to a LOCAL alarm activation at [building]. The source is [detail information from line 2]. All responding units please acknowledge.  I will be calling Regional”
+7.	 Call Essex Regional Dispatch (speed dial on either phone)
+“This is the Gordon College dispatcher and we have received a local smoke detector activation at [building].  The officer is responding and the building is NOT being evacuated.”
+
+8.	Acknowledge responding units.
+9.	If the gate is down put it up. You may need to give directions to the scene of the fire.
+10.	Keep alert for the first responding Wenham units. Notify the officer when they arrive.
+11.	Mark any responding officers who are not already as on patrol.
+12.	Begin an incident for the alarm.  Include the alarm time location.  Include officer(s) responding, arriving and clear times.  Include Wenham arrival time and any other details the officer asks you to note.
+13.	Always be prepared for this to escalate to a standard fire alarm in the system.
+14.	Your log entry should only have the time of the alarm and the incident number.
+
+Report of a LOCAL FIRE ALARM   - This is reported by phone.
+
+1.	Ask the caller:
+•	Where is the exact location of the detector in alarm?
+•	What is your callback number in case you are disconnected?
+•	Do you know what the cause is?
+2.	Determine if the caller is safe.
+	Is there A LOT of smoke?  Is there flame?  Is the situation under control?
+•	If the caller IS safe, have them close the door to the area to prevent smoke entering the hallway/common areas.
+•	If the caller IS NOT safe, have them leave the building and pull a pull station
+	Be prepared for the Standard Fire Alarm that will follow a pull station activation.
+3.	Dispatch:
+•	Press the Fire Tone button
+•	Dispatch on Channel 3: “Control to all units. You are responding to a report of a LOCAL alarm activation at [specific location]. (Indicate the cause if known) All responding units please acknowledge.  I will be calling Regional”
+4.	 Call Essex Regional Dispatch (speed dial on either phone)
+“This is the Gordon College dispatcher and we have received a report of a local smoke detector activation at [specific location].  The officer is responding and the building [is / is not] being evacuated.”
+					Building is only being evacuated if you instruct caller to use pull station.
+
+5.	Acknowledge responding units.
+6.	If the gate is down put it up. You may need to give directions to the scene of the fire.
+7.	Keep alert for the first responding Wenham units. Notify the officer when they arrive.
+8.	Mark any responding officers who are not already as on patrol.
+9.	Begin an incident for the call.  Include the call time and location.  Include officer(s) responding, arriving and clear times.  Include Wenham arrival time and any other details the officer asks you to note.
+10.	Always be prepared for this to escalate to a Standard Fire alarm coming in on the fire system.
+11.	Your log entry should only have the time of the alarm and the incident number.
+
+Medical Aid
+
+1.	Obtain from the caller (as quickly as possible!):
+•	Specific Location of the patient (i.e.  the exact room if inside a building)
+•	Call back number (confirm it with them and write it down, don’t just read off the screen!)
+•	What is the main medical issue?  (keep this short and concise)
+				DO NOT LET CALLER RAMBLE! – Just get the main medical issue ASAP
+2.	Say to the caller:
+		“Please stay on the line while I connect you to medical dispatch.”
+
+3.	While on line with the caller initiate a conference call with Regional as follows:
+•	Press the speed dial for Essex Regional Dispatch
+•	After Regional answers and finishes greeting, press the “CONFERENCE” soft key:
+“This is the Gordon College Dispatcher.  I have a caller on the line requesting medical assistance for [medical issue] at [specific location].  Go ahead caller.”
+•	Confirm caller starts talking to Regional.
+•	Press the mute button.  You should still be monitoring the conversation.  THEN:
+
+4.	Press the medical tone.
+5.	Dispatch on Channel 3:
+	“Control to all units. You are responding to a request for medical aid at [specific location]. For [medical issue]. The caller is on with Regional.  All responding units please acknowledge.”
+
+6.	Acknowledge responding units.
+7.	Update the responding officers to any pertinent details you hear emerge from the conversation between Regional and the caller.
+8.	Mark any responding officers who are not already as on patrol.
+9.	Put the gate up if it is down.  Be prepared to give directions to the location.
+10.	Notify the officer when Wenham and/or the ambulance arrives on campus.
+11.	Begin an incident for the call.  Include the call time, caller number and name of the caller if Regional obtains it.  Include officer(s) responding, arriving and clear times.  Include Wenham and/or ambulance arrival time and any other details the officer asks you to note.
+12.	Your log entry should only have the time of the call and the incident number.
+
+10-34P Psychological Emergency
+
+1.	Obtain from caller (as quickly as possible):
+•	Specific location of the person in question.
+•	Call back number (confirm it with them and write it down, don’t just read off the screen!)
+•	What is the primary concern?
+			 DON’T LET THE CALLER RAMBLE!
+2.	Ask the caller BOTH of these questions:
+•	1: “Does the person have any obvious MEDICAL NEEDS OR ISSUES (e.g. injury, difficulty breathing, loss of consciousness, etc)?”
+•	2: “To your knowledge, has the person attempted to harm themselves or are they actively and imminently preparing to do so (e.g. they’ve threatened to take pills, etc.)?”
+***IMPORTANT***
+If the answer to either question is YES, treat as a MEDICAL CALL and immediately connect caller to Regional Dispatch (start at #2 on Medical Sheet).
+3.	For all other psychological issues (where answers to #1 and #2 were NO), say:
+	“Please stay on the line while I connect you to the officer.”
+4.	Press the general tone.
+5.	Dispatch on channel 3:
+“Control to all units, please stand by for a 10-34P phone call to the
+duty cell phone.”
+6.	Press the speed dial for the DUTY CELL (unless instructed to use the double coverage cell).
+7.	As soon as the officer answers and finishes greeting, press the “CONFERENCE” soft key.
+8.	Say:
+	“Hello, I have a caller on the line reporting a person at [specific 	location], who [primary psychological concern].  Go ahead caller.”
+
+9.	Confirm the caller is speaking with the officer and then HANG UP.
+10.	Mark the officer taking the call as on patrol if they are not already.
+11.	Begin an incident number for the call, including call time and the primary concern.  Officer responding will be the officer you connected the caller to.
+12.	Your log should only have the time of the call and the incident number.
+
+
+10-30 Report of Fire or Visible Smoke – Verbal Report
+
+1.	Obtain from the Caller (as quickly as possible):
+•	Specific Location (i.e. the exact room if inside a building)
+•	Call back number (confirm it with them and write it down, don’t just read off the screen!)
+•	What is happening/what are they witnessing?
+		DON’T LET CALLER RAMBLE! – Just get the basic info ASAP
+
+2.	Say to the caller:
+	“Please stay on the line while I connect you to fire dispatch.”
+
+3.	While  on line with the caller initiate a conference call with Regional as follows:
+•	Press the speed dial for Essex Regional Dispatch.
+•	After Regional answers and finishes greeting, press the “CONFERENCE” soft key.
+•	Say “This is the Gordon College Dispatcher.  I have a caller on the line reporting a [situation] fire at [specific location].  Go ahead caller.”
+•	Confirm caller starts talking to Regional.
+•	Press the mute button.  You should still be monitoring the conversation.  THEN:
+
+4.	Press the Fire Alarm tone.
+5.	Dispatch on Channel 3:
+“Control to all units.  You are responding to a report of fire at [specific location] where [situation].  Caller is on with Regional.  All responding units please acknowledge.”
+
+6.	Acknowledge responding units on both channels.
+7.	Update the responding officers to any pertinent details you hear emerge from the conversation between Regional and the caller.
+8.	Mark any responding officers who are not already as on patrol.
+9.	Put the gate up if it is down.  Be prepared to give directions to the location.
+10.	Notify the officer when Wenham and/or the ambulance arrives on campus.
+11.	Begin an incident for the alarm.  Include the call time, caller number and name of the caller if Regional obtains it.  Include officer(s) responding, arriving and clear times.  Include Wenham and/or ambulance arrival time and any other details the officer asks you to note.
+12.	Your log entry should only have the time of the call and the incident number
+Bomb Threat
+
+1.	If a caller states that (s)he has placed or will place a bomb on campus:
+•	Note the call time and the exact words the caller used when you answered.
+•	Say to the caller: “I have a few questions that I need to ask you.”
+
+2.	Pull out a Bomb Threat Checklist sheet from the binder.  Ask the caller the questions on the sheet, noting answers and observations on your SCRATCH PAD.  If at any time the caller becomes uncooperative or once you have asked all the questions say to the caller:
+			“I need to inform the officer, would you like to speak to him/her 					directly?”
+•	If the caller says (s)he would like to speak to an officer put them on hold.
+
+3.	Press the fire tone.
+
+4.	Dispatch:
+“Control to all units. You are responding to a bomb threat at [location]. I will be calling Regional. All responding units please acknowledge.”
+		If the caller indicated they wanted to speak with an officer, also say:
+		“Be advised, the caller states they would like to speak with an officer.”
+
+5.	Acknowledge responding units.
+6.	Call Regional on the speed dial.  Give them any and all information that you have.  Inform them that you have completed a bomb threat checklist.
+7.	As soon as you have a moment copy your observations from your scratch pad over to the bomb threat checklist completing the form.  Set this aside – someone will pick it up from you.
+8.	If the gate is down put it up. You may need to give directions to the location to responding local personnel.
+9.	Keep alert for the first responding units. Notify the officer when they arrive.
+10.	Mark any officers that are responding on patrol if they are not already.
+11.	Begin an incident for the call.  Include any and all information you have gathered as well as responding, arrival, and clear times.
+
+10-35 Police Emergency
+CALL REGIONAL- Wenham Police Backup Needed Immediately
+
+1.	If the officer calls in a 10-35, dispatch:
+
+	“10-35 received. I will be calling Regional. What is your location?”
+	It is imperative that you get a location.  The officer may be unable to radio after this.
+
+2. Simultaneously dial Essex Regional Dispatch using the speed dial. Say:
+	“This is the Gordon College dispatcher. The officer on duty has called for immediate police backup at [location].”
+
+3.  If applicable, quickly give any other details you know about the situation.
+		DO NOT DELAY ANYONE.  Let them dispatch, details can be given after.
+		The goal is to get Wenham units rolling toward our location as soon as possible.
+		They can receive additional details after they are dispatched and on the way.
+
+	4.  If the Regional dispatcher asks you to stay on the line, do so.  However, our radio is your 	priority.
+
+	5.  Once you have given all the information you have to Regional, say on the radio:
+
+		“[officer#] from control, Backup is on the way.  Please update your status.”
+
+	6.  If there is no response, repeat that transmission every 8-10 seconds until the officer responds 	or someone from Wenham or Regional instructs you to stop.
+
+
+	7.  When you are able (do not delay response for this):
+•	Start an incident for the call.  Include whatever details you are able to gather in the narrative.
+•	Keep alert for responding Wenham Units.  Notify the officer when they arrive
+•	Mark any other responding Gordon officers as on patrol if they are not already
+•	Your log entry should only have the time of the call and the incident number.
