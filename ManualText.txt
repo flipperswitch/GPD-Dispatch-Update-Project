@@ -326,13 +326,13 @@ o	NOTE: If there is NO response, immediately repeat, "[Officer Number], I have y
 •	Never simply go ahead reading the listing until the officer has given you a “go ahead” as it can be distracting to the officer if they are at the car with the operator, or incite argument if overheard by the operator.
 
 3.7	Openers, Closers, and PEAs
-Student openers come in six days a week during normal school operation. Put them on duty in Report Exec. when they begin their shift. They have a radio and call in after they open each building. You will log each building after they open it as a officer status the same way you would if an officer called in. Include times when replying to openers on the radio.
+Student openers come in six days a week during normal school operation. Put them on duty in Report Exec. when they begin their shift. They have a radio and should call in when they begin and finish checking each building. You will log each buildingthey open as a officer status the same way you would if an officer called in. Include times when replying to openers on the radio.
 •	Reminder:  Openers radio codes are 121-124.
 •	If an opener has not reported to the office for the opener key set by 0545 Monday through Saturday you should let the officer know.
 •	Openers must leave an ID card and sign out the key set like any other contractor/student.
-Student Closers function in the same way as openers except that they will secure buildings in the evening. Put them on duty in Report Exec. when the begin their shift. They will call in each building secured and you should log it as an officer status the same way you would for a patrol officer. 
+Student Closers function in the same way as openers except that they will secure buildings in the evening. Put them on duty in Report Exec. when the begin their shift. They will call in when they begin and finish securing each building and you should log it as an officer status the same way you would for a patrol officer. 
 •	Reminder: Closer radio codes are generally in the 140s 
-Parking Enforcement Assistants (PEAs) are students who issue parking tickets to on-campus vehicles. They will take a ticket book, ipad, and radio when they come into the office. Put them on duty in Report Exec. when they begin their shift. They will inform the officer when they go on and off. 
+Parking Enforcement Assistants (PEAs) are students who issue parking tickets to on-campus vehicles. They will take a ticket book, ipad, and radio when they come into the office. Put them on duty in Report Exec. when they begin their shift and put them on an officer status with the location "Main Campus" and call type "Patrol: Parking Enforcement." They will inform the officer when they go on and off. 
 •	Reminder: PEA radio codes are generally in the 130s 
 
 Section Four: Phone Use
