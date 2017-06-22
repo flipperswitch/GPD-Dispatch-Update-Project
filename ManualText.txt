@@ -803,58 +803,41 @@ Woodland Gate Protocol
 •	If he or she is not a student, ask for his or her reason for being on campus. As with the main gate, verify any information about who/where he or she is visiting in the computer before letting them in.
 •	If you believe that the person should not be on campus or that the person is giving you false information, stall them and notify the officer before opening the gate.  Once you open the gate, monitor the vehicle using the cameras and relay any relevant information to the officer, such as location and any suspicious activity.
 
-6.3	Cameras (program specific information out of date.  Use of the new program will be covered during your supervised shift.)
-Keep an eye on the cameras as much as possible during your shift. This does not mean constantly watching them, but keeping them in your peripheral vision and glance at them frequently.  If you notice anything suspicious on the cameras during your shift, write down any relevant information on your scratch pad and radio the officer.  It is a good idea to also record the time in case you need to log the information later.
-Using the Woodland & Grapevine Road Cameras
-•	Cameras are usually displayed in a 2x2 grid, showing 4 cameras in all.  To display the camera grids, press the number of the grid (listed below) followed by the “CAM” button.
-•	When an individual camera is displayed, it should show on monitor 1 (bottom, middle monitor).  If for some reason the selected camera shows up on a different monitor, switch it back to monitor 1 by doing the following:
-o	Enter the monitor number (1) on the control box.
-o	Press the monitor button (MON).
-•	To select a camera to control:
-o	Enter the camera number (listed below, along with location).
-o	Press the camera button (CAM).
-o	You can manipulate the camera view by using the joystick.  To control the zoom, twist the knob.
-Scanning Patterns
-•	You will see that some of the cameras are set to scan their respective areas.  If a camera gets interrupted from its scan, you can hit the “Pattern” button, which should reset the camera to its pattern.  If the pattern is not active, you can reprogram the camera pattern by doing the following:
-o	Select the camera to view it on monitor 1.
-o	Set it to a good “starting position” (at one end of the lot that it should scan).
-o	Press and hold the “Pattern” button until the screen goes into record mode.  You will see a percentage number at the top of the screen indicating how much memory is left in the pattern recording.
-o	Use the joystick to move the camera into the desired pattern, which is usually a simple side-to-side pan of the parking lot.  Make sure the pattern covers the entirety of the lot.
-o	Once your scan returns to the point at which you started, hit the “ACK” button to acknowledge the new pattern.
-o	Hit the “Pattern” button once more to start the scan.
-Woodland & Grapevine Road Camera Locations
-•	1 – Chapel lot exit / Grapevine west (fixed)
-•	2 – Fulton exit gate (fixed)
-•	3 – Grapevine sidewalk (scan pattern)
-•	4 – Woodland gate (fixed)
-•	5 – Lot A (scan pattern)
-•	6 – Lot C & F (scan pattern)
-•	7 – Lot B (scan pattern)
-•	8 – Lot B (automatic scan pattern)
-•	9 – Lot F (scan pattern)
-•	10 – Lot H (fixed)
-•	11 – Physical Plant dumpsters (fixed)
-•	41 – Cameras 1-4
-•	42 – Cameras 5-8
-•	43 – Cameras 9-11
-Using the Bennett, BCA Gate, and KOSC Cameras (this program is still the same)
-•	Bennett and the KOSC are monitored using a different camera system that functions over the Gordon network.  These cameras are accessible through the top left monitor in a program called DS ControlPoint.  You will see that the cameras are displayed in 3x3 grids on two monitors.
-•	In the event that ControlPoint gets closed down or the computer gets reset, you can reboot the program by doing the following:
-o	Double-click the DS ControlPoint icon on the desktop.  Type “Dispatcher” into the username field.  The password can be found in its hidden place in the office (it should also be given to you during your training).
-o	The program will start on the “Systems” screen. The three (Bennett, KOSC & Woodland) camera systems should have a green light indicating a good connection. The IP addresses and camera locations are located to the right of the green lights.  NOTE: If the lights are red, try logging in again, as the username or password may have been typed in wrong. It will NOT warn you if you typed in the wrong username or password, it will just fail to connect to the cameras.
-Setting Up/Viewing Live Camera Feeds
-•	Click the “Live” icon at the top of the window. It is a picture of a single computer (sERDnd icon from left). You can also click the “Live” tab at the top of the window.
-•	The display will now show a 2x2 grid reading “drag item here”. At the top of the large grid, click the small grid icon and select the 3x3 option (3rd from left).
-•	On the left side of the main window, there is a navigation pane displaying the Groups, Systems and Tours. If it is not already displaying the Systems, click the word “Systems” in this pane and expand all of the available system trees by clicking the small, gray boxes with a + sign (for Woodland, Bennett and KOSC). If the navigation pane is hidden, there will be a narrow margin showing small icons. The icon of the gray box with an arrow will expand the navigation pane (lowest icon).
-•	Drag the Bennett cameras from the system tree into the “drag item here” boxes one by one until the grid is full.
-•	When the grid is full, click the blue arrow icon to “Undock Tab”. This will let the camera grid “float” above the main window.
-•	Once undocked, drag the grid to the right until it is visible on the dual-display monitor to the right. Once on the other monitor, maximize the window to fill the whole screen.
-•	Navigate back to the left hand screen with the main DS ControlPoint window. Select another 3x3 grid for the additional cameras.
-•	Fill the grid with the remaining cameras for Bennett and KOSC. There will be one empty spot left over. We normally put the Physical Plant dumpsters in that box.
-•	Once the grid is full, you do not have to undock it. Simply leave it as it is.
+6.3	Cameras
+Keep an eye on the cameras as much as possible during your shift. This does not mean constantly watching them, but keeping them in your peripheral vision and glancing at them frequently.  If you notice anything suspicious on the cameras during your shift, write down any relevant information on your scratch pad and radio the officer.  It is a good idea to also record the time in case you need to log the information later.
+
+Using the Cameras
+•	There are four camera monitors controlled by two seperate computers. They share a keyboard and mouse, so you must use the black switch-box on the desk to choose which one to operate. 
+•	These computers are designated for camerera monitoring ONLY. They should never be used for any other purpose.
+•	You can make a camera full screen by selecting it from the dropdown menu on the left of the screen.
+•	When a camera is selected in full screen, you can use the controls in the bottom left of the screen to manuever, focus, zoom, etc. 
+o	Note: Only some cameras have the ability to move.
+o	Do NOT unnecessarily move cameras. Some are positioned for specific reasons. If you beleieve a camera should be moved, ask an officer or the ACDC if it should be where it is or if it should be positioned differently.
+o	If you need to operate a camera for an extended period of time, it can be helpful to close the other window on the same computer. This can help to keep the computer from responding slowly while you try to manuever a camera. 
+•	To go back to the standard view, select the appropriately labeled layout (1A, 1B, 2A, or 2B). 
+o	Be aware that there is a camera in our office. We do not monitor it, but you can pull it up from the menu. There is also a camara in KOSC 036 that we do not monitor, but only the officers and the ACDC have access to it. 
+•	Avoid moving cameras if not neccessary. Some will reset themselves to a default angle, but some will NOT. 
+Recorded Files 
+•	You can access camera recordings from the camera computers by selecting the camera from the menu on the left and then expanding it by pressing the plus sign next to it. Select the day you want and select a time (times reflect the beginning of that recording).
+•	You can use the controls to fast forward, pause, etc. 
+•	To reset, select the appropriately labeled layout from the menu on the left. 
+Logging In
+•	It may sometimes be neccessary to log back into the camera program (passwords can be found on a note in the drawer to your left).
+•	To do this, select Sentry VMS (or Monitor Station) from the lower monitor on either computer. You will have to do this four times, once for each monitor.
+•	Make sure each layout is correctly matching form the menu on the left of the screen and the label on each monitor (1A, 1B, 2A, 2B).
+If cameras go down
+•	Cameras often go down on the computer. They will turn gray and we will get no feed from them. Sometimes it is a glitch in the system and will come back up quickly (the cameras at 216 Grapevine sometimes do this). Other times it is permanent and needs to be fixed. 
+o	Note: If a camera appears black, look more closely. It is probably just dark where the camera is pointed. When a camera goes down, the screen will be obviously all gray. 
+•	If at any point a camera feed goes gray on the computer screen, wait a moment. If it does not come back up in a minute or two, close that window and log back in. If it is still down, notify the officer which camera is not functioning. If it is still down by the end of your shift, send an email to CTS from the dispatch email letting them know which camera is down and when it went down.
+•	If all the cameras go down at once. Immediately let the officer know that all the cameras are currently down. Try restarting the program. If this does not fix the problem call CTS (or email if it is not during business hours)
+•	If the camera for the Cashier's office goes down, immediately notify the officer and follow the same steps to try and fix it. This is because a lot of money is handled through this office and it is important for security reasons to have the cameras up. 
+Confidentiality
+•	As with all other things in the office, what is seen on the cameras is to be kept confidential and only shared with other members of the department on a need to know basis. 
+•	At no time should you be using your phone (or other device) to take pictures or video of what is on a camera feed (including if you see a close friend on one of the cameras). 
+•	Capturing images of people on the camera system is an invasion of privacy and is a serious offense. 
 
 6.4	Scanner
-Speakers for our radio scanner are on the window sill behind the dispatch computer. We monitor several local channels but the most important are the Wenham PD and FD channels. You are permitted to turn down the volume on scanner during high traffic times (meaning multiple stations are talking as is GCDPS) if it is distracting you from listening to the Gordon radio. However it is NEVER all right to turn the volume all the way down. The scanner should also be audible over any movies, games, or music you are listening to while in the office. Monitoring the scanner may seem pointless, but Wenham may try to contact us over the radio or you may hear about an incident near the campus (i.e. Grapevine Rd., Parsons Hill, or Iron Rail) that you or the officer should be aware of. It is also possible in a world of cell phones that there is an emergency called in to 911 by a cell phone on campus that the officer will need to respond to.
+Speakers for our radio scanner are on the window sill behind the dispatch computer. We monitor several local channels but the most important are the Wenham PD and FD channels. You are permitted to turn down the volume on scanner during high traffic times (meaning multiple stations are talking as is GCPD) if it is distracting you from listening to the Gordon radio. However it is NEVER all right to turn the volume all the way down. The scanner should also be audible over any movies, games, or music you are listening to while in the office. Monitoring the scanner may seem pointless, but Wenham may try to contact us over the radio or you may hear about an incident near the campus (i.e. Grapevine Rd., Parsons Hill, or Iron Rail) that you or the officer should be aware of. It is also possible in a world of cell phones that there is an emergency called in to 911 by a cell phone on campus that the officer will need to respond to.
 Any time you overhear anything on the scanner that the officer should be aware of, radio him/her to make sure they heard it as well.  This includes BOLOs (Be On the Look Out).
 
 6.5	RRC Back Doors and Mirror
