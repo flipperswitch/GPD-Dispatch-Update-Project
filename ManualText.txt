@@ -475,6 +475,8 @@ o	This line should not ring more than once.  Everything should be dropped to ans
 o	If you are on another line you should immediately put that person on hold and answer the emergency line.  It is suggested that you say quickly and clearly “I’m sorry, please hold.”  After you are finished with the emergency line, you should then pick up the call you had on hold and apologize and explain that you had to put them on hold suddenly due to a call on the emergency line.
 •	Answer this line: “Gordon College Emergency Center, this line is recorded?”
 •	Never put this line on hold (except in the rare case that you get a second emergency line call).
+o	The best course of action if another emergency call comes in is to quickly conference the first emergency with regional, hang up, and then take the second emergency call. 
+o	If you are in a conference call you must hang up the phone before taking another call. Otherwise, the conference call will fail on all three of the connected lines and regional will no longer be talking to the caller. 
 o	If a second call comes in on the emergency line, it is significantly less noticeable.  The computer will give its alert and you will hear a call waiting like beep on the phone.
 •	Only hang up when the officer arrives on scene, unless circumstances prevent the caller from remaining on the line (for example, if they are calling from a room phone reporting smoke in the building).
 •	If someone calls in with a non-emergency Police call, inform the caller that they have dialed the wrong number and then transfer him or her to the 4444 line to free up the emergency line.
@@ -572,28 +574,23 @@ One of the most important tasks of a dispatcher is that he or she quickly and ac
 You should also be somewhat familiar with these protocols before coming in for your first training session. Please review these procedures regularly. They must be strictly followed, as it is very important that we respond to emergencies efficiently and uniformly.  If you ever feel that some time has passed since you last dispatched an emergency call and you would like to practice, ask the officer working with you or a Senior Dispatcher to give you a practice drill.  Practice drills may sometimes be scheduled for you without your advance notice to keep your skills sharp.  If at any point, you struggle to dispatch an emergency appropriately, remedial training will be arranged and you will be asked to develop a plan for your own skills development.  Due to the important nature of emergency dispatch, dispatchers who continue to struggle with emergency procedures after remedial training may be subject to dismissal.
 
 Emergency situations are always toned out over the radio before being dispatched.
-•	These tones are heard on both Physical Plant and Public Safety channels (1 & 3).  Those persons who monitor channel 1 may then move over to channel 3 to hear the nature of the emergency.
+•	These tones are heard on both Physical Plant and Gordon Police channels (1 & 3).  Those persons who monitor channel 1 may then move over to channel 3 to hear the nature of the emergency.
 •	You will conduct the entirety of the emergency dispatch only on Channel 3.
 •	The fire tone is automatic in the event of a standard fire alarm, when an existing alarm is not already in the system.
 •	In other cases, you will activate a tone manually by pressing the appropriate button on the radio console.
-o	Fire
-o	General Tone
-o	Medical
+o	Fire Tone
+o	General ("Alert") Tone
+o	Medical Tone
 Fire Alarm Tone Issues
 •	In the event of a local fire alarm or pre-alarm, the tone will not go out. You will have to press the tone button manually. The fire tone needs to go out over the radio for all fire alarms and/or reports of fire or visible smoke.  We will also use the fire tone for other escalated events that do not qualify as medical emergencies but are more significant than the response a general tone suggests.  An example would be in the case of a bomb threat.
 Calls that come in during an emergency
 •	You will still receive phone calls, people at the desk, etc. during an emergency.
 •	Handle these requests in the normal manner but stop what you are doing immediately if you receive an update on the emergency (i.e. if you see Wenham drive up and you radio the officer, or the officer calls you with additional information).
-•	You must never put an emergency call on hold (see section 4.3a).  Unless it is to answer another call to the emergency line only.
+•	You must never put an emergency call on hold (see section 4.3a).  Unless it is to answer another call to the emergency line only. Although, it is always better to quickly conference the first call with regional, hang up, and then take the next emergency call. 
 •	Only new emergency calls should be given to the officer during an ongoing emergency.  No business related calls should be relayed to the officer.
 •	If people call in with a request for the officer you can inform them of the emergency and explain that it may be some time before the officer can help them. Take a call back number and inform the caller that you will let them know when the officer is free.
 Radio Silence
 •	During any type of emergency, there should be complete radio silence on your behalf unless it directly pertains to the emergency in progress or a new emergency call/alarm.  All officers and personnel with radios should be aware of this policy.
-Marking officers on Patrol and Incident Reporting
-•	In the case of any emergency call of any type you will want to do two things automatically as soon as you have a moment after the initial dispatch.
-•	One is marking the responding officers as “on patrol” on the dispatch computer as they will be too busy responding to the emergency to think to ask you themselves.
-•	The other is you will want to start an incident for the event on the computer.  All instances where a call is significant enough that it had to tone the radio, we want to automatically begin an incident for the officer.  Include whatever pertinent details are relevant including arrival and clear times of our officers and any outside agencies as well as anything else that the officer asks you to “log.”
-•	Your dispatch log for any incident for which you generate an incident number will simply be the call time and the incident number.  All other details should be written into the incident narrative.
 Regional Dispatch and our relation to them
 •	Regional dispatch is the dispatch center for the County of Essex region.  Some neighboring towns still maintain their own independent dispatch centers such as ECO in Hamilton.  The Town of Wenham however, uses Essex Regional Dispatch.
 •	Regional is our main point of contact for assistance from outside agencies such as Wenham Police, Wenham Fire, and Ambulance Response.  We also contact them for other needs such as animal control, fire permits, and information.
@@ -612,7 +609,7 @@ o	“102 from control: 10-7E.  I repeat: 10-7E.”
 •	If the dispatcher believes it is unsafe to remain at the dispatch station while waiting for the officer (e.g. someone with a weapon outside the window, etc.), he or she should immediately take the dispatcher portable radio and retreat to the bathroom, locking the door once inside.  While en route or as soon as possible, the dispatcher should transmit the “10-7E” call (as above), including explanation that the dispatcher is in the bathroom and any additional information about the threat.
 •	If you feel the situation warrants and you are not worried about escalating the situation, you may proceed your dispatch by the general tone.
 •	The 10-7E is for real emergencies and safety threats only.  For instance, if a group of people were pulling a prank by throwing water balloons or knocking on the windows, this would not constitute a 10-7E.  Simply radio the officer and inform them of the situation.
-
+•	If you need to be discreet or are unable to send a dispatch for any reason, you can also pull one of the two panic buttons in the office. (Located under the dispatch desk and under the front counter). This is the same as saying "10-7E" over the radio adn will alert the officer that there is an emergency in the office.
 5.4	Request for Medical Aid
 All medical aid requests are treated as an emergency, and they are ALL toned out.  As you are not at the scene and are not qualified to classify the seriousness of a medical issue, you must tone out even basic requests (regardless of what the caller may say to you).  You may feel silly toning out small or routine problems, but it is much better for us to treat everything with the same degree of response than to underestimate the complexity of a problem.
 •	If you feel that a call that sounds medical in nature is simply an individual attempting to obtain a medical item, clarify the request.  Examples of these type calls are students trying to find a band-aid to apply to a cut or an ice pack to apply to a twisted ankle.  The distinction is this: if they are looking for either assistance with the medical issue or even advice about whether they should seek further treatment, tone it as a medical.  If they are simply trying to obtain an object, you may dispatch as you would any other call.  As always, our motto remains: “when in doubt, tone it out.”
@@ -652,16 +649,16 @@ Some Psychological Emergencies will be treated as requests for medical aid and o
 We can receive two types of fire alarms through our fire panel in addition to notification of fire or smoke called in by an individual.
 5.6a Standard Fire Alarm
 This is a real fire alarm detected by one of our fire computers. Alarms will sound in the building involved to evacuate the building. An emergency tone will be sent directly to Regional, though they will not know the specific location of the alarm until you call them.
-•	You will hear an alarm over the Notifier Net and OnyxWorks (the fire computer).
+•	You will hear an alarm over the the fire computer.
 •	The Fire Tone will automatically go out over the radio unless another alarm is already active in the system.
 •	The RED light on the panel will light up, indicating that you should call Regional.
 •	Never assume that the alarm activation is only one alarm until you confirm that fact on the computer.  Two alarms coming in simultaneously sounds exactly the same as one or many.
 5.6b Local Fire Alarm
 These alarms are located in areas where there is likelihood of non-emergency smoke (such as cooking smoke). As they will often activate when there is no active fire, they only sound locally; alarms will NOT sound to evacuate the building and an automatic tone will NOT go to Regional.
-•	You will hear an alarm over the Notifier Net as well as OnyxWorks.
+•	You will hear an alarm over the fire computer.
 •	You will have to press the fire alarm tone button to tone out the alarm.
 •	The GREEN light will stay lit on the panel and the red light will not become illuminated.
-•	When you call Regional, you will state: “This is the Gordon College Dispatcher. We just received a LOCAL fire alarm activation in [specific location]. Our officer is responding, and building has NOT yet been evacuated”.
+•	When you call Regional, you will state: “This is the Gordon College Dispatcher. We just received a LOCAL smoke detector activation in [specific location]. Our officer is responding and the building is NOT beening evacuated."
 
 5.7	Report of LOCAL Smoke Detector Activation & Report of Fire/Smoke
 •	You will have to press the fire alarm tone.
@@ -683,7 +680,7 @@ Our fire detection system is able to warn us when it is malfunctioning. This mea
 If you get a new trouble alarm on your shift, you should:
 •	Radio the officer every time and inform him/her of the trouble.
 •	IF THE OFFICER TELLS YOU TO DO SO, contact Mike Favaloro (M12) on channel 1 or channel 3 (he could be on either) or via cell phone.
-•	Record the trouble in your log and create an online entry with physical plant including as many details from the alarm computer as possible and what action was taken.
+•	Create a call for the trouble alarm, including as many details from the alarm computer as possible and what action was taken.
 
 Occasionally a trouble may come in and clear repeatedly. If the person you relieve warns you about a repeat trouble at shift change or if the officer tells you, you do not need to log the trouble every time it comes in. However, it can be helpful to keep track of how frequently a repeat trouble comes in on a piece of scrap paper to inform the officer or M12.
 
@@ -720,7 +717,7 @@ Through the Alertus system, which is the system we use to alert the campus to ha
 •	Give any updated information you gather to the officer but be aware that they cannot “call off” the officer response, the officers will still go even if they say everything is all right.
 •	These alarms will be tested weekly and you will be notified when they are tested.
 •	All panic alarms that are not for testing should generate an incident and log entry with the incident number.
-•	If you receive a panic alarm for the Bennett Center Pool, be aware that the wording on the alert is intended for the Bennett front desk staff and may sound weird to you.  You should call the Bennett front desk as the callback number and dispatch this particular alarm as a medical for a potential drowning.
+•	If you receive a panic alarm for the Bennett Center Pool, be aware that the wording on the alert is intended for the Bennett front desk staff and may sound weird to you. This particular alarm is dispatched as a medical for a potential drowing. You should dispatch the officer first, then call the Bennett front desk as the callback number, and the call Regional. 
 •	You will also receive through this same system, any alerts to the general campus that go to all campus owned computers, Alertus boxes in key strategic locations and announcement monitors (such as in lane and the library).  Examples are in the case of lock down, storm emergencies, school cancellation, security notices such as a dangerous person on campus…etc
 •	You should be notified about these general campus alerts before they go out and you do not need to follow up on them unless instructed to do so.
 
@@ -738,23 +735,23 @@ ________________________________________
 Part of the roll of a dispatcher is to watch for suspicious or potentially hazardous activity around campus. While in the dispatch office you have access to the campus cameras and police scanner, and you can control a few of the gates and sometimes the door to RRC. You can, in effect, be in more than one place at a time by monitoring the cameras in addition to your other duties, so it is important to be aware of these things. Notify the officer of any suspicious persons or situations so that he or she can look into the situation. You will also receive calls from various parties requesting access to different locations on campus. It is your responsibility to gather all relevant information before radioing the officer with the request.
 
 6.1	Lockouts and MasterPermission
-These two admittance request items are handled in a similar manner. First, find the person’s name in our computer and, sERDnd, verify that he or she has permission to access the location that he or she requested.
+These two admittance request items are handled in a similar manner. First, find the person’s name in Master Permission and verify that he or she has permission to access the location that he or she requested.
 •	Lockouts
-o	When a student is locked out of a residence hall or specific room, he or she will call Public Safety if the RA or RD is unavailable. One of the first questions we should ask is whether or the student’s RA or RD is able to help, especially with room lockouts.  If no one else is able to help the student . . .
+o	When a student is locked out of a residence hall or specific room, he or she will call Gordon Police if the RA or RD is unavailable. One of the first questions we should ask is whether or the student’s RA or RD is able to help, especially with room lockouts.  If no one else is able to help the student . . .
 o	Find the student’s name using MasterPhone and confirm that he or she actually lives in the requested hall or room.
 o	If the caller is a guest or a student who is a resident of a different hall, he or she will have to call the host/friend in the building to be let in. We cannot accommodate such requests.
-o	If a student or staff member calls in regards to a door that is locked during a scheduled reservation, always verify it on the Weekly Report.  If you cannot find the event on the Weekly Report, check blackboard to ensure it was not on an update sent from Auxiliary Services which would be posted in the announcements section under “Weekly Report Updates.” If it is not on the report and there is no posted update or other printed note in the office ALWAYS radio the officer to confirm that there has not been any other emails, updates, or direct notifications to the officer of the reservation BEFORE instructing the caller that we cannot help them.
-	If it is not on the report and if there was no update from Auxiliary Services, and the officer has no knowledge of any exceptions, inform the caller that we cannot open the space for him or her without authorization from Auxiliary Services that the space was officially reserved.
-o	If you have verified the room reservation on the Weekly Report, notify the officer of the lockout request.
+o	If a student or staff member calls in regards to a door that is locked during a scheduled reservation, always verify it on the the master calander on 25 Live  If it is not on the report and there is no posted update or other printed note in the office ALWAYS radio the officer to confirm that there has not been any other emails, updates, or direct notifications to the officer of the reservation BEFORE instructing the caller that we cannot help them.
+	If it is not on the report and if there was no update from Facilities Use and Space Planning, and the officer has no knowledge of any exceptions, inform the caller that we cannot open the space for him or her without authorization from Faciliteis Use and Space Planning that the space was officially reserved.
+o	If you have verified the room reservation in 25 Live, notify the officer of the lockout request.
 	NOTE: If the request is for a room in KOSC, CBMW or the Tavilla Conference Room, check with the ACDC if he or she is in office, as those areas can be opened automatically from Rodger.  Some residence hall exterior doors can also be opened automatically, though it is wiser to send the officer to tend to those requests in person since they pertain to residential living space.
 •	MasterPermission
 o	If a student requests access to a locked space on campus, confirm that he or she has permission using the MasterPermission database.
 	Pay attention to any time and date restrictions that may be placed on the student.
-	Verify that the caller is already AT the location that he or she wishes to be admitted to.  Officers will not accept a 10-20 request if the caller is asking something like, “Can the officer let me into [area] in 15 or 20 minutes?”
+	Verify that the caller is already AT the location that he or she wishes to be admitted to.  Officers will not accept an admit request if the caller is asking something like, “Can the officer let me into [area] in 15 or 20 minutes?”
 o	We cannot let students in to locked areas without prior permission from a professor or supervisor of some kind.
-o	If the name is not found in MasterPermission, the officer may have you ask the student to have his or her professor/supervisor call or email Public Safety to receive permission.  However, for regular access we must have permission on file in our office.
+o	If the name is not found in MasterPermission, the officer may have you ask the student to have his or her professor/supervisor call or email police@gordon.edu to receive permission.  However, for regular access we must have permission on file in our office.
 o	At no time, should you give a yes or no response for an access request without FIRST radioing the officer, there always may be extenuating circumstances or arrangements that you have not been apprised of.
-With both types of 10-20’s, ask the person calling to call us back if they gain access before the officer arrives. This will prevent the officer from wasting time going to needless requests. All admittance requests should be entered on your dispatch log (appropriately note whether the person was admitted or denied).
+With both types of admits, ask the person calling to call us back if they gain access before the officer arrives. This will prevent the officer from wasting time going to needless requests. All admittance requests should be entered on your dispatch log (appropriately note whether the person was admitted or denied).
 6.1a Access Control (Key Cards)
 The access control system includes all Gordon issued key cards and automatic door locks.  Dispatchers are never required to know how to manage the access control system, but it is helpful to know how to handle calls or requests for access control needs.
 Card Access
@@ -762,18 +759,16 @@ All students who have card access to areas on campus other than their residentia
 •	Name of individual.
 •	Description of the problem.
 o	If the problem is related to proximity doors (KOSC, CBMW & Bromley & Chase entrances), please acquire the “prox” number (see graphic).
-
 o	This number is located on the rear of the ID card along the very bottom edge.  The prox number is the first 5 digits of the long number string.  Cards do not need to be encoded for prox access.
 o	If the problem is related to the card swipe doors (Chase, Tavilla, Fulton, Nyland, etc.), advise the individual to see Auxiliary Services between the hours of 0800 and 1630, but please get a detailed description of the problem.
 •	If the person requesting card access is a student, inform him or her that we need authorization from a professor or departmental authority before setting up card access.  Dispatchers can double check the Master Permissions database to verify whether or not we have already received such authorization.
-•	Please give all of the aforementioned information to the ACDC in an email or a clearly written note with your initials, time and date.
+•	Please give all of the aforementioned information to the ACDC in an email.
 •	You may also feel free to give the ACDC’s business card (located on the windowsill near the service counter) which includes the ACDC’s extension for voicemail and email address for problems that seem complicated.
-•	If a student comes into the office for a replacement for a lost or damaged ID card outside of business hours, you may first ask the officer if they are available to print a card.  Some officers are able to do this and others are not and their availability is dependent on shift business.  However, during business hours, if the ACDC is not in an officer or the Access Control Assistant will always be available to do this in place of the ACDC.
-Door Schedules & the Weekly Report
-•	Please note that there are several areas on campus that function on automatic door schedules.  These are always programmed by the ACDC.  However, if someone calls or comes into the office claiming that a scheduled door (such as in Ken Olsen or a Chase classroom) is locked, treat the situation like a normal 10-20 request.  After the 10-20 is dispatched please send the ACDC the details of the problem.  Again, these room reservations should be on the Weekly Report, though sometimes things slip through the cracks.  No matter the reason, the ACDC should be alerted that a problem occurred.
+•	If a student comes into the office for a replacement or damaged ID card, inform them that CTS handles ID card replacement. 
+•	Please note that there are several areas on campus that function on automatic door schedules.  These are always programmed by the ACDC.  However, if someone calls or comes into the office claiming that a scheduled door (such as in Ken Olsen or a Chase classroom) is locked, treat the situation like a normal admit request.  After the request is dispatched please send the ACDC the details of the problem.  Again, these room reservations should be on the Weekly Report, though sometimes things slip through the cracks.  No matter the reason, the ACDC should be alerted that a problem occurred.
 
 6.2	The Gates
-We monitor two gates from the office: the main gate outside the dispatch window and the Woodland lot gate (seen through Camera 4 on the monitors). When the gates are down, the main gate is the only legal access to the campus, so anyone coming to the college should pass by us. A dispatcher will never deny a person entry to campus. However, if you ever think that something is not right with a situation and/or you feel that someone is giving you false information/should not be on campus, notify the officer of the situation and give a good description of the vehicle. If possible, try to stall the suspicious party before letting them in to allow the officer to find them.
+We monitor two gates from the office: the main gate outside the dispatch window and the Woodland lot gate. When the gates are down, the main gate is the only legal access to the campus, so anyone coming to the college should pass by us. A dispatcher will never deny a person entry to campus. However, if you ever think that something is not right with a situation and/or you feel that someone is giving you false information/should not be on campus, notify the officer of the situation and give a good description of the vehicle. If possible, try to stall the suspicious party before letting them in to allow the officer to find them.
 
 6.2a Main Gate
 The Main Gate is to be closed by the dispatcher whenever the officer secures the BCA Gate at night (around 2200) and is to be raised when the BCA gate is opened or at 0600, whichever comes first.
@@ -792,7 +787,7 @@ o	If the driver responds that he or she is just dropping someone off or that the
 •	If the driver is a student, ask why the vehicle is not registered.  If the driver is a staff member, have him or her come inside and register (FREE registration for all staff and faculty).
 o	If the driver has not had time to register yet, tell him or her to come in and register the vehicle immediately. It only takes a few minutes.
 o	If the student refuses, you may let him or her through, but you should let the student know that he or she is at risk of receiving a citation.  You should then give the vehicle information to the officer on duty and the possible location that the student is headed.
-o	If the student is waiting on information for registration, or is borrowing the car, have him or her come inside to get a temporary parking pass for $5 or risk a citation for $25 or $60 for excessive violations.
+o	If the student is waiting on information for registration, or is borrowing the car, have him or her come inside to get a temporary parking pass for $20 or risk a citation for $25 or $60 for excessive violations.
 	Students who are borrowing a vehicle, but already have a different vehicle registered for the current school year, do not need to pay for the temporary pass.  The normal registration fee covers it.
 •	If the person is not a student or staff member, you should ask them what his or her purpose on campus is.
 o	If he or she is staying over night, a 3-day visitor pass is necessary. These passes are free for visitors (see section 10.2).
@@ -800,10 +795,10 @@ o	If the visitor is just dropping off/picking up, confirm the name and location 
 6.2b Woodland Gate
 The Woodland lot gate is closed automatically from 1800-0600 nightly.
 •	Gordon community members can swipe an ID card to open the gate.
-•	We have the ability to raise the gate for one car at a time to pass through (“Remote Gate” button on right side of console).
-•	This gate will automatically lower behind each car, so if a sERDnd car follows, the gate may come down on it.
+•	We have the ability to raise the gate for one car at a time to pass through.
+•	This gate will automatically lower behind each car, so if a second car follows, the gate may come down on it.
 Woodland Gate Protocol
-•	If someone buzzes the intercom, ask if the driver if he or she is a current student.
+•	If someone calls the intercom (black and gray pohone behind the police line), ask the driver if he or she is a current student.
 •	If the driver claims to be a student, verify by asking for his or her name and ID number and confirming this information in the computer.
 •	If he or she is not a student, ask for his or her reason for being on campus. As with the main gate, verify any information about who/where he or she is visiting in the computer before letting them in.
 •	If you believe that the person should not be on campus or that the person is giving you false information, stall them and notify the officer before opening the gate.  Once you open the gate, monitor the vehicle using the cameras and relay any relevant information to the officer, such as location and any suspicious activity.
