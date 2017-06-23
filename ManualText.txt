@@ -889,6 +889,8 @@ Section Eight: Other Logs and Forms
 8.2	Escort Log
 8.3	MV Tow Log & Bike Confiscations
 8.4	Absentee Parking Passes
+8.5	Missing/Added/Changed Information Log
+8.6	Move CITATION PETITIONS here from section 13.10?
 ________________________________________
 8.1	Work Request Items
 Physical Plant
@@ -898,32 +900,35 @@ Work orders for Physical Plant are handled online. When the officer requests you
 •	Click on “Physical Plant.”
 •	Select “Work requests.”
 •	Click “Enter a new request.”
-•	Scroll to the bottom of the drop down list to select “publicsafety.”  - if you do not see a drop down list here, notify the ACDC so that your access level in the system can be adjusted.
-•	Enter 4444 as the phone number and Public Safety as the department.
+•	Scroll to the bottom of the drop down list to select “Police.”  - if you do not see a drop down list here, notify the ACDC so that your access level in the system can be adjusted.
+•	Enter 4444 as the phone number and Police as the department.
 •	Fill in any information provided by the officer.   As much as possible, entries should be word for word descriptions as provided by the officer.  If you are unsure of the wording, read it back to the officer before submitting.
 •	Click “Submit.”
 CTS
 Work orders for CTS usually only fall under the category of major network emergencies or outages or problems with campus phones or our cameras.  We do not have to enter work orders for individuals who call us with network problems.  They can be connected directly to CTS (x4500).
 
-Dispatchers may enter CTS work requests for issues involving campus phones and technology if instructed by the officer (as with Physical Plant work orders), which can be done by emailing CTS@gordon.edu.  Always use the dispatch email function for these emails so that they are sent from the publicsafety@gordon.edu email address rather than your personal email address.
+Dispatchers may enter CTS work requests for issues involving campus phones and technology if instructed by the officer (as with Physical Plant work orders), which can be done by emailing CTS@gordon.edu.  Always use the dispatch email function for these emails so that they are sent from the police@gordon.edu email address rather than your personal email address.
 
 8.2	Escort Log (App. Escort Log)
-In the event of an escort (10-14E), you need to log the information in your dispatch log and also on a separate escort log, containing other necessary information used for quality control purposes. The escort log can be found on a clipboard to the right of the main dispatch console. On your dispatch log, record the name of the caller, the time, and the code 10-14E under the situation field. In the escort log, put the time that the call came in (same as in your log), the name of the person requesting an escort, where he or she is going (from and to), the officer responding, his or her arrival time, and his or her clear time.
+In the event of an escort, you need to log the information in Report Exec and also on a separate escort log, containing other necessary information used for quality control purposes. The escort log can be found in a binder to the right of the main dispatch console. In Report Exec, record the name of the caller, the time, and "Assistance: Escort" as the call type. In the escort log, put the time that the call came in, the name of the person requesting the escort, where he or she is going (from and to), the officer responding, his or her arrival time, and his or her clear time.
 
 8.3	Tow Log & Bike Confiscations (App. Tow Log)
 MV Tows
-In the event of a vehicle tow, record the information in both the tow log and your dispatch log.  The tow log is kept in a binder in the cubby underneath the dispatch console desk.  If someone comes to us saying his or her vehicle has disappeared, before treating it as a stolen item, check the logs see if it was towed.  If the vehicle has been towed, inform the party where his or her vehicle has been moved (usually the Woodland lot).  The owner will have been cited for the parking violation as well as the towing fee.
+In the event of a vehicle tow, record the information in both the tow log and Report Exec.  The tow log is kept in a binder to the right of the dispatch console.  If someone comes to us saying his or her vehicle has disappeared, before treating it as a stolen item, check the logs see if it was towed.  If the vehicle has been towed, inform the party where his or her vehicle has been moved (usually the Woodland lot).  The owner will have been cited for the parking violation as well as the towing fee.
 Bike Confiscations
-If the officer radios you with a bike confiscation, you will need to record the bike confiscation in the dispatch computer and on your dispatch log.
-•	Click “MasterBike” and “Enter New Bike Confiscation”.
+If the officer radios you with a bike confiscation, you will need to record the bike confiscation in MasterBike and in Report Exec.
+•	Click “MasterBike” and “Enter a New Confiscation”.
 •	Ask the officer if the bike has a sticker.
+•	Fill out the form with the details provided by the officer.  If the officer does not give them to you, ask for the make, model, color, location found, serial number and reason confiscated.
 •	Give the officer the confiscation number.
-•	The confiscation form should print to the dispatch printer.  Fill out the form with the details provided by the officer.  If the officer does not give them to you, ask for the make, model, color, location found, serial number and reason confiscated.
-•	Once the form is completed, go back into MasterBike and click “Enter Data For Existing Confiscation”.  Type in the details of the confiscated bike and then submit the form.  The paper form can be recycled.
-If a student comes into the office claiming his or her bike has been stolen or lost, check the bike confiscation list in MasterBike before reporting it as stolen.  There is usually a $15 punitive fine for the retrieval of a confiscated bike.  To retrieve a bike, the party must obtain a receipt for the fee from the cashier’s window in Frost.  After ownership is verified and the fee is paid, an officer can take the owner to the confiscation area to retrieve his or her bike.
+If a student comes into the office claiming his or her bike has been stolen or lost, check the bike confiscation list in MasterBike before reporting it as stolen.  There is usually a $15 punitive fine for the retrieval of a confiscated bike. To retrieve a bike, the party must take a Confiscated Bike Slip to the Cashier's window in MacDonald and bring back a reciept or pay the fine on CashNet. After ownership is verified and the fee is paid, an officer can take the owner to the confiscation area to retrieve his or her bike.
+•	If the individual believes they should be exempt from the $15 fine, they should be directed to speak with the officer.
 
 8.4	Absentee Parking Passes (App. Green Pass and Waiver Form)
-During the summer, students who will be off campus for any length of time and will be leaving their cars here will need to obtain an absentee parking pass.  They are required to fill out an application for absentee parking and assumption of risk with the vehicle’s information as well as the time period that they plan on being away from campus.  Dispatchers fill out a green Absentee Parking Pass to be placed on the dashboard of the car, with the vehicle information.  An officer or the ACDC needs to sign both forms before the pass is valid.  These cars are typically parked in lot G or H.  During the summer, these forms are kept in a folder near the citation petition forms under the key lock box.
+During the summer, students who will be off campus for any length of time and will be leaving their cars here will need to obtain an absentee parking pass.  They are required to fill out an application for absentee parking and assumption of risk with the vehicle’s information as well as the time period that they plan on being away from campus.  Dispatchers fill out a green Absentee Parking Pass to be placed on the dashboard of the car, with the vehicle information.  An officer or the ACDC needs to sign both forms before the pass is valid.  These cars are typically parked in lot G or H.  During the summer, these forms are kept in a folder near the citation petition forms next to the lost and found cabinet.
+
+8.5	Missing/Added/Changed Information Log
+Anytime that you are notified of updated or incorect information that you are not able to correct, there is a log to the right of the dispatch desk where this can be logged for data entry. This could include incorrect information in MasterFiles or any updated information that we are notified about (vehicle plates, cell phone numbers, vehicle descriptions, etc.). This log will be checked regularly by senior dispatch staff. Be sure to intitial and each entry in case there are follow up or clarification questions.
 
 Section Nine: Dispatcher Shift Information
 9.1		Shift Length
@@ -939,7 +944,7 @@ Section Nine: Dispatcher Shift Information
 9.11	Mandatory Shift Coverage Requests
 ________________________________________
 9.1	Shift Length
-During the school year shifts are typically 4 hours long.  Some experienced dispatchers will work 8-hour shifts but these are unusual.  During scheduled campus breaks (i.e. summer) shifts will usually be 8 hours long.  The shift cycle starts at 0000 (or midnight) or sometimes 0400 (or 4am) for breaks, and is always noted in military time.
+During the school year shifts are typically 2 hours long.  Some experienced dispatchers will work 8-hour shifts but these are unusual.  During scheduled campus breaks (i.e. summer) shifts will usually be 8 hours long.  The shift cycle usually starts at 0400 (i.e. 0400-1200, 1200-2000, 2000-0400) for breaks, and is always noted in military time.
 
 9.2	Desk Coverage and Breaks
 During your shift you should remain at the dispatch station AT ALL TIMES.  At no time should you go past the front counter without proper substitute coverage at the desk.
@@ -956,17 +961,15 @@ While you are on a break:
 Because we are an emergency response center, we cannot reiterate enough the importance of never leaving the desk for any length of time.  Please do not abuse your privilege to take a short break.
 
 9.3	Beginning a Shift
-You are expected to come in at least 5 minutes before your shift begins so that you are completely ready to take over on the hour. As you begin your shift, you should:
+You are expected to come in at least 10 minutes before your shift begins so that you are completely ready to take over on the hour. As you begin your shift, you should:
 •	Note which officer is on duty from the dispatcher you are relieving as well as any relevant information and ongoing situations.
-•	Check the fire computers to see any existing troubles and their locations so you can rERDgnize a new trouble should one come in.
-•	Log into Blackboard and read ALL announcements, check for new information on the discussion boards, including the shift coverage page to see if anyone needs coverage.
+•	Check the fire computers to see any existing troubles and their locations so you can recognize a new trouble should one come in.
+•	Log into your email to check for any new anouncements or shift coverage requests.
 •	Check for any new notices in the at hand information folder, on the bulletin board, the tack strip, or the white board.
 •	Check the counter to see if there is anything waiting to be picked up and make sure you understand who will collect the item and when.  Ensure there is a properly initialed, timed, and dated note on the item indicating all of the above. Additionally make sure the person has been notified that the item is in the office by either phone or email.
-•	Take a blank log from the bin and fill out all of the header information.
+•	Log into Report Exec and put yourself on duty as "dispatch."
+•	Log into MasterFiles and the Go! site on the general use computer. 
 •	Officially relieve the dispatcher on duty.
-o	The first line of your log should read, “Relieved [name of person you relieved]” with the time you actually relieved them.
-o	This time should match the time he or she notes being relieved at the end of his or her log.
-o	If you are unsure of the time they used, ask him or her before he or she leaves or check the previous log.
 
 9.4	Ending a Shift
 Before you leave at the end of your shift, be sure you have done the following:
@@ -974,32 +977,32 @@ Before you leave at the end of your shift, be sure you have done the following:
 •	Notify the relieving dispatcher of anything that you know they can expect to happen during their shift.
 •	Point out any new notices or notes and explain them.
 •	Ensure that any item left in the office from your shift has a note attached to it fully explaining its purpose there with your initials, the date and time.
-•	Enter the relief in your log as the last entry.
 •	Fill out your timesheet.
 
 9.5	Time Sheets and Time Paid (App. Timesheet)
 It is college policy that student workers are paid in 1/4-hour increments, with shift start and end times rounded to the nearest quarter hour.  If everyone is on time, this is easy.  When someone is relieved late, it must be done this way:
-•	Round the time that the relief officially occurred (the time written on the dispatch logs) to the nearest quarter hour.
+•	Timesheets can be found on the Go! site under "Student Links"
+•	Round the time that the relief officially occurred to the nearest quarter hour.
 •	For example: If you relieve Joe Dispatcher at 1205, this is closer to 1200 than 1215, so you begin being paid at 1200. Your time sheet should indicate being on at 1200 and Joe’s sheet should indicate being off at 1200.  If, however, you relieve Joe at 1208, this is closer to 1215. Your timesheet must indicate work starting at 1215 and Joe gets the extra 15 minutes of pay.
 o	DO NOT abuse the system by continuously being 5-7 minutes late and taking the quarter hour of pay.  This is dishonest and unfair to the dispatcher whom you are relieving.  Shift changes are emailed to the ACDC and the officers, so they will be able to note who is continuously late. Repetitive tardiness will not be tolerated and can be grounds for termination.
 •	It is NOT acceptable for both dispatchers to take the 15-minute increment. You must figure out the proper rounding and agree together who will mark the extra 15 minutes on the time sheet.
 •	The ONLY instance when both dispatchers may be paid for the same time is when an emergency is ongoing at the scheduled shift change time. The incoming dispatcher should begin being paid at the normal shift change time; the outgoing dispatcher should be paid to the nearest 15-minute increment when the emergency ends and he or she actually leaves. In such cases, the dispatcher taking the extra pay should mark the time sheet entry with an asterisk and note that there was an emergency at the bottom of the time sheet (see section 9.6). An email should be sent to the ACDC alerting that this has occurred.
 •	If you arrive 15 minutes early, you are NOT paid for this time.  The earliest you can begin being paid is the start of your normal shift time (unless you actually arranged ahead of time to cover a part of the shift for another dispatcher).
-•	Please use military time for your time sheets.
 
 9.6	Emergencies at Shift Change
 If an emergency call comes in near the end of your shift and it is still going on when your relief arrives, it is expected that you will stay to finish the emergency before being relieved.  Mistakes are easily made when dispatchers switch in the middle of an emergency.
 
-If you feel that it is the type of situation that might continue for an extended period of time (over 30 minutes), you may request the officer to authorize your relief and departure and then note that it was authorized and who authorized it on your log.  Be sure that your relief in this situation is FULLY AND COMPLETELY briefed on all of the details of the situation.
+If you feel that it is the type of situation that might continue for an extended period of time (over 30 minutes), you may request the officer to authorize your relief and departure and then note that it was authorized and who authorized it in the Rerort Exec call.  Be sure that your relief in this situation is FULLY AND COMPLETELY briefed on all of the details of the situation.
 •	NOTE: This is the only instance where it is acceptable for both dispatchers to take the same time increment on their time sheets (see section 9.5).
 
 9.7	Late Relief
 If your relief is late for his or her shift:
-•	Check both the dispatch schedule on the bulletin board (most up to date version is always on Blackboard) and any pending shift coverage threads on Blackboard to make sure you know who is supposed to be working.
-•	Once it is 5 minutes past shift change time, you may call the scheduled dispatcher.  The dispatcher call list is located in the box underneath the citation petitions and time sheets.
-•	If you are unable to reach him or her, notify officer on duty (it is possible that the officer may be able to knock on the dispatcher’s room door).
+•	Check the dispatch schedule on the bulletin board.
+•	Once it is officially time for shift change (i.e. 0800, 1200, etc.), you may call the scheduled dispatcher. The dispatcher call list is located in the the at-hand binder and all numbers are on speed-dial in the operator phone. 
+•	If you are unable to reach him or her, notify the officer on duty (it is possible that the officer may be able to knock on the dispatcher’s room door if they live on campus).
 •	If this is not effective, notify the ACDC and Head Dispatcher of the situation and follow the procedure for finding emergency shift coverage (i.e. call down the dispatcher list).
 •	It is imperative that ANY TIME a dispatcher fails to show up for a shift or is excessively late, you email the ACDC to alert them of what occurred.  This is regardless of whether coverage was found, or you are willing to stay on.
+NOTE: If you are going to be late for a shift (even if it is only a minute or two), as early as possible call the office to let the dispatcher on duty know of the situation. This way they can plan ahead and find coverage for that time if they need to get to class or another commitment. Repeated tardiness for scheduled shifts is grounds for dismissal. If you are having trouble making it on time for a certain shift due to a class or other event that happens just before your shift, speak to the ACDC immidiately, so that the conflict can be resolved.
 
 9.8	Emergency Shift Coverage
 If you receive a call from your relief who is unable to work due to illness, death in the family, or a similar emergency:
@@ -1015,21 +1018,24 @@ There must always be someone working at the dispatch desk (24/7/365). You are re
 
 You are responsible for filling your shift if you cannot work.  Because of the requirement that the desk be covered at all times, failure to cover a scheduled shift or to follow proper shift change procedure is a serious issue and may be grounds for dismissal.
 
-9.10	Shift Change Procedure on Blackboard (procedure can also found on Blackboard)
-When you wish to have a shift covered, you must EMAIL the entire dispatch staff including the ACDC.  The Blackboard post and email must include the following information:
+9.10	Shift Coverage Procedure 
+When you wish to have a shift covered, you must EMAIL the entire dispatch staff including the ACDC by using the email dps-students@gordon.edu. The email must contain the following:
 •	A detailed description of the shift you want coverage for (date, time, brief reason for why you want coverage).
 •	If you feel as though it is mandatory you have the requested shift covered, please email the ACDC explaining your reasons at least 2 weeks in advance.
+•	When multiple dispatchers reply saying they would like to cover a shift, the general rule is first one to respond gets it. 
+•	When a shift is exchanged either the dispatcher giving the shift or the one taking it should cross their name of the shift on the schedule in the back of the office and write the new name in. If they cannot come into the office, they should call and ask the dispatcher on duty to do so for them. 
 The following policies for shift changes apply:
-•	There is NEVER a time when someone else covers your shift and a shift change posting is not required.  Even if you have a sub arranged from the start, notification must be posted (both on the schedule and an email to ACDC copying all parties involved in the swap).
-•	If you arrange coverage and it is not in writing, as an email to the ACDC, and a dispatcher does not show up, it will be your responsibility.  If it’s not in writing, it is still your shift.
-•	You must post a shift change request at least 2 weeks in advance of a shift if you feel that it is mandatory that you have it off (see section 9.11).
-•	For non-mandatory shift changes, you may post a form within 1 week in advance, as you will be covering the shift anyway if no sub is found.
+•	There is NEVER a time when someone else covers your shift and a shift coverage email is not required.  Even if you have a sub arranged from the start, notification must be posted (both on the schedule and an email to ACDC copying all parties involved in the swap).
+•	If you arrange coverage and it is not written in on the schedule or in an email to the ACDC, and a dispatcher does not show up, it will be your responsibility.  If it’s not in writing, it is still your shift.
+•	You must send a shift coverage email request at least 2 weeks in advance of a shift if you feel that it is mandatory that you have it off (see section 9.11).
+•	For non-mandatory shift changes, you may send an email within 1 week in advance, as you will be covering the shift anyway if no sub is found.
 •	If no one takes your shift after a period of time, begin to call down the list of dispatchers to secure coverage.  You will generally receive better coverage for your shifts if you are willing to help others out when they need to get shifts covered.
 •	Please check your email for open shifts at the beginning of your shift and take whichever shifts you can.
 •	If you choose to take an open shift, please reply all to the email so everyone knows it is covered and either change the name on the shift in the office yourself or call the dispatcher working to do it for you.
+o	Reminder: You are required to check your email at least once every 24 hours to check for new announcenets and coverage requests. You should respond in some manner to all departmental emails (even if just to say "got it") (see section 2.4).
 
 9.11	Mandatory Shift Coverage Requests
-To request a mandatory shift change, follow the same procedure as above.  Note in your posting that you believe that it is mandatory to have the shift covered.  The ACDC will approve or deny whether or not the coverage is mandatory.
+To request a mandatory shift change, follow the same procedure as above.  Note in your email that you believe that it is mandatory to have the shift covered.  The ACDC will approve or deny whether or not the coverage is mandatory.
 •	Reminder:  MANDATORY REQUESTS SHOULD BE POSTED AT LEAST TWO WEEKS BEFORE COVERAGE IS NEEDED. AND AN EMAIL TO THE ACDC STATING THE SITUATION IS REQUIRED.
 •	YOU are responsible for checking on the status (you should not assume it will be approved).
 If the request for a mandatory shift change is approved, you must do the following:
