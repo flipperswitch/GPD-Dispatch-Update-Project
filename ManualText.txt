@@ -574,8 +574,7 @@ One of the most important tasks of a dispatcher is that he or she quickly and ac
 You should also be somewhat familiar with these protocols before coming in for your first training session. Please review these procedures regularly. They must be strictly followed, as it is very important that we respond to emergencies efficiently and uniformly.  If you ever feel that some time has passed since you last dispatched an emergency call and you would like to practice, ask the officer working with you or a Senior Dispatcher to give you a practice drill.  Practice drills may sometimes be scheduled for you without your advance notice to keep your skills sharp.  If at any point, you struggle to dispatch an emergency appropriately, remedial training will be arranged and you will be asked to develop a plan for your own skills development.  Due to the important nature of emergency dispatch, dispatchers who continue to struggle with emergency procedures after remedial training may be subject to dismissal.
 
 Emergency situations are always toned out over the radio before being dispatched.
-•	These tones are heard on both Physical Plant and Gordon Police channels (1 & 3).  Those persons who monitor channel 1 may then move over to channel 3 to hear the nature of the emergency.
-•	You will conduct the entirety of the emergency dispatch only on Channel 3.
+•	These tones are heard on the Gordon Police channels (3 and the Emergency Only Channel).
 •	The fire tone is automatic in the event of a standard fire alarm, when an existing alarm is not already in the system.
 •	In other cases, you will activate a tone manually by pressing the appropriate button on the radio console.
 o	Fire Tone
@@ -609,7 +608,7 @@ o	“102 from control: 10-7E.  I repeat: 10-7E.”
 •	If the dispatcher believes it is unsafe to remain at the dispatch station while waiting for the officer (e.g. someone with a weapon outside the window, etc.), he or she should immediately take the dispatcher portable radio and retreat to the bathroom, locking the door once inside.  While en route or as soon as possible, the dispatcher should transmit the “10-7E” call (as above), including explanation that the dispatcher is in the bathroom and any additional information about the threat.
 •	If you feel the situation warrants and you are not worried about escalating the situation, you may proceed your dispatch by the general tone.
 •	The 10-7E is for real emergencies and safety threats only.  For instance, if a group of people were pulling a prank by throwing water balloons or knocking on the windows, this would not constitute a 10-7E.  Simply radio the officer and inform them of the situation.
-•	If you need to be discreet or are unable to send a dispatch for any reason, you can also pull one of the two panic buttons in the office. (Located under the dispatch desk and under the front counter). This is the same as saying "10-7E" over the radio adn will alert the officer that there is an emergency in the office.
+•	If you need to be discreet or are unable to send a dispatch for any reason, you can also pull one of the two panic buttons in the office. (Located under the dispatch desk and under the front counter). This is the same as saying "10-7E" over the radio and will alert the officer that there is an emergency in the office.
 5.4	Request for Medical Aid
 All medical aid requests are treated as an emergency, and they are ALL toned out.  As you are not at the scene and are not qualified to classify the seriousness of a medical issue, you must tone out even basic requests (regardless of what the caller may say to you).  You may feel silly toning out small or routine problems, but it is much better for us to treat everything with the same degree of response than to underestimate the complexity of a problem.
 •	If you feel that a call that sounds medical in nature is simply an individual attempting to obtain a medical item, clarify the request.  Examples of these type calls are students trying to find a band-aid to apply to a cut or an ice pack to apply to a twisted ankle.  The distinction is this: if they are looking for either assistance with the medical issue or even advice about whether they should seek further treatment, tone it as a medical.  If they are simply trying to obtain an object, you may dispatch as you would any other call.  As always, our motto remains: “when in doubt, tone it out.”
@@ -716,8 +715,8 @@ Through the Alertus system, which is the system we use to alert the campus to ha
 •	You should then call the callback number on the screen.  They may or may not answer.  If they answer and they are under duress and speaking frankly and honestly with you would put them at risk, they may answer your questions oddly.
 •	Give any updated information you gather to the officer but be aware that they cannot “call off” the officer response, the officers will still go even if they say everything is all right.
 •	These alarms will be tested weekly and you will be notified when they are tested.
-•	All panic alarms that are not for testing should generate an incident and log entry with the incident number.
-•	If you receive a panic alarm for the Bennett Center Pool, be aware that the wording on the alert is intended for the Bennett front desk staff and may sound weird to you. This particular alarm is dispatched as a medical for a potential drowing. You should dispatch the officer first, then call the Bennett front desk as the callback number, and the call Regional. 
+•	All panic alarms that are not for testing should be entered as a new call in Report Exec and should generate a report. 
+•	If you receive a panic alarm for the Bennett Center Pool, be aware that the wording on the alert is intended for the Bennett front desk staff and may sound weird to you. This particular alarm is dispatched as a medical for a potential drowing. You should dispatch the officer first, then call the Bennett front desk as the callback number. If the Bennett front desk answers, conference them with regional. If Bennett front desk does not pick up, call regional yourself.  
 •	You will also receive through this same system, any alerts to the general campus that go to all campus owned computers, Alertus boxes in key strategic locations and announcement monitors (such as in lane and the library).  Examples are in the case of lock down, storm emergencies, school cancellation, security notices such as a dangerous person on campus…etc
 •	You should be notified about these general campus alerts before they go out and you do not need to follow up on them unless instructed to do so.
 
@@ -765,7 +764,7 @@ o	If the problem is related to the card swipe doors (Chase, Tavilla, Fulton, Nyl
 •	Please give all of the aforementioned information to the ACDC in an email.
 •	You may also feel free to give the ACDC’s business card (located on the windowsill near the service counter) which includes the ACDC’s extension for voicemail and email address for problems that seem complicated.
 •	If a student comes into the office for a replacement or damaged ID card, inform them that CTS handles ID card replacement. 
-•	Please note that there are several areas on campus that function on automatic door schedules.  These are always programmed by the ACDC.  However, if someone calls or comes into the office claiming that a scheduled door (such as in Ken Olsen or a Chase classroom) is locked, treat the situation like a normal admit request.  After the request is dispatched please send the ACDC the details of the problem.  Again, these room reservations should be on the Weekly Report, though sometimes things slip through the cracks.  No matter the reason, the ACDC should be alerted that a problem occurred.
+•	Please note that there are several areas on campus that function on automatic door schedules.  These are always programmed by the ACDC.  However, if someone calls or comes into the office claiming that a scheduled door (such as in Ken Olsen or a Chase classroom) is locked, treat the situation like a normal admit request.  After the request is dispatched please send the ACDC the details of the problem.  Again, these room reservations should be on 25 Live, though sometimes things slip through the cracks.  No matter the reason, the ACDC should be alerted that a problem occurred.
 
 6.2	The Gates
 We monitor two gates from the office: the main gate outside the dispatch window and the Woodland lot gate. When the gates are down, the main gate is the only legal access to the campus, so anyone coming to the college should pass by us. A dispatcher will never deny a person entry to campus. However, if you ever think that something is not right with a situation and/or you feel that someone is giving you false information/should not be on campus, notify the officer of the situation and give a good description of the vehicle. If possible, try to stall the suspicious party before letting them in to allow the officer to find them.
@@ -813,6 +812,7 @@ Using the Cameras
 •	When a camera is selected in full screen, you can use the controls in the bottom left of the screen to manuever, focus, zoom, etc. 
 o	Note: Only some cameras have the ability to move.
 o	Do NOT unnecessarily move cameras. Some are positioned for specific reasons. If you beleieve a camera should be moved, ask an officer or the ACDC if it should be where it is or if it should be positioned differently.
+o	If you do move a camera, unless instructed otherwise, return it to its normal home setting. 
 o	If you need to operate a camera for an extended period of time, it can be helpful to close the other window on the same computer. This can help to keep the computer from responding slowly while you try to manuever a camera. 
 •	To go back to the standard view, select the appropriately labeled layout (1A, 1B, 2A, or 2B). 
 o	Be aware that there is a camera in our office. We do not monitor it, but you can pull it up from the menu. There is also a camara in KOSC 036 that we do not monitor, but only the officers and the ACDC have access to it. 
@@ -829,7 +829,8 @@ If cameras go down
 •	Cameras often go down on the computer. They will turn gray and we will get no feed from them. Sometimes it is a glitch in the system and will come back up quickly (the cameras at 216 Grapevine sometimes do this). Other times it is permanent and needs to be fixed. 
 o	Note: If a camera appears black, look more closely. It is probably just dark where the camera is pointed. When a camera goes down, the screen will be obviously all gray. 
 •	If at any point a camera feed goes gray on the computer screen, wait a moment. If it does not come back up in a minute or two, close that window and log back in. If it is still down, notify the officer which camera is not functioning. If it is still down by the end of your shift, send an email to CTS from the dispatch email letting them know which camera is down and when it went down.
-•	If all the cameras go down at once. Immediately let the officer know that all the cameras are currently down. Try restarting the program. If this does not fix the problem call CTS (or email if it is not during business hours)
+•	If all the cameras go down at once. Immediately let the officer know that all the cameras are currently down. Try restarting the program. If this does not fix the problem call CTS (or email if it is not during business hours).
+o	The exeption is if there is a scheduled network outage. You should be notified prior to or at the beginning of your shift if this is going to happen. If this is the case, you can ignore the cameras going down. 
 •	If the camera for the Cashier's office goes down, immediately notify the officer and follow the same steps to try and fix it. This is because a lot of money is handled through this office and it is important for security reasons to have the cameras up. 
 Confidentiality
 •	As with all other things in the office, what is seen on the cameras is to be kept confidential and only shared with other members of the department on a need to know basis. 
@@ -910,7 +911,7 @@ Work orders for CTS usually only fall under the category of major network emerge
 Dispatchers may enter CTS work requests for issues involving campus phones and technology if instructed by the officer (as with Physical Plant work orders), which can be done by emailing CTS@gordon.edu.  Always use the dispatch email function for these emails so that they are sent from the police@gordon.edu email address rather than your personal email address.
 
 8.2	Escort Log (App. Escort Log)
-In the event of an escort, you need to log the information in Report Exec and also on a separate escort log, containing other necessary information used for quality control purposes. The escort log can be found in a binder to the right of the main dispatch console. In Report Exec, record the name of the caller, the time, and "Assistance: Escort" as the call type. In the escort log, put the time that the call came in, the name of the person requesting the escort, where he or she is going (from and to), the officer responding, his or her arrival time, and his or her clear time.
+In the event of an escort, you need to log the information in Report Exec. In Report Exec use "Assistance: Escort" as the call type. Make sure to include the time that the call came in, the name of the person requesting the escort, where he or she is going (from and to), the officer responding, his or her arrival time, and his or her clear time.
 
 8.3	Tow Log & Bike Confiscations (App. Tow Log)
 MV Tows
@@ -944,7 +945,7 @@ Section Nine: Dispatcher Shift Information
 9.11	Mandatory Shift Coverage Requests
 ________________________________________
 9.1	Shift Length
-During the school year shifts are typically 2 hours long.  Some experienced dispatchers will work 8-hour shifts but these are unusual.  During scheduled campus breaks (i.e. summer) shifts will usually be 8 hours long.  The shift cycle usually starts at 0400 (i.e. 0400-1200, 1200-2000, 2000-0400) for breaks, and is always noted in military time.
+During the school year shifts are typically 2 hours long during business hours and 4 hours long outside of the business day.  Some experienced dispatchers will work 8-hour shifts but these are unusual.  During scheduled campus breaks (i.e. summer) shifts will usually be 8 hours long.  The shift cycle usually starts at 0400 (i.e. 0400-1200, 1200-2000, 2000-0400) for breaks, and is always noted in military time.
 
 9.2	Desk Coverage and Breaks
 During your shift you should remain at the dispatch station AT ALL TIMES.  At no time should you go past the front counter without proper substitute coverage at the desk.
@@ -1002,7 +1003,7 @@ If your relief is late for his or her shift:
 •	If you are unable to reach him or her, notify the officer on duty (it is possible that the officer may be able to knock on the dispatcher’s room door if they live on campus).
 •	If this is not effective, notify the ACDC and Head Dispatcher of the situation and follow the procedure for finding emergency shift coverage (i.e. call down the dispatcher list).
 •	It is imperative that ANY TIME a dispatcher fails to show up for a shift or is excessively late, you email the ACDC to alert them of what occurred.  This is regardless of whether coverage was found, or you are willing to stay on.
-NOTE: If you are going to be late for a shift (even if it is only a minute or two), as early as possible call the office to let the dispatcher on duty know of the situation. This way they can plan ahead and find coverage for that time if they need to get to class or another commitment. Repeated tardiness for scheduled shifts is grounds for dismissal. If you are having trouble making it on time for a certain shift due to a class or other event that happens just before your shift, speak to the ACDC immidiately, so that the conflict can be resolved.
+NOTE: If you are going to be late for a shift (even if it is only a minute or two), as early as possible call the office to let the dispatcher on duty know of the situation. This way they can plan ahead and find coverage for that time if they need to get to class or another commitment. Repeated tardiness for scheduled shifts is grounds for dismissal. If you are having trouble making it on time for a certain shift due to a class or other event that happens just before your shift, speak to the ACDC immediately, so that the conflict can be resolved.
 
 9.8	Emergency Shift Coverage
 If you receive a call from your relief who is unable to work due to illness, death in the family, or a similar emergency:
