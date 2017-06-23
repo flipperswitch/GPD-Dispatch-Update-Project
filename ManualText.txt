@@ -475,6 +475,8 @@ o	This line should not ring more than once.  Everything should be dropped to ans
 o	If you are on another line you should immediately put that person on hold and answer the emergency line.  It is suggested that you say quickly and clearly “I’m sorry, please hold.”  After you are finished with the emergency line, you should then pick up the call you had on hold and apologize and explain that you had to put them on hold suddenly due to a call on the emergency line.
 •	Answer this line: “Gordon College Emergency Center, this line is recorded?”
 •	Never put this line on hold (except in the rare case that you get a second emergency line call).
+o	The best course of action if another emergency call comes in is to quickly conference the first emergency with regional, hang up, and then take the second emergency call. 
+o	If you are in a conference call you must hang up the phone before taking another call. Otherwise, the conference call will fail on all three of the connected lines and regional will no longer be talking to the caller. 
 o	If a second call comes in on the emergency line, it is significantly less noticeable.  The computer will give its alert and you will hear a call waiting like beep on the phone.
 •	Only hang up when the officer arrives on scene, unless circumstances prevent the caller from remaining on the line (for example, if they are calling from a room phone reporting smoke in the building).
 •	If someone calls in with a non-emergency Police call, inform the caller that they have dialed the wrong number and then transfer him or her to the 4444 line to free up the emergency line.
@@ -572,28 +574,23 @@ One of the most important tasks of a dispatcher is that he or she quickly and ac
 You should also be somewhat familiar with these protocols before coming in for your first training session. Please review these procedures regularly. They must be strictly followed, as it is very important that we respond to emergencies efficiently and uniformly.  If you ever feel that some time has passed since you last dispatched an emergency call and you would like to practice, ask the officer working with you or a Senior Dispatcher to give you a practice drill.  Practice drills may sometimes be scheduled for you without your advance notice to keep your skills sharp.  If at any point, you struggle to dispatch an emergency appropriately, remedial training will be arranged and you will be asked to develop a plan for your own skills development.  Due to the important nature of emergency dispatch, dispatchers who continue to struggle with emergency procedures after remedial training may be subject to dismissal.
 
 Emergency situations are always toned out over the radio before being dispatched.
-•	These tones are heard on both Physical Plant and Public Safety channels (1 & 3).  Those persons who monitor channel 1 may then move over to channel 3 to hear the nature of the emergency.
+•	These tones are heard on both Physical Plant and Gordon Police channels (1 & 3).  Those persons who monitor channel 1 may then move over to channel 3 to hear the nature of the emergency.
 •	You will conduct the entirety of the emergency dispatch only on Channel 3.
 •	The fire tone is automatic in the event of a standard fire alarm, when an existing alarm is not already in the system.
 •	In other cases, you will activate a tone manually by pressing the appropriate button on the radio console.
-o	Fire
-o	General Tone
-o	Medical
+o	Fire Tone
+o	General ("Alert") Tone
+o	Medical Tone
 Fire Alarm Tone Issues
 •	In the event of a local fire alarm or pre-alarm, the tone will not go out. You will have to press the tone button manually. The fire tone needs to go out over the radio for all fire alarms and/or reports of fire or visible smoke.  We will also use the fire tone for other escalated events that do not qualify as medical emergencies but are more significant than the response a general tone suggests.  An example would be in the case of a bomb threat.
 Calls that come in during an emergency
 •	You will still receive phone calls, people at the desk, etc. during an emergency.
 •	Handle these requests in the normal manner but stop what you are doing immediately if you receive an update on the emergency (i.e. if you see Wenham drive up and you radio the officer, or the officer calls you with additional information).
-•	You must never put an emergency call on hold (see section 4.3a).  Unless it is to answer another call to the emergency line only.
+•	You must never put an emergency call on hold (see section 4.3a).  Unless it is to answer another call to the emergency line only. Although, it is always better to quickly conference the first call with regional, hang up, and then take the next emergency call. 
 •	Only new emergency calls should be given to the officer during an ongoing emergency.  No business related calls should be relayed to the officer.
 •	If people call in with a request for the officer you can inform them of the emergency and explain that it may be some time before the officer can help them. Take a call back number and inform the caller that you will let them know when the officer is free.
 Radio Silence
 •	During any type of emergency, there should be complete radio silence on your behalf unless it directly pertains to the emergency in progress or a new emergency call/alarm.  All officers and personnel with radios should be aware of this policy.
-Marking officers on Patrol and Incident Reporting
-•	In the case of any emergency call of any type you will want to do two things automatically as soon as you have a moment after the initial dispatch.
-•	One is marking the responding officers as “on patrol” on the dispatch computer as they will be too busy responding to the emergency to think to ask you themselves.
-•	The other is you will want to start an incident for the event on the computer.  All instances where a call is significant enough that it had to tone the radio, we want to automatically begin an incident for the officer.  Include whatever pertinent details are relevant including arrival and clear times of our officers and any outside agencies as well as anything else that the officer asks you to “log.”
-•	Your dispatch log for any incident for which you generate an incident number will simply be the call time and the incident number.  All other details should be written into the incident narrative.
 Regional Dispatch and our relation to them
 •	Regional dispatch is the dispatch center for the County of Essex region.  Some neighboring towns still maintain their own independent dispatch centers such as ECO in Hamilton.  The Town of Wenham however, uses Essex Regional Dispatch.
 •	Regional is our main point of contact for assistance from outside agencies such as Wenham Police, Wenham Fire, and Ambulance Response.  We also contact them for other needs such as animal control, fire permits, and information.
@@ -612,7 +609,7 @@ o	“102 from control: 10-7E.  I repeat: 10-7E.”
 •	If the dispatcher believes it is unsafe to remain at the dispatch station while waiting for the officer (e.g. someone with a weapon outside the window, etc.), he or she should immediately take the dispatcher portable radio and retreat to the bathroom, locking the door once inside.  While en route or as soon as possible, the dispatcher should transmit the “10-7E” call (as above), including explanation that the dispatcher is in the bathroom and any additional information about the threat.
 •	If you feel the situation warrants and you are not worried about escalating the situation, you may proceed your dispatch by the general tone.
 •	The 10-7E is for real emergencies and safety threats only.  For instance, if a group of people were pulling a prank by throwing water balloons or knocking on the windows, this would not constitute a 10-7E.  Simply radio the officer and inform them of the situation.
-
+•	If you need to be discreet or are unable to send a dispatch for any reason, you can also pull one of the two panic buttons in the office. (Located under the dispatch desk and under the front counter). This is the same as saying "10-7E" over the radio adn will alert the officer that there is an emergency in the office.
 5.4	Request for Medical Aid
 All medical aid requests are treated as an emergency, and they are ALL toned out.  As you are not at the scene and are not qualified to classify the seriousness of a medical issue, you must tone out even basic requests (regardless of what the caller may say to you).  You may feel silly toning out small or routine problems, but it is much better for us to treat everything with the same degree of response than to underestimate the complexity of a problem.
 •	If you feel that a call that sounds medical in nature is simply an individual attempting to obtain a medical item, clarify the request.  Examples of these type calls are students trying to find a band-aid to apply to a cut or an ice pack to apply to a twisted ankle.  The distinction is this: if they are looking for either assistance with the medical issue or even advice about whether they should seek further treatment, tone it as a medical.  If they are simply trying to obtain an object, you may dispatch as you would any other call.  As always, our motto remains: “when in doubt, tone it out.”
@@ -652,16 +649,16 @@ Some Psychological Emergencies will be treated as requests for medical aid and o
 We can receive two types of fire alarms through our fire panel in addition to notification of fire or smoke called in by an individual.
 5.6a Standard Fire Alarm
 This is a real fire alarm detected by one of our fire computers. Alarms will sound in the building involved to evacuate the building. An emergency tone will be sent directly to Regional, though they will not know the specific location of the alarm until you call them.
-•	You will hear an alarm over the Notifier Net and OnyxWorks (the fire computer).
+•	You will hear an alarm over the the fire computer.
 •	The Fire Tone will automatically go out over the radio unless another alarm is already active in the system.
 •	The RED light on the panel will light up, indicating that you should call Regional.
 •	Never assume that the alarm activation is only one alarm until you confirm that fact on the computer.  Two alarms coming in simultaneously sounds exactly the same as one or many.
 5.6b Local Fire Alarm
 These alarms are located in areas where there is likelihood of non-emergency smoke (such as cooking smoke). As they will often activate when there is no active fire, they only sound locally; alarms will NOT sound to evacuate the building and an automatic tone will NOT go to Regional.
-•	You will hear an alarm over the Notifier Net as well as OnyxWorks.
+•	You will hear an alarm over the fire computer.
 •	You will have to press the fire alarm tone button to tone out the alarm.
 •	The GREEN light will stay lit on the panel and the red light will not become illuminated.
-•	When you call Regional, you will state: “This is the Gordon College Dispatcher. We just received a LOCAL fire alarm activation in [specific location]. Our officer is responding, and building has NOT yet been evacuated”.
+•	When you call Regional, you will state: “This is the Gordon College Dispatcher. We just received a LOCAL smoke detector activation in [specific location]. Our officer is responding and the building is NOT beening evacuated."
 
 5.7	Report of LOCAL Smoke Detector Activation & Report of Fire/Smoke
 •	You will have to press the fire alarm tone.
@@ -683,7 +680,7 @@ Our fire detection system is able to warn us when it is malfunctioning. This mea
 If you get a new trouble alarm on your shift, you should:
 •	Radio the officer every time and inform him/her of the trouble.
 •	IF THE OFFICER TELLS YOU TO DO SO, contact Mike Favaloro (M12) on channel 1 or channel 3 (he could be on either) or via cell phone.
-•	Record the trouble in your log and create an online entry with physical plant including as many details from the alarm computer as possible and what action was taken.
+•	Create a call for the trouble alarm, including as many details from the alarm computer as possible and what action was taken.
 
 Occasionally a trouble may come in and clear repeatedly. If the person you relieve warns you about a repeat trouble at shift change or if the officer tells you, you do not need to log the trouble every time it comes in. However, it can be helpful to keep track of how frequently a repeat trouble comes in on a piece of scrap paper to inform the officer or M12.
 
@@ -720,7 +717,7 @@ Through the Alertus system, which is the system we use to alert the campus to ha
 •	Give any updated information you gather to the officer but be aware that they cannot “call off” the officer response, the officers will still go even if they say everything is all right.
 •	These alarms will be tested weekly and you will be notified when they are tested.
 •	All panic alarms that are not for testing should generate an incident and log entry with the incident number.
-•	If you receive a panic alarm for the Bennett Center Pool, be aware that the wording on the alert is intended for the Bennett front desk staff and may sound weird to you.  You should call the Bennett front desk as the callback number and dispatch this particular alarm as a medical for a potential drowning.
+•	If you receive a panic alarm for the Bennett Center Pool, be aware that the wording on the alert is intended for the Bennett front desk staff and may sound weird to you. This particular alarm is dispatched as a medical for a potential drowing. You should dispatch the officer first, then call the Bennett front desk as the callback number, and the call Regional. 
 •	You will also receive through this same system, any alerts to the general campus that go to all campus owned computers, Alertus boxes in key strategic locations and announcement monitors (such as in lane and the library).  Examples are in the case of lock down, storm emergencies, school cancellation, security notices such as a dangerous person on campus…etc
 •	You should be notified about these general campus alerts before they go out and you do not need to follow up on them unless instructed to do so.
 
@@ -738,23 +735,23 @@ ________________________________________
 Part of the roll of a dispatcher is to watch for suspicious or potentially hazardous activity around campus. While in the dispatch office you have access to the campus cameras and police scanner, and you can control a few of the gates and sometimes the door to RRC. You can, in effect, be in more than one place at a time by monitoring the cameras in addition to your other duties, so it is important to be aware of these things. Notify the officer of any suspicious persons or situations so that he or she can look into the situation. You will also receive calls from various parties requesting access to different locations on campus. It is your responsibility to gather all relevant information before radioing the officer with the request.
 
 6.1	Lockouts and MasterPermission
-These two admittance request items are handled in a similar manner. First, find the person’s name in our computer and, sERDnd, verify that he or she has permission to access the location that he or she requested.
+These two admittance request items are handled in a similar manner. First, find the person’s name in Master Permission and verify that he or she has permission to access the location that he or she requested.
 •	Lockouts
-o	When a student is locked out of a residence hall or specific room, he or she will call Public Safety if the RA or RD is unavailable. One of the first questions we should ask is whether or the student’s RA or RD is able to help, especially with room lockouts.  If no one else is able to help the student . . .
+o	When a student is locked out of a residence hall or specific room, he or she will call Gordon Police if the RA or RD is unavailable. One of the first questions we should ask is whether or the student’s RA or RD is able to help, especially with room lockouts.  If no one else is able to help the student . . .
 o	Find the student’s name using MasterPhone and confirm that he or she actually lives in the requested hall or room.
 o	If the caller is a guest or a student who is a resident of a different hall, he or she will have to call the host/friend in the building to be let in. We cannot accommodate such requests.
-o	If a student or staff member calls in regards to a door that is locked during a scheduled reservation, always verify it on the Weekly Report.  If you cannot find the event on the Weekly Report, check blackboard to ensure it was not on an update sent from Auxiliary Services which would be posted in the announcements section under “Weekly Report Updates.” If it is not on the report and there is no posted update or other printed note in the office ALWAYS radio the officer to confirm that there has not been any other emails, updates, or direct notifications to the officer of the reservation BEFORE instructing the caller that we cannot help them.
-	If it is not on the report and if there was no update from Auxiliary Services, and the officer has no knowledge of any exceptions, inform the caller that we cannot open the space for him or her without authorization from Auxiliary Services that the space was officially reserved.
-o	If you have verified the room reservation on the Weekly Report, notify the officer of the lockout request.
+o	If a student or staff member calls in regards to a door that is locked during a scheduled reservation, always verify it on the the master calander on 25 Live  If it is not on the report and there is no posted update or other printed note in the office ALWAYS radio the officer to confirm that there has not been any other emails, updates, or direct notifications to the officer of the reservation BEFORE instructing the caller that we cannot help them.
+	If it is not on the report and if there was no update from Facilities Use and Space Planning, and the officer has no knowledge of any exceptions, inform the caller that we cannot open the space for him or her without authorization from Faciliteis Use and Space Planning that the space was officially reserved.
+o	If you have verified the room reservation in 25 Live, notify the officer of the lockout request.
 	NOTE: If the request is for a room in KOSC, CBMW or the Tavilla Conference Room, check with the ACDC if he or she is in office, as those areas can be opened automatically from Rodger.  Some residence hall exterior doors can also be opened automatically, though it is wiser to send the officer to tend to those requests in person since they pertain to residential living space.
 •	MasterPermission
 o	If a student requests access to a locked space on campus, confirm that he or she has permission using the MasterPermission database.
 	Pay attention to any time and date restrictions that may be placed on the student.
-	Verify that the caller is already AT the location that he or she wishes to be admitted to.  Officers will not accept a 10-20 request if the caller is asking something like, “Can the officer let me into [area] in 15 or 20 minutes?”
+	Verify that the caller is already AT the location that he or she wishes to be admitted to.  Officers will not accept an admit request if the caller is asking something like, “Can the officer let me into [area] in 15 or 20 minutes?”
 o	We cannot let students in to locked areas without prior permission from a professor or supervisor of some kind.
-o	If the name is not found in MasterPermission, the officer may have you ask the student to have his or her professor/supervisor call or email Public Safety to receive permission.  However, for regular access we must have permission on file in our office.
+o	If the name is not found in MasterPermission, the officer may have you ask the student to have his or her professor/supervisor call or email police@gordon.edu to receive permission.  However, for regular access we must have permission on file in our office.
 o	At no time, should you give a yes or no response for an access request without FIRST radioing the officer, there always may be extenuating circumstances or arrangements that you have not been apprised of.
-With both types of 10-20’s, ask the person calling to call us back if they gain access before the officer arrives. This will prevent the officer from wasting time going to needless requests. All admittance requests should be entered on your dispatch log (appropriately note whether the person was admitted or denied).
+With both types of admits, ask the person calling to call us back if they gain access before the officer arrives. This will prevent the officer from wasting time going to needless requests. All admittance requests should be entered on your dispatch log (appropriately note whether the person was admitted or denied).
 6.1a Access Control (Key Cards)
 The access control system includes all Gordon issued key cards and automatic door locks.  Dispatchers are never required to know how to manage the access control system, but it is helpful to know how to handle calls or requests for access control needs.
 Card Access
@@ -762,18 +759,16 @@ All students who have card access to areas on campus other than their residentia
 •	Name of individual.
 •	Description of the problem.
 o	If the problem is related to proximity doors (KOSC, CBMW & Bromley & Chase entrances), please acquire the “prox” number (see graphic).
-
 o	This number is located on the rear of the ID card along the very bottom edge.  The prox number is the first 5 digits of the long number string.  Cards do not need to be encoded for prox access.
 o	If the problem is related to the card swipe doors (Chase, Tavilla, Fulton, Nyland, etc.), advise the individual to see Auxiliary Services between the hours of 0800 and 1630, but please get a detailed description of the problem.
 •	If the person requesting card access is a student, inform him or her that we need authorization from a professor or departmental authority before setting up card access.  Dispatchers can double check the Master Permissions database to verify whether or not we have already received such authorization.
-•	Please give all of the aforementioned information to the ACDC in an email or a clearly written note with your initials, time and date.
+•	Please give all of the aforementioned information to the ACDC in an email.
 •	You may also feel free to give the ACDC’s business card (located on the windowsill near the service counter) which includes the ACDC’s extension for voicemail and email address for problems that seem complicated.
-•	If a student comes into the office for a replacement for a lost or damaged ID card outside of business hours, you may first ask the officer if they are available to print a card.  Some officers are able to do this and others are not and their availability is dependent on shift business.  However, during business hours, if the ACDC is not in an officer or the Access Control Assistant will always be available to do this in place of the ACDC.
-Door Schedules & the Weekly Report
-•	Please note that there are several areas on campus that function on automatic door schedules.  These are always programmed by the ACDC.  However, if someone calls or comes into the office claiming that a scheduled door (such as in Ken Olsen or a Chase classroom) is locked, treat the situation like a normal 10-20 request.  After the 10-20 is dispatched please send the ACDC the details of the problem.  Again, these room reservations should be on the Weekly Report, though sometimes things slip through the cracks.  No matter the reason, the ACDC should be alerted that a problem occurred.
+•	If a student comes into the office for a replacement or damaged ID card, inform them that CTS handles ID card replacement. 
+•	Please note that there are several areas on campus that function on automatic door schedules.  These are always programmed by the ACDC.  However, if someone calls or comes into the office claiming that a scheduled door (such as in Ken Olsen or a Chase classroom) is locked, treat the situation like a normal admit request.  After the request is dispatched please send the ACDC the details of the problem.  Again, these room reservations should be on the Weekly Report, though sometimes things slip through the cracks.  No matter the reason, the ACDC should be alerted that a problem occurred.
 
 6.2	The Gates
-We monitor two gates from the office: the main gate outside the dispatch window and the Woodland lot gate (seen through Camera 4 on the monitors). When the gates are down, the main gate is the only legal access to the campus, so anyone coming to the college should pass by us. A dispatcher will never deny a person entry to campus. However, if you ever think that something is not right with a situation and/or you feel that someone is giving you false information/should not be on campus, notify the officer of the situation and give a good description of the vehicle. If possible, try to stall the suspicious party before letting them in to allow the officer to find them.
+We monitor two gates from the office: the main gate outside the dispatch window and the Woodland lot gate. When the gates are down, the main gate is the only legal access to the campus, so anyone coming to the college should pass by us. A dispatcher will never deny a person entry to campus. However, if you ever think that something is not right with a situation and/or you feel that someone is giving you false information/should not be on campus, notify the officer of the situation and give a good description of the vehicle. If possible, try to stall the suspicious party before letting them in to allow the officer to find them.
 
 6.2a Main Gate
 The Main Gate is to be closed by the dispatcher whenever the officer secures the BCA Gate at night (around 2200) and is to be raised when the BCA gate is opened or at 0600, whichever comes first.
@@ -792,7 +787,7 @@ o	If the driver responds that he or she is just dropping someone off or that the
 •	If the driver is a student, ask why the vehicle is not registered.  If the driver is a staff member, have him or her come inside and register (FREE registration for all staff and faculty).
 o	If the driver has not had time to register yet, tell him or her to come in and register the vehicle immediately. It only takes a few minutes.
 o	If the student refuses, you may let him or her through, but you should let the student know that he or she is at risk of receiving a citation.  You should then give the vehicle information to the officer on duty and the possible location that the student is headed.
-o	If the student is waiting on information for registration, or is borrowing the car, have him or her come inside to get a temporary parking pass for $5 or risk a citation for $25 or $60 for excessive violations.
+o	If the student is waiting on information for registration, or is borrowing the car, have him or her come inside to get a temporary parking pass for $20 or risk a citation for $25 or $60 for excessive violations.
 	Students who are borrowing a vehicle, but already have a different vehicle registered for the current school year, do not need to pay for the temporary pass.  The normal registration fee covers it.
 •	If the person is not a student or staff member, you should ask them what his or her purpose on campus is.
 o	If he or she is staying over night, a 3-day visitor pass is necessary. These passes are free for visitors (see section 10.2).
@@ -800,66 +795,49 @@ o	If the visitor is just dropping off/picking up, confirm the name and location 
 6.2b Woodland Gate
 The Woodland lot gate is closed automatically from 1800-0600 nightly.
 •	Gordon community members can swipe an ID card to open the gate.
-•	We have the ability to raise the gate for one car at a time to pass through (“Remote Gate” button on right side of console).
-•	This gate will automatically lower behind each car, so if a sERDnd car follows, the gate may come down on it.
+•	We have the ability to raise the gate for one car at a time to pass through.
+•	This gate will automatically lower behind each car, so if a second car follows, the gate may come down on it.
 Woodland Gate Protocol
-•	If someone buzzes the intercom, ask if the driver if he or she is a current student.
+•	If someone calls the intercom (black and gray pohone behind the police line), ask the driver if he or she is a current student.
 •	If the driver claims to be a student, verify by asking for his or her name and ID number and confirming this information in the computer.
 •	If he or she is not a student, ask for his or her reason for being on campus. As with the main gate, verify any information about who/where he or she is visiting in the computer before letting them in.
 •	If you believe that the person should not be on campus or that the person is giving you false information, stall them and notify the officer before opening the gate.  Once you open the gate, monitor the vehicle using the cameras and relay any relevant information to the officer, such as location and any suspicious activity.
 
-6.3	Cameras (program specific information out of date.  Use of the new program will be covered during your supervised shift.)
-Keep an eye on the cameras as much as possible during your shift. This does not mean constantly watching them, but keeping them in your peripheral vision and glance at them frequently.  If you notice anything suspicious on the cameras during your shift, write down any relevant information on your scratch pad and radio the officer.  It is a good idea to also record the time in case you need to log the information later.
-Using the Woodland & Grapevine Road Cameras
-•	Cameras are usually displayed in a 2x2 grid, showing 4 cameras in all.  To display the camera grids, press the number of the grid (listed below) followed by the “CAM” button.
-•	When an individual camera is displayed, it should show on monitor 1 (bottom, middle monitor).  If for some reason the selected camera shows up on a different monitor, switch it back to monitor 1 by doing the following:
-o	Enter the monitor number (1) on the control box.
-o	Press the monitor button (MON).
-•	To select a camera to control:
-o	Enter the camera number (listed below, along with location).
-o	Press the camera button (CAM).
-o	You can manipulate the camera view by using the joystick.  To control the zoom, twist the knob.
-Scanning Patterns
-•	You will see that some of the cameras are set to scan their respective areas.  If a camera gets interrupted from its scan, you can hit the “Pattern” button, which should reset the camera to its pattern.  If the pattern is not active, you can reprogram the camera pattern by doing the following:
-o	Select the camera to view it on monitor 1.
-o	Set it to a good “starting position” (at one end of the lot that it should scan).
-o	Press and hold the “Pattern” button until the screen goes into record mode.  You will see a percentage number at the top of the screen indicating how much memory is left in the pattern recording.
-o	Use the joystick to move the camera into the desired pattern, which is usually a simple side-to-side pan of the parking lot.  Make sure the pattern covers the entirety of the lot.
-o	Once your scan returns to the point at which you started, hit the “ACK” button to acknowledge the new pattern.
-o	Hit the “Pattern” button once more to start the scan.
-Woodland & Grapevine Road Camera Locations
-•	1 – Chapel lot exit / Grapevine west (fixed)
-•	2 – Fulton exit gate (fixed)
-•	3 – Grapevine sidewalk (scan pattern)
-•	4 – Woodland gate (fixed)
-•	5 – Lot A (scan pattern)
-•	6 – Lot C & F (scan pattern)
-•	7 – Lot B (scan pattern)
-•	8 – Lot B (automatic scan pattern)
-•	9 – Lot F (scan pattern)
-•	10 – Lot H (fixed)
-•	11 – Physical Plant dumpsters (fixed)
-•	41 – Cameras 1-4
-•	42 – Cameras 5-8
-•	43 – Cameras 9-11
-Using the Bennett, BCA Gate, and KOSC Cameras (this program is still the same)
-•	Bennett and the KOSC are monitored using a different camera system that functions over the Gordon network.  These cameras are accessible through the top left monitor in a program called DS ControlPoint.  You will see that the cameras are displayed in 3x3 grids on two monitors.
-•	In the event that ControlPoint gets closed down or the computer gets reset, you can reboot the program by doing the following:
-o	Double-click the DS ControlPoint icon on the desktop.  Type “Dispatcher” into the username field.  The password can be found in its hidden place in the office (it should also be given to you during your training).
-o	The program will start on the “Systems” screen. The three (Bennett, KOSC & Woodland) camera systems should have a green light indicating a good connection. The IP addresses and camera locations are located to the right of the green lights.  NOTE: If the lights are red, try logging in again, as the username or password may have been typed in wrong. It will NOT warn you if you typed in the wrong username or password, it will just fail to connect to the cameras.
-Setting Up/Viewing Live Camera Feeds
-•	Click the “Live” icon at the top of the window. It is a picture of a single computer (sERDnd icon from left). You can also click the “Live” tab at the top of the window.
-•	The display will now show a 2x2 grid reading “drag item here”. At the top of the large grid, click the small grid icon and select the 3x3 option (3rd from left).
-•	On the left side of the main window, there is a navigation pane displaying the Groups, Systems and Tours. If it is not already displaying the Systems, click the word “Systems” in this pane and expand all of the available system trees by clicking the small, gray boxes with a + sign (for Woodland, Bennett and KOSC). If the navigation pane is hidden, there will be a narrow margin showing small icons. The icon of the gray box with an arrow will expand the navigation pane (lowest icon).
-•	Drag the Bennett cameras from the system tree into the “drag item here” boxes one by one until the grid is full.
-•	When the grid is full, click the blue arrow icon to “Undock Tab”. This will let the camera grid “float” above the main window.
-•	Once undocked, drag the grid to the right until it is visible on the dual-display monitor to the right. Once on the other monitor, maximize the window to fill the whole screen.
-•	Navigate back to the left hand screen with the main DS ControlPoint window. Select another 3x3 grid for the additional cameras.
-•	Fill the grid with the remaining cameras for Bennett and KOSC. There will be one empty spot left over. We normally put the Physical Plant dumpsters in that box.
-•	Once the grid is full, you do not have to undock it. Simply leave it as it is.
+6.3	Cameras
+Keep an eye on the cameras as much as possible during your shift. This does not mean constantly watching them, but keeping them in your peripheral vision and glancing at them frequently.  If you notice anything suspicious on the cameras during your shift, write down any relevant information on your scratch pad and radio the officer.  It is a good idea to also record the time in case you need to log the information later.
+
+Using the Cameras
+•	There are four camera monitors controlled by two seperate computers. They share a keyboard and mouse, so you must use the black switch-box on the desk to choose which one to operate. 
+•	These computers are designated for camerera monitoring ONLY. They should never be used for any other purpose.
+•	You can make a camera full screen by selecting it from the dropdown menu on the left of the screen.
+•	When a camera is selected in full screen, you can use the controls in the bottom left of the screen to manuever, focus, zoom, etc. 
+o	Note: Only some cameras have the ability to move.
+o	Do NOT unnecessarily move cameras. Some are positioned for specific reasons. If you beleieve a camera should be moved, ask an officer or the ACDC if it should be where it is or if it should be positioned differently.
+o	If you need to operate a camera for an extended period of time, it can be helpful to close the other window on the same computer. This can help to keep the computer from responding slowly while you try to manuever a camera. 
+•	To go back to the standard view, select the appropriately labeled layout (1A, 1B, 2A, or 2B). 
+o	Be aware that there is a camera in our office. We do not monitor it, but you can pull it up from the menu. There is also a camara in KOSC 036 that we do not monitor, but only the officers and the ACDC have access to it. 
+•	Avoid moving cameras if not neccessary. Some will reset themselves to a default angle, but some will NOT. 
+Recorded Files 
+•	You can access camera recordings from the camera computers by selecting the camera from the menu on the left and then expanding it by pressing the plus sign next to it. Select the day you want and select a time (times reflect the beginning of that recording).
+•	You can use the controls to fast forward, pause, etc. 
+•	To reset, select the appropriately labeled layout from the menu on the left. 
+Logging In
+•	It may sometimes be neccessary to log back into the camera program (passwords can be found on a note in the drawer to your left).
+•	To do this, select Sentry VMS (or Monitor Station) from the lower monitor on either computer. You will have to do this four times, once for each monitor.
+•	Make sure each layout is correctly matching form the menu on the left of the screen and the label on each monitor (1A, 1B, 2A, 2B).
+If cameras go down
+•	Cameras often go down on the computer. They will turn gray and we will get no feed from them. Sometimes it is a glitch in the system and will come back up quickly (the cameras at 216 Grapevine sometimes do this). Other times it is permanent and needs to be fixed. 
+o	Note: If a camera appears black, look more closely. It is probably just dark where the camera is pointed. When a camera goes down, the screen will be obviously all gray. 
+•	If at any point a camera feed goes gray on the computer screen, wait a moment. If it does not come back up in a minute or two, close that window and log back in. If it is still down, notify the officer which camera is not functioning. If it is still down by the end of your shift, send an email to CTS from the dispatch email letting them know which camera is down and when it went down.
+•	If all the cameras go down at once. Immediately let the officer know that all the cameras are currently down. Try restarting the program. If this does not fix the problem call CTS (or email if it is not during business hours)
+•	If the camera for the Cashier's office goes down, immediately notify the officer and follow the same steps to try and fix it. This is because a lot of money is handled through this office and it is important for security reasons to have the cameras up. 
+Confidentiality
+•	As with all other things in the office, what is seen on the cameras is to be kept confidential and only shared with other members of the department on a need to know basis. 
+•	At no time should you be using your phone (or other device) to take pictures or video of what is on a camera feed (including if you see a close friend on one of the cameras). 
+•	Capturing images of people on the camera system is an invasion of privacy and is a serious offense. 
 
 6.4	Scanner
-Speakers for our radio scanner are on the window sill behind the dispatch computer. We monitor several local channels but the most important are the Wenham PD and FD channels. You are permitted to turn down the volume on scanner during high traffic times (meaning multiple stations are talking as is GCDPS) if it is distracting you from listening to the Gordon radio. However it is NEVER all right to turn the volume all the way down. The scanner should also be audible over any movies, games, or music you are listening to while in the office. Monitoring the scanner may seem pointless, but Wenham may try to contact us over the radio or you may hear about an incident near the campus (i.e. Grapevine Rd., Parsons Hill, or Iron Rail) that you or the officer should be aware of. It is also possible in a world of cell phones that there is an emergency called in to 911 by a cell phone on campus that the officer will need to respond to.
+Speakers for our radio scanner are on the window sill behind the dispatch computer. We monitor several local channels but the most important are the Wenham PD and FD channels. You are permitted to turn down the volume on scanner during high traffic times (meaning multiple stations are talking as is GCPD) if it is distracting you from listening to the Gordon radio. However it is NEVER all right to turn the volume all the way down. The scanner should also be audible over any movies, games, or music you are listening to while in the office. Monitoring the scanner may seem pointless, but Wenham may try to contact us over the radio or you may hear about an incident near the campus (i.e. Grapevine Rd., Parsons Hill, or Iron Rail) that you or the officer should be aware of. It is also possible in a world of cell phones that there is an emergency called in to 911 by a cell phone on campus that the officer will need to respond to.
 Any time you overhear anything on the scanner that the officer should be aware of, radio him/her to make sure they heard it as well.  This includes BOLOs (Be On the Look Out).
 
 6.5	RRC Back Doors and Mirror
@@ -911,6 +889,8 @@ Section Eight: Other Logs and Forms
 8.2	Escort Log
 8.3	MV Tow Log & Bike Confiscations
 8.4	Absentee Parking Passes
+8.5	Missing/Added/Changed Information Log
+8.6	Move CITATION PETITIONS here from section 13.10?
 ________________________________________
 8.1	Work Request Items
 Physical Plant
@@ -920,32 +900,35 @@ Work orders for Physical Plant are handled online. When the officer requests you
 •	Click on “Physical Plant.”
 •	Select “Work requests.”
 •	Click “Enter a new request.”
-•	Scroll to the bottom of the drop down list to select “publicsafety.”  - if you do not see a drop down list here, notify the ACDC so that your access level in the system can be adjusted.
-•	Enter 4444 as the phone number and Public Safety as the department.
+•	Scroll to the bottom of the drop down list to select “Police.”  - if you do not see a drop down list here, notify the ACDC so that your access level in the system can be adjusted.
+•	Enter 4444 as the phone number and Police as the department.
 •	Fill in any information provided by the officer.   As much as possible, entries should be word for word descriptions as provided by the officer.  If you are unsure of the wording, read it back to the officer before submitting.
 •	Click “Submit.”
 CTS
 Work orders for CTS usually only fall under the category of major network emergencies or outages or problems with campus phones or our cameras.  We do not have to enter work orders for individuals who call us with network problems.  They can be connected directly to CTS (x4500).
 
-Dispatchers may enter CTS work requests for issues involving campus phones and technology if instructed by the officer (as with Physical Plant work orders), which can be done by emailing CTS@gordon.edu.  Always use the dispatch email function for these emails so that they are sent from the publicsafety@gordon.edu email address rather than your personal email address.
+Dispatchers may enter CTS work requests for issues involving campus phones and technology if instructed by the officer (as with Physical Plant work orders), which can be done by emailing CTS@gordon.edu.  Always use the dispatch email function for these emails so that they are sent from the police@gordon.edu email address rather than your personal email address.
 
 8.2	Escort Log (App. Escort Log)
-In the event of an escort (10-14E), you need to log the information in your dispatch log and also on a separate escort log, containing other necessary information used for quality control purposes. The escort log can be found on a clipboard to the right of the main dispatch console. On your dispatch log, record the name of the caller, the time, and the code 10-14E under the situation field. In the escort log, put the time that the call came in (same as in your log), the name of the person requesting an escort, where he or she is going (from and to), the officer responding, his or her arrival time, and his or her clear time.
+In the event of an escort, you need to log the information in Report Exec and also on a separate escort log, containing other necessary information used for quality control purposes. The escort log can be found in a binder to the right of the main dispatch console. In Report Exec, record the name of the caller, the time, and "Assistance: Escort" as the call type. In the escort log, put the time that the call came in, the name of the person requesting the escort, where he or she is going (from and to), the officer responding, his or her arrival time, and his or her clear time.
 
 8.3	Tow Log & Bike Confiscations (App. Tow Log)
 MV Tows
-In the event of a vehicle tow, record the information in both the tow log and your dispatch log.  The tow log is kept in a binder in the cubby underneath the dispatch console desk.  If someone comes to us saying his or her vehicle has disappeared, before treating it as a stolen item, check the logs see if it was towed.  If the vehicle has been towed, inform the party where his or her vehicle has been moved (usually the Woodland lot).  The owner will have been cited for the parking violation as well as the towing fee.
+In the event of a vehicle tow, record the information in both the tow log and Report Exec.  The tow log is kept in a binder to the right of the dispatch console.  If someone comes to us saying his or her vehicle has disappeared, before treating it as a stolen item, check the logs see if it was towed.  If the vehicle has been towed, inform the party where his or her vehicle has been moved (usually the Woodland lot).  The owner will have been cited for the parking violation as well as the towing fee.
 Bike Confiscations
-If the officer radios you with a bike confiscation, you will need to record the bike confiscation in the dispatch computer and on your dispatch log.
-•	Click “MasterBike” and “Enter New Bike Confiscation”.
+If the officer radios you with a bike confiscation, you will need to record the bike confiscation in MasterBike and in Report Exec.
+•	Click “MasterBike” and “Enter a New Confiscation”.
 •	Ask the officer if the bike has a sticker.
+•	Fill out the form with the details provided by the officer.  If the officer does not give them to you, ask for the make, model, color, location found, serial number and reason confiscated.
 •	Give the officer the confiscation number.
-•	The confiscation form should print to the dispatch printer.  Fill out the form with the details provided by the officer.  If the officer does not give them to you, ask for the make, model, color, location found, serial number and reason confiscated.
-•	Once the form is completed, go back into MasterBike and click “Enter Data For Existing Confiscation”.  Type in the details of the confiscated bike and then submit the form.  The paper form can be recycled.
-If a student comes into the office claiming his or her bike has been stolen or lost, check the bike confiscation list in MasterBike before reporting it as stolen.  There is usually a $15 punitive fine for the retrieval of a confiscated bike.  To retrieve a bike, the party must obtain a receipt for the fee from the cashier’s window in Frost.  After ownership is verified and the fee is paid, an officer can take the owner to the confiscation area to retrieve his or her bike.
+If a student comes into the office claiming his or her bike has been stolen or lost, check the bike confiscation list in MasterBike before reporting it as stolen.  There is usually a $15 punitive fine for the retrieval of a confiscated bike. To retrieve a bike, the party must take a Confiscated Bike Slip to the Cashier's window in MacDonald and bring back a reciept or pay the fine on CashNet. After ownership is verified and the fee is paid, an officer can take the owner to the confiscation area to retrieve his or her bike.
+•	If the individual believes they should be exempt from the $15 fine, they should be directed to speak with the officer.
 
 8.4	Absentee Parking Passes (App. Green Pass and Waiver Form)
-During the summer, students who will be off campus for any length of time and will be leaving their cars here will need to obtain an absentee parking pass.  They are required to fill out an application for absentee parking and assumption of risk with the vehicle’s information as well as the time period that they plan on being away from campus.  Dispatchers fill out a green Absentee Parking Pass to be placed on the dashboard of the car, with the vehicle information.  An officer or the ACDC needs to sign both forms before the pass is valid.  These cars are typically parked in lot G or H.  During the summer, these forms are kept in a folder near the citation petition forms under the key lock box.
+During the summer, students who will be off campus for any length of time and will be leaving their cars here will need to obtain an absentee parking pass.  They are required to fill out an application for absentee parking and assumption of risk with the vehicle’s information as well as the time period that they plan on being away from campus.  Dispatchers fill out a green Absentee Parking Pass to be placed on the dashboard of the car, with the vehicle information.  An officer or the ACDC needs to sign both forms before the pass is valid.  These cars are typically parked in lot G or H.  During the summer, these forms are kept in a folder near the citation petition forms next to the lost and found cabinet.
+
+8.5	Missing/Added/Changed Information Log
+Anytime that you are notified of updated or incorect information that you are not able to correct, there is a log to the right of the dispatch desk where this can be logged for data entry. This could include incorrect information in MasterFiles or any updated information that we are notified about (vehicle plates, cell phone numbers, vehicle descriptions, etc.). This log will be checked regularly by senior dispatch staff. Be sure to intitial and each entry in case there are follow up or clarification questions.
 
 Section Nine: Dispatcher Shift Information
 9.1		Shift Length
@@ -961,7 +944,7 @@ Section Nine: Dispatcher Shift Information
 9.11	Mandatory Shift Coverage Requests
 ________________________________________
 9.1	Shift Length
-During the school year shifts are typically 4 hours long.  Some experienced dispatchers will work 8-hour shifts but these are unusual.  During scheduled campus breaks (i.e. summer) shifts will usually be 8 hours long.  The shift cycle starts at 0000 (or midnight) or sometimes 0400 (or 4am) for breaks, and is always noted in military time.
+During the school year shifts are typically 2 hours long.  Some experienced dispatchers will work 8-hour shifts but these are unusual.  During scheduled campus breaks (i.e. summer) shifts will usually be 8 hours long.  The shift cycle usually starts at 0400 (i.e. 0400-1200, 1200-2000, 2000-0400) for breaks, and is always noted in military time.
 
 9.2	Desk Coverage and Breaks
 During your shift you should remain at the dispatch station AT ALL TIMES.  At no time should you go past the front counter without proper substitute coverage at the desk.
@@ -978,17 +961,15 @@ While you are on a break:
 Because we are an emergency response center, we cannot reiterate enough the importance of never leaving the desk for any length of time.  Please do not abuse your privilege to take a short break.
 
 9.3	Beginning a Shift
-You are expected to come in at least 5 minutes before your shift begins so that you are completely ready to take over on the hour. As you begin your shift, you should:
+You are expected to come in at least 10 minutes before your shift begins so that you are completely ready to take over on the hour. As you begin your shift, you should:
 •	Note which officer is on duty from the dispatcher you are relieving as well as any relevant information and ongoing situations.
-•	Check the fire computers to see any existing troubles and their locations so you can rERDgnize a new trouble should one come in.
-•	Log into Blackboard and read ALL announcements, check for new information on the discussion boards, including the shift coverage page to see if anyone needs coverage.
+•	Check the fire computers to see any existing troubles and their locations so you can recognize a new trouble should one come in.
+•	Log into your email to check for any new anouncements or shift coverage requests.
 •	Check for any new notices in the at hand information folder, on the bulletin board, the tack strip, or the white board.
 •	Check the counter to see if there is anything waiting to be picked up and make sure you understand who will collect the item and when.  Ensure there is a properly initialed, timed, and dated note on the item indicating all of the above. Additionally make sure the person has been notified that the item is in the office by either phone or email.
-•	Take a blank log from the bin and fill out all of the header information.
+•	Log into Report Exec and put yourself on duty as "dispatch."
+•	Log into MasterFiles and the Go! site on the general use computer. 
 •	Officially relieve the dispatcher on duty.
-o	The first line of your log should read, “Relieved [name of person you relieved]” with the time you actually relieved them.
-o	This time should match the time he or she notes being relieved at the end of his or her log.
-o	If you are unsure of the time they used, ask him or her before he or she leaves or check the previous log.
 
 9.4	Ending a Shift
 Before you leave at the end of your shift, be sure you have done the following:
@@ -996,32 +977,32 @@ Before you leave at the end of your shift, be sure you have done the following:
 •	Notify the relieving dispatcher of anything that you know they can expect to happen during their shift.
 •	Point out any new notices or notes and explain them.
 •	Ensure that any item left in the office from your shift has a note attached to it fully explaining its purpose there with your initials, the date and time.
-•	Enter the relief in your log as the last entry.
 •	Fill out your timesheet.
 
 9.5	Time Sheets and Time Paid (App. Timesheet)
 It is college policy that student workers are paid in 1/4-hour increments, with shift start and end times rounded to the nearest quarter hour.  If everyone is on time, this is easy.  When someone is relieved late, it must be done this way:
-•	Round the time that the relief officially occurred (the time written on the dispatch logs) to the nearest quarter hour.
+•	Timesheets can be found on the Go! site under "Student Links"
+•	Round the time that the relief officially occurred to the nearest quarter hour.
 •	For example: If you relieve Joe Dispatcher at 1205, this is closer to 1200 than 1215, so you begin being paid at 1200. Your time sheet should indicate being on at 1200 and Joe’s sheet should indicate being off at 1200.  If, however, you relieve Joe at 1208, this is closer to 1215. Your timesheet must indicate work starting at 1215 and Joe gets the extra 15 minutes of pay.
 o	DO NOT abuse the system by continuously being 5-7 minutes late and taking the quarter hour of pay.  This is dishonest and unfair to the dispatcher whom you are relieving.  Shift changes are emailed to the ACDC and the officers, so they will be able to note who is continuously late. Repetitive tardiness will not be tolerated and can be grounds for termination.
 •	It is NOT acceptable for both dispatchers to take the 15-minute increment. You must figure out the proper rounding and agree together who will mark the extra 15 minutes on the time sheet.
 •	The ONLY instance when both dispatchers may be paid for the same time is when an emergency is ongoing at the scheduled shift change time. The incoming dispatcher should begin being paid at the normal shift change time; the outgoing dispatcher should be paid to the nearest 15-minute increment when the emergency ends and he or she actually leaves. In such cases, the dispatcher taking the extra pay should mark the time sheet entry with an asterisk and note that there was an emergency at the bottom of the time sheet (see section 9.6). An email should be sent to the ACDC alerting that this has occurred.
 •	If you arrive 15 minutes early, you are NOT paid for this time.  The earliest you can begin being paid is the start of your normal shift time (unless you actually arranged ahead of time to cover a part of the shift for another dispatcher).
-•	Please use military time for your time sheets.
 
 9.6	Emergencies at Shift Change
 If an emergency call comes in near the end of your shift and it is still going on when your relief arrives, it is expected that you will stay to finish the emergency before being relieved.  Mistakes are easily made when dispatchers switch in the middle of an emergency.
 
-If you feel that it is the type of situation that might continue for an extended period of time (over 30 minutes), you may request the officer to authorize your relief and departure and then note that it was authorized and who authorized it on your log.  Be sure that your relief in this situation is FULLY AND COMPLETELY briefed on all of the details of the situation.
+If you feel that it is the type of situation that might continue for an extended period of time (over 30 minutes), you may request the officer to authorize your relief and departure and then note that it was authorized and who authorized it in the Rerort Exec call.  Be sure that your relief in this situation is FULLY AND COMPLETELY briefed on all of the details of the situation.
 •	NOTE: This is the only instance where it is acceptable for both dispatchers to take the same time increment on their time sheets (see section 9.5).
 
 9.7	Late Relief
 If your relief is late for his or her shift:
-•	Check both the dispatch schedule on the bulletin board (most up to date version is always on Blackboard) and any pending shift coverage threads on Blackboard to make sure you know who is supposed to be working.
-•	Once it is 5 minutes past shift change time, you may call the scheduled dispatcher.  The dispatcher call list is located in the box underneath the citation petitions and time sheets.
-•	If you are unable to reach him or her, notify officer on duty (it is possible that the officer may be able to knock on the dispatcher’s room door).
+•	Check the dispatch schedule on the bulletin board.
+•	Once it is officially time for shift change (i.e. 0800, 1200, etc.), you may call the scheduled dispatcher. The dispatcher call list is located in the the at-hand binder and all numbers are on speed-dial in the operator phone. 
+•	If you are unable to reach him or her, notify the officer on duty (it is possible that the officer may be able to knock on the dispatcher’s room door if they live on campus).
 •	If this is not effective, notify the ACDC and Head Dispatcher of the situation and follow the procedure for finding emergency shift coverage (i.e. call down the dispatcher list).
 •	It is imperative that ANY TIME a dispatcher fails to show up for a shift or is excessively late, you email the ACDC to alert them of what occurred.  This is regardless of whether coverage was found, or you are willing to stay on.
+NOTE: If you are going to be late for a shift (even if it is only a minute or two), as early as possible call the office to let the dispatcher on duty know of the situation. This way they can plan ahead and find coverage for that time if they need to get to class or another commitment. Repeated tardiness for scheduled shifts is grounds for dismissal. If you are having trouble making it on time for a certain shift due to a class or other event that happens just before your shift, speak to the ACDC immidiately, so that the conflict can be resolved.
 
 9.8	Emergency Shift Coverage
 If you receive a call from your relief who is unable to work due to illness, death in the family, or a similar emergency:
@@ -1037,21 +1018,24 @@ There must always be someone working at the dispatch desk (24/7/365). You are re
 
 You are responsible for filling your shift if you cannot work.  Because of the requirement that the desk be covered at all times, failure to cover a scheduled shift or to follow proper shift change procedure is a serious issue and may be grounds for dismissal.
 
-9.10	Shift Change Procedure on Blackboard (procedure can also found on Blackboard)
-When you wish to have a shift covered, you must EMAIL the entire dispatch staff including the ACDC.  The Blackboard post and email must include the following information:
+9.10	Shift Coverage Procedure 
+When you wish to have a shift covered, you must EMAIL the entire dispatch staff including the ACDC by using the email dps-students@gordon.edu. The email must contain the following:
 •	A detailed description of the shift you want coverage for (date, time, brief reason for why you want coverage).
 •	If you feel as though it is mandatory you have the requested shift covered, please email the ACDC explaining your reasons at least 2 weeks in advance.
+•	When multiple dispatchers reply saying they would like to cover a shift, the general rule is first one to respond gets it. 
+•	When a shift is exchanged either the dispatcher giving the shift or the one taking it should cross their name of the shift on the schedule in the back of the office and write the new name in. If they cannot come into the office, they should call and ask the dispatcher on duty to do so for them. 
 The following policies for shift changes apply:
-•	There is NEVER a time when someone else covers your shift and a shift change posting is not required.  Even if you have a sub arranged from the start, notification must be posted (both on the schedule and an email to ACDC copying all parties involved in the swap).
-•	If you arrange coverage and it is not in writing, as an email to the ACDC, and a dispatcher does not show up, it will be your responsibility.  If it’s not in writing, it is still your shift.
-•	You must post a shift change request at least 2 weeks in advance of a shift if you feel that it is mandatory that you have it off (see section 9.11).
-•	For non-mandatory shift changes, you may post a form within 1 week in advance, as you will be covering the shift anyway if no sub is found.
+•	There is NEVER a time when someone else covers your shift and a shift coverage email is not required.  Even if you have a sub arranged from the start, notification must be posted (both on the schedule and an email to ACDC copying all parties involved in the swap).
+•	If you arrange coverage and it is not written in on the schedule or in an email to the ACDC, and a dispatcher does not show up, it will be your responsibility.  If it’s not in writing, it is still your shift.
+•	You must send a shift coverage email request at least 2 weeks in advance of a shift if you feel that it is mandatory that you have it off (see section 9.11).
+•	For non-mandatory shift changes, you may send an email within 1 week in advance, as you will be covering the shift anyway if no sub is found.
 •	If no one takes your shift after a period of time, begin to call down the list of dispatchers to secure coverage.  You will generally receive better coverage for your shifts if you are willing to help others out when they need to get shifts covered.
 •	Please check your email for open shifts at the beginning of your shift and take whichever shifts you can.
 •	If you choose to take an open shift, please reply all to the email so everyone knows it is covered and either change the name on the shift in the office yourself or call the dispatcher working to do it for you.
+o	Reminder: You are required to check your email at least once every 24 hours to check for new announcenets and coverage requests. You should respond in some manner to all departmental emails (even if just to say "got it") (see section 2.4).
 
 9.11	Mandatory Shift Coverage Requests
-To request a mandatory shift change, follow the same procedure as above.  Note in your posting that you believe that it is mandatory to have the shift covered.  The ACDC will approve or deny whether or not the coverage is mandatory.
+To request a mandatory shift change, follow the same procedure as above.  Note in your email that you believe that it is mandatory to have the shift covered.  The ACDC will approve or deny whether or not the coverage is mandatory.
 •	Reminder:  MANDATORY REQUESTS SHOULD BE POSTED AT LEAST TWO WEEKS BEFORE COVERAGE IS NEEDED. AND AN EMAIL TO THE ACDC STATING THE SITUATION IS REQUIRED.
 •	YOU are responsible for checking on the status (you should not assume it will be approved).
 If the request for a mandatory shift change is approved, you must do the following:
