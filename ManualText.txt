@@ -702,7 +702,7 @@ Some trouble alarms look differently than others.  Power related trouble alarms 
 5.9a Recurring Trouble Alarms
 When there are recurring troubles, there will be a PRINTED list on the cork board/dry erase board to the left of the Onyx fire computer monitor.  If you receive instruction from Mike Favaloro (Mobile 12) or an officer to add a new trouble, write it on the dry erase side with your initials and date.  These troubles will be added to the printed list on a regular basis, and will be sent to Mike regularly for updating.  You do NOT have to contact the duty officer any time these troubles come in.
 5.9b Offline Buildings
-Buildings will only be taken offline if Mike Favaloro (M12) or another alarm technician is working on the fire systems. Or if there is construction work in the building that has a high likely hood of tripping a false alarm. Whenever Mike or another alarm technician takes a building offline for service, he will attach a red laminated placard (stored behind the fire alarm monitor) to the top front of the alarm monitor as a visible reminder to all of us that a building is offline.  Mike may also call to instruct a member of Public Safety staff to hang the placard; we should NEVER display it unless directly asked to do so by Mike or his designee. When Mike has returned the building to normal function, he will either remove the placard (storing it again behind the monitor) or he will instruct us to remove it.
+Buildings will only be taken offline if Mike Favaloro (M12) or another alarm technician is working on the fire systems. Or if there is construction work in the building that has a high likely hood of tripping a false alarm. Whenever Mike or another alarm technician takes a building offline for service, he will attach a red laminated placard (stored behind the fire alarm monitor) to the top front of the alarm monitor as a visible reminder to all of us that a building is offline.  Mike may also call to instruct a member of Gordon Police staff to hang the placard; we should NEVER display it unless directly asked to do so by Mike or his designee. When Mike has returned the building to normal function, he will either remove the placard (storing it again behind the monitor) or he will instruct us to remove it.
 
 Anytime a building is taken offline for work or testing of any kind, it is important that you know why it is being taken offline.  There are two general cases and two responses to alarms that come in while a building is offline:
 •	If the building is offline due to testing of the system or work by a fire alarm technician directly on the fire system where a fire alarm technician will be present and intentionally sending the building into alarm, you may ignore all alarms both trouble and fire that come in the system for that building while it is offline.
@@ -1062,13 +1062,13 @@ Keep in mind that since the registrant should have his or her state vehicle regi
 
 If the registrant does not have his or her registration and proof of insurance in hand, it must be retrieved from the vehicle before beginning the registration procedure.  This is for our own good because we can then verify the information is accurate. Remember, the minimum information required to issue a Gordon sticker is highlighted above and also on a laminated sheet near the front counter.
 
-If registrants are missing NON-REQUIRED information, you can proceed with completing the registration and issue the appropriate Gordon sticker.  He or she should then be instructed to email the missing information to Public Safety at their earliest convenience so that we can eventually have the information on file.
+If registrants are missing NON-REQUIRED information, you can proceed with completing the registration and issue the appropriate Gordon sticker.  He or she should then be instructed to email the missing information to police@gordon.edu at their earliest convenience so that we can eventually have the information on file.
 
 10.1c Nonresident Driver Statement
 All nonresident students of Massachusetts must obtain a nonresident permit (explanation on form).  THE NONRESIDENT PERMIT FORM IS A COMPLETELY SEPARATE PROCESS FROM THE GORDON VEHICLE REGISTRATION PROCESS.  In other words, students should always be issued a Gordon College permit (see section 10.1a) even if they cannot complete the nonresident form at the time of registration.  The nonresident permit should only be issued to full time undergraduate and graduate students (this does not apply to faculty or staff).  The nonresident permit has nothing to do with whether the student lives on campus or commutes and applies even to students who commute from out of state.  The nonresident permit should only be issued to students whose vehicle has an out of state plate.
 Notes about nonresident permit:
 •	The sticker is free of charge.
-•	If a student cannot complete the nonresident form at time of registration, issue a nonresident disclaimer notice with the nonresident form and instruct the student to COMPLETELY fill out the form and return it to Public Safety in order to obtain a nonresident sticker.  Tell all students that we cannot accept incomplete nonresident forms.
+•	If a student cannot complete the nonresident form at time of registration, issue a nonresident disclaimer notice with the nonresident form and instruct the student to COMPLETELY fill out the form and return it to Gordon Police in order to obtain a nonresident sticker.  Tell all students that we cannot accept incomplete nonresident forms.
 •	The nonresident permit application must be COMPLETELY filled out before we can issue a nonresident permit. If nonresident information is unavailable, you can still issue a Gordon College sticker, but you CANNOT issue a nonresident permit.
 •	Please do all that you can to assist students in filling out the nonresident form.  Common areas of confusion:
 o	REGISTRATION NUMBER = License plate.
@@ -1121,8 +1121,8 @@ When a graduate student comes in to register:
 •	Record zero “0” fee.  They pay for parking as part of their “graduate fee” on their student bill.
 •	Initial and date the form.
 Motorcycles are registered in the following manner:
-•	Have the individual fill out the Gordon registration card.
-•	Nonresident permit rules apply (undergrad students only).
+•	Have the individual fill out a paper form.
+•	Nonresident permit rules apply (students only).
 •	Double-check the information by referencing the person’s state registration form.
 •	Issue no Gordon permit.  We simply keep their information on file and enter it in our system
 •	Check the appropriate box for student, faculty/staff, etc.
@@ -1176,7 +1176,7 @@ On the wall in the office is a locked box containing key sets used on campus.  O
 NOTE:  If you are found responsible for giving the key box combo to a person other than another currently employed dispatcher, officer or the ACDC, you will be permanently dismissed.
 
 11.2	Returning Campus Issued Keys (App. Key Return Log)
-Public Safety handles key returns for the Physical Plant locksmith.  Key return information is kept on a log located on a clipboard on the wall near the customer service desk.
+Gordon Police handles key returns for the Physical Plant locksmith.  Key return information is kept on a log located on a clipboard on the wall near the customer service desk.
 •	WE DO NOT RECEIVE RESIDENTIAL OR HALL KEYS.
 o	These keys should be returned to Student Life or the issuing RD.
 •	We do receive keys being returned at the end of a period of issue from students and faculty/staff.
@@ -1231,7 +1231,7 @@ o	To check the ID of a person who has lost a wallet/purse, you may compare a pho
 12.4	Lost and Found Clean Out
 After a period of 30 days (60 days for valuable items), the ACDC will clean out items from lost and found.  Individuals who turned items into lost and found, but who wanted to keep the item if it went unclaimed, will be contacted to pick up the item.  These should still be handled using the Lost and Found Pickup log.
 
-For all other items, members of Public Safety, including dispatchers, are allowed to claim items.  Dispatchers must inform the ACDC of the item they want to claim.  Please do not take things from lost and found without permission.  The ACDC will alert you when the item is available to take with you.  All other items older than 30 days will be donated or thrown out, depending on the item and its condition.  They will be marked in the database as “Donated” or “Trashed”.
+For all other items, members of Gordon Police, including dispatchers, are allowed to claim items.  Dispatchers must inform the ACDC of the item they want to claim.  Please do not take things from lost and found without permission.  The ACDC will alert you when the item is available to take with you.  All other items older than 30 days will be donated or thrown out, depending on the item and its condition.  They will be marked in the database as “Donated” or “Trashed”.
 
 In order to be fair, unclaimed valuable items in lost and found will be handled via a silent auction, with the money going towards a worthy cause (Gordon missions trips, etc.).  If more than one person claims the item, the highest bidder will win.  If multiple people bid an equal amount and no one surpasses that amount, the names will be entered into a blind raffle.
 Section Thirteen: Miscellaneous Dispatch Duties
@@ -1281,7 +1281,7 @@ When the mail delivery comes for the office during the day, it will be dropped o
 •	Anything addressed to Gordon Police with no identifying officers’ name may be put in the Chief’s box.
 
 13.8	Other Deliveries
-We occasionally receive other deliveries for members of the campus community, such as flowers or lost luggage. Note: During normal business hours (M-F 0800-1630), all deliveries should be directed to the mailroom. Public Safety only receives deliveries during non-business hours, weekends, and holidays (in other words when the mailroom is not staffed).
+We occasionally receive other deliveries for members of the campus community, such as flowers or lost luggage. Note: During normal business hours (M-F 0800-1630), all deliveries should be directed to the mailroom. Gordon Police only receives deliveries during non-business hours, weekends, and holidays (in other words when the mailroom is not staffed).
 •	You should contact the recipient, letting them know to come and pick up the item (see section 2.5).
 o	If it is a perishable item (flowers, food, etc.), it is best to call the recipient’s cell phone, if they have one.  Use email if the party cannot be reached.  Whether you speak to the recipient directly or leave a message, be sure to request that they pick up their item(s) ASAP.
 •	Leave a note on the delivery on the desk, indicating what you have done to locate the recipient, as well as the date, time and your initials.  If you need a paperclip to affix a note to a card or envelope, you can obtain one from above the ACDC’s computer.
