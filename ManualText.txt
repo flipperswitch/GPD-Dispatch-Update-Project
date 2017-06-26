@@ -575,12 +575,12 @@ Section Six: Emergency Situations
 6.9b Offline Buildings
 6.10 Panic Alarms
 6.11 Security Alarms
-	6.11a	General Security Alarms 
-	6.11b	BCA Alarm Calls
-	6.11c	Bennett Security Alarms
-	6.11d	Wilson House Security Alarms
-	6.11e	Growth Chamber Automated Messages
-	6.11f	Bookstore Alarm
+	6.11a	BCA Alarm Calls
+	6.11b	Bennett Security Alarms
+	6.11c	Wilson House Security Alarms
+	6.11d	Growth Chamber Automated Messages
+	6.11e	Bookstore Alarm
+	6.11f	Temperature Alarms
 6.12 Weather and Power alerts
 ________________________________________
 6.1	General Information (App. Lists of Procedures)
@@ -742,11 +742,10 @@ Through the Alertus system, which is the system we use to alert the campus to ha
 •	You should be notified about these general campus alerts before they go out and you do not need to follow up on them unless instructed to do so.
 
 6.11	Security Alarms
-6.11a	General Security Alarms 
-
-6.11b	BCA Alarm Calls
+We receive a variety of sercurity alarms to our office. Some will come in through the fire computer and others will come in as phone calls either to the main police line or on the white backup emergency phone. The standard procedure is to dispatch the officer immediately, attempt to call the source of the alarm if a number is available, and log the alarm in Report Exec.
+6.11a	BCA Alarm Calls
 Gordon uses an outside security service to protect the galleries in BCA. Alarm calls regarding the galleries will come in on the outside emergency line (phone above the dispatch console) and you will speak to a live person about the situation. If you receive a call from the alarm company, radio the officer about the situation.  The caller from the alarm company may ask for your name.  These calls should be followed up with expediency.
-6.11c	Bennett Security Alarms
+6.11b	Bennett Security Alarms
 The Bennett Center has a security alarm which is routed through the Fire Computer Work Station in the Dispatch Area. When a door alarm is tripped in Bennett, you will receive a TROUBLE ALARM through the fire alarm system. On the “normal” fire alarm monitor, you will see a yellow supervisory trouble alarm.  In the “new events” list it should say something like this: “Supervisory Alarm – Bennett”
 
 NOTE:  At this point, you still don’t know whether it is a normal fire-related trouble alarm or the security alarm. To determine this, you will need to DOUBLE-click on the new event (just like with fire alarms and other trouble alarms). Then (just like with fire alarms) you will want to read the MIDDLE line in the black section at the bottom of the screen. The middle line should say something like this:
@@ -754,17 +753,22 @@ NOTE:  At this point, you still don’t know whether it is a normal fire-related
 
 Please note that the wording might be slightly different each time, but it should always include the word “Security.”  Again, just to be clear, you will NOT see the word “Security” in the new event when it first appears; you will only see it on the middle line when you double-click the new event.  If the alarm comes in during hours that Bennett is open, please call the front desk and tell the student worker that you just received an alarm and ask him or her if an officer is needed.  If the Bennett center is closed or there is no response at the Bennett front desk, radio the officer.
 
-6.11d  Wilson House Security Alarms
+6.11c  Wilson House Security Alarms
 The Wilson House (president’s residence) is set up with a security system similar to the Bennett Center.  This is set up mostly to alert the occupants of the house if the door is opened and a child is potentially running loose.  It is also used as a typical Security System for when the family is away.  These alarms will come in similar to the Bennett Center Supervisory Alarms on the fire computer work station but will be blue and characterized as a security alarm (and appear in blue) rather than a supervisory alarm (in yellow) and will also say “security” in the middle line in the black section at the bottom of the screen. However, where it would say Bennett” it will say “Wilson House.”  Due to the nature of the disability of one of the president’s children it is IMPERATIVE that these security alarms at the Wilson House be dispatched to the officer IMMEDIATELY.  You should then log the event as you would any security alarm.  If you receive a phone call from the president alerting you that everything is ok, inform the officer that you have received the call, however the officers still must respond to the residence and you still must dispatch the event.  The president knows this, but you can remind them (or his wife/family/babysitter) at the time they call that the officer will still come by and thank him for calling.
 
-6.11e	Growth Chamber Automated Messages (App. Growth Chamber Procedure)
+6.11d	Growth Chamber Automated Messages (App. Growth Chamber Procedure)
 If you receive an automated phone message saying that the Growth Chamber in the Ken Olsen Science Center has gone into alarm status, notify the officer and he or she will check out the room for anything obviously wrong. Once the officer has checked the room, ask if him or her if you should contact professor Stan Reczek or Dr. Ming Zheng.  If told to call, first try their offices and then their homes and cells. If you are unable to reach them, leave messages.
 
-6.11f	Bookstore Alarm Calls
+6.11e	Bookstore Alarm Calls
 The Gordon College Bookstore is owned and operated by Follett Corporation. Follett employs an outside alarm company to monitor the bookstore areas. If you receive a call regarding an alarm you should get the name of the person calling and the location of the alarm and relay this information to the Duty Officer immediately (if possible, keep the caller on the line in case the officer has a follow-up question he or she wants answered). The officers will follow up appropriately.
 
-6.12	Weather and Power alerts
+6.11f	Temperature alarms
+If you receive a recorded call informing you about the temperatue in a certain building, record the details and dispatch them to the officer. This is most common during winter break when the buildings get cold. 
 
+6.12	Weather and Power alerts
+Weather alerts will come in via the dispatch cell phone. The most common situation is a lighening stike within ten miles fo campus. Always check the dispatch cell phone if a text message comes in. If you receive a lightening or other dangerous weather notification, press the general "alert" tone and dispatch to all units. You will then call the grounds supervisor at Physical Plant and the camp directors (Adventure camp and various Sports camps) if during the summer. 
+
+Power Alerts? 
 
 Section Seven: Safety and Security
 7.1	Lockouts and MasterPermission
