@@ -1035,13 +1035,13 @@ Examples of acceptable mandatory shift changes are weddings, funerals, finals oc
 Examples of non-mandatory shift changes are your birthday, going on a date, seeing a play that your friend is in, going home for the weekend, personal travel/trip, company (family/friends) coming, etc.
 Section Ten: Motor Vehicle and Bike Information
 10.1	Motor Vehicle Registration
-10.1a Gordon Registration Form
-10.1b Nonresident Driver Statement
-10.1c Registration Notes
-10.1d Special Registrations
+10.1a ipad Registration
+10.1b Gordon Registration Form
+10.1c Nonresident Driver Statement
+10.1d Registration Notes
+10.1e Special Registrations
 10.2	Temporary Passes
-10.3	24-Hour Administrative Pass
-10.4	Bicycle Registration
+10.3	Bicycle Registration
 ________________________________________
 10.1	Motor Vehicle Registration. (App. Gordon Registration Form, Nonresident Driver Form)
 General Information
@@ -1050,18 +1050,22 @@ All persons who register a vehicle with us should have their state registration 
 Our main goal in registering a student is to give them a Gordon permit as soon as possible.  The MA nonresident form is a COMPLTELY SEPARATE process.  Issuing a Gordon College permit is in no way contingent upon issuing a nonresident permit at the time of registration.  However, students should ALWAYS be handed a written warning about the penalty for NOT obtaining a nonresident sticker.  Non-Massachusetts resident students should make it a priority to obtain their nonresident permit.
 
 Registration Procedures
-10.1a Gordon Registration Form
+10.1a ipad Registration
+Undergraduate students, graduate students, and Fac/Staff can all register on the ipads for a Gordon registration sticker. When someone comes into the office to register a car, direct them to the ipads in the hallway. They will use their Gordon username and password to login. Once they have completed their form click the refresh button on your ipad and issue a sticker. If they need a non-resident form it will prompt you to issue a non-resident sticker as well. 
+
+If they are unable to register on the ipads or the ipads are down, you will have them fill out a paper form
+
+10.1b Gordon Registration Paper Form
 When filling out a Gordon registration form, the following information is REQUIRED for all registrants:
-
-
+INSERT PICTURE OF REGISTRATION FORM W/ HIGHLIGHTED INFO
 Keep in mind that since the registrant should have his or her state vehicle registration and insurance information, the entire form can and should be filled out.  However, the REQUIRED information highlighted above indicates the information that we must have in order to accept a registration form.  For example, you should never turn someone away from registering simply because he or she does not know his or her Gordon ID, license number, etc.
 
-If the registrant does not have his or her registration and proof of insurance in hand, it must be retrieved from the vehicle before beginning the registration procedure.  This is for our own good because we can then verify the information is accurate.  If REQUIRED information is completely unavailable (i.e. registration or plates have not been mailed to him/her from the state), you can then issue a 24-Hour Administrative Pass (see section 10.3).  Remember, the minimum information required to issue a Gordon sticker is highlighted above and also on a laminated sheet near the front counter.
+If the registrant does not have his or her registration and proof of insurance in hand, it must be retrieved from the vehicle before beginning the registration procedure.  This is for our own good because we can then verify the information is accurate. Remember, the minimum information required to issue a Gordon sticker is highlighted above and also on a laminated sheet near the front counter.
 
 If registrants are missing NON-REQUIRED information, you can proceed with completing the registration and issue the appropriate Gordon sticker.  He or she should then be instructed to email the missing information to Public Safety at their earliest convenience so that we can eventually have the information on file.
 
-10.1b Nonresident Driver Statement
-All nonresident students of Massachusetts must obtain a nonresident permit (explanation on form).  THE NONRESIDENT PERMIT FORM IS A COMPLETELY SEPARATE PROCESS FROM THE GORDON VEHICLE REGISTRATION PROCESS.  In other words, students should always be issued a Gordon College permit (see section 10.1a) even if they cannot complete the nonresident form at the time of registration.  The nonresident permit should only be issued to full time undergraduate students (this does not apply to faculty or staff).  The nonresident permit has nothing to do with whether the student lives on campus or commutes and applies even to students who commute from out of state.  The nonresident permit should only be issued to students whose vehicle has an out of state plate.
+10.1c Nonresident Driver Statement
+All nonresident students of Massachusetts must obtain a nonresident permit (explanation on form).  THE NONRESIDENT PERMIT FORM IS A COMPLETELY SEPARATE PROCESS FROM THE GORDON VEHICLE REGISTRATION PROCESS.  In other words, students should always be issued a Gordon College permit (see section 10.1a) even if they cannot complete the nonresident form at the time of registration.  The nonresident permit should only be issued to full time undergraduate and graduate students (this does not apply to faculty or staff).  The nonresident permit has nothing to do with whether the student lives on campus or commutes and applies even to students who commute from out of state.  The nonresident permit should only be issued to students whose vehicle has an out of state plate.
 Notes about nonresident permit:
 •	The sticker is free of charge.
 •	If a student cannot complete the nonresident form at time of registration, issue a nonresident disclaimer notice with the nonresident form and instruct the student to COMPLETELY fill out the form and return it to Public Safety in order to obtain a nonresident sticker.  Tell all students that we cannot accept incomplete nonresident forms.
@@ -1072,7 +1076,7 @@ o	Insurance Information:  This must be accurate and up to date.  Students should
 o	The document MUST be signed.
 o	We legally cannot issue a permit to someone who checks “no” for either insurance question.  Their insurance must meet the Massachusetts required minimum no matter what their residential state minimum is.  If the answer is no to either of the questions, send them with the form and tell them to come back once their coverage has been adjusted to the legal minimum and then a sticker may be issued.
 
-10.1c Registration Notes
+10.1d Registration Notes
 Questions to ask every registrant:
 •	Do you have your registration and proof of insurance?
 •	Are you a Graduate student, Undergraduate student, Faculty, or Staff?
@@ -1082,36 +1086,35 @@ Questions to ask every registrant:
 
 Frequently asked questions from registrants:
 Q:  What if I am only going to have this car on campus temporarily?
-A:  If the car is only going to be on campus for less than 2 weeks, we can issue a temporary pass.  The charge for a temporary pass is $5 - - any longer than 2 weeks, and you should register the vehicle for the year.  If you happen to then remove the vehicle from campus, email Public Safety for a fee reduction.
+A:  If the car is only going to be on campus for less than 2 weeks, we can issue a temporary pass.  The charge for a temporary pass is $20 - - any longer than 2 weeks, and you should register the vehicle for the year.  If you happen to then remove the vehicle from campus, email police@gordon.edu for a fee reduction.
 
 Q:  Can I register two cars on campus?
 A:  Yes, you may register two cars, however, you can only have one car on campus at a time.  You will only be charged for one vehicle.
 
 Q:  I’m going abroad in the spring. Can I only be charged for a semester fee instead of a whole year?
-A:  We have to record a full-year fee for all students, but if you are definitely going abroad, send an email to Public Safety at the end of the semester and your fee will be reduced to the semester rate at that time.
+A:  We have to record a full-year fee for all students, but if you are definitely going abroad, send an email to police@gordon.edu at the end of the semester and your fee will be reduced to the semester rate at that time.
 
 Q:  Where can I park without getting a ticket?
 A:  All of the parking restrictions are listed on the Go site and posted here in our office on the bulletin boards.
 
-Any question that you cannot answer can always be directed to the duty officer or sent in an email to Public Safety from the student.
+Any question that you cannot answer can always be directed to the duty officer or sent in an email to police@gordon.edu from the student.
 
 Other Registration Notes
 •	Always record the full-year fee (unless otherwise instructed).  Fees are not always the same from year to year.
-•	Students who believe they qualify for a fee reduction should email Public Safety.
+•	Students who believe they qualify for a fee reduction should email police@gordon.edu.
 •	Gordon stickers go in the lower left hand side front windshield.
 •	Nonresident stickers go in top center of the front windshield, just beneath the rear-view mirror.
 •	Dependents of Faculty/Staff are charged zero “0” fee.
-•	Public Safety does not receive student payments in the office.  The fee will be charged to his or her student bill.  However, if he or she wishes to pay it right away, he or she can take the money to the cashier’s window in Frost. WE NEVER ACCEPT PAYMENT IN THE OFFICE.
-•	First year students must park in Woodland.  Clarify what year the student is so that they receive a Woodland sticker, if necessary.  There is provided a list of first year students in the office with which you can verify.  Woodland stickers are determined by years at Gordon, not by credit standing.
-•	First-year students who commute are not restricted to Woodland.
+•	Gordon Police does not receive student payments in the office.  The fee will be charged to his or her student bill.  However, if he or she wishes to pay it right away, he or she can take the money to the cashier’s window in Frost. WE NEVER ACCEPT PAYMENT IN THE OFFICE.
+•	First and second year students must park in Woodland.  Clarify what year the student is so that they receive a Woodland sticker, if necessary. You can verify standing through the Commuter status check in MasterPhone.
 •	All commuters are billed automatically for the full year fee.  Therefore, there is no financial gain for a commuter student to delay registration.
 •	Check all registration forms for legibility and clarity.  We need to be able to read them with NO confusion!  Watch out for 5’s and S’s, 4’s and 9’s, 6’s and G’s, zeroes and O’s and 2’s and Z’s and 1’s and I’s! (it is common practice to cross a zero to differentiate from O’s and cross Zs to differentiate from 2s)
 •	Initial and date registration cards.
 •	All registrants must provide a cell phone number.  If they do not own cell phones, they must sign the “Cell Phone Notice” underneath the front counter.
 
-10.1d Special Registrations
+10.1e Special Registrations
 When a graduate student comes in to register:
-•	Have the grad student fill out only the Gordon registration card.  Nonresident form not required.
+•	Have the grad student fill out only the Gordon registration card and a non-resident form if the plates are not MA.
 •	Double-check the information by referencing the person’s state registration form.
 •	Issue a graduate sticker and record the number on the Gordon registration card.
 •	Check the “Graduate Student” box.
@@ -1131,21 +1134,19 @@ Motorcycles are registered in the following manner:
 Students and guests who will have a vehicle on campus overnight that is not already registered with us will need to receive a temporary pass.  Temporary passes can be issued for situations such as a new car that still has temporary plates, a student borrowing a car for the weekend, the registered car is in the shop and the student has a rental, etc.
 
 Visitor Passes
-Visitor passes are good for 3 days (the CSD mandated maximum length of overnight stay for guests on campus) and are free or charge.  Visitors can park in marked visitor’s spaces or the chapel lot for overnight parking.  To issue the pass:
-•	Click “Visitor 3-Day” on the home screen in MasterPhone.
-•	Search for the host student’s name.  Once you find it, ask the visitor for his or her cell phone number.
+Visitor passes are good for 3 days (the Student Life mandated maximum length of overnight stay for guests on campus) and are free or charge.  Visitors can park in marked visitor’s spaces or the chapel lot for overnight parking.  To issue the pass:
+•	Click “Issue Vistor Pass” on the home screen in MasterPhone.
+•	Search for the host student’s name and read them the notifications on the screen. 
 •	Fill in the vehicle information and submit the form.  It should print out to the dispatch printer.  Sign the sheet and inform the visitor where he or she should park.
 Short-Term Passes
-Short-term passes are good for 7 days and cost $5. Students may not receive more than 2 passes per quad. Students who already have a car registered on campus who wish to receive a pass (borrowing a different car, car is in the shop) will not be charged the $5 fee.  Students are required to follow all normal lot restrictions while they have a temporary pass.  To issue the pass:
-•	Enter the student’s ID number and click “Student Pass” on the home screen in MasterPhone.
+Short-term passes are good for 2 Weeks and cost $20. Students may not receive more than 2 passes per quad. Students who already have a car registered on campus who wish to receive a pass (borrowing a different car, car is in the shop) will not be charged the fee.  Students are required to follow all normal lot restrictions while they have a temporary pass.  To issue the pass:
+•	Enter the first four letters of the student’s last name in “Issue 2-Week Passes” on the home screen in MasterPhone.
 •	Verify the name of the student and click “continue”.
-•	Explain that unless the student already has a car registered on campus, he or she will be charged $5 to his or her student bill.
-•	Record the student’s cell phone number.
-•	Select “Resident” or “Commuter” and fill out the vehicle information.
+•	Explain that unless the student already has a car registered on campus, he or she will be charged $20 to his or her student bill.
 •	Submit the form and it should print out at the dispatcher computer.  Sign the form and explain the parking regulations.
 Staff Passes
 If a faculty/staff member has a car temporarily that they do not wish to register, we can issue them a 2 or 4-week pass.
-•	Enter the person’s staff ID number and click “STAFF Temp. Pass”.
+•	Enter the first four letters of the staff's last name in "Issue 2-Week Passes” on the home screen in MasterPhone.
 •	Follow the same steps as issuing a student pass, but ignore the fee, as it is free for this pass.
 •	If the staff member wants a pass for longer than a month, suggest that he or she registers the car the normal way, as it is also free of charge.
 
@@ -1166,12 +1167,10 @@ ________________________________________
 Because we are open 24/7, Rodgers Reception Center is a convenient location for key pickup, drop off, or return. Various types of keys will be handled in different ways.
 
 11.1	Key Sets for Campus Workers
-On the wall in the office is a locked box containing key sets used on campus.  Only officers, the ACDC and dispatchers are permitted to know the combination to the key box.  If someone comes in wanting to check out or return a set of keys, ask for the person’s name and what department (or company if it is a contractor) he or she works for.  Verify the person’s name on the permission list on the front of the key box.  If the individual’s name is not on the permission list, please radio the officer or ask the ACDC to verify the individual.  After working a shift for a few weeks, you should begin to get a feel for who will come in to pickup/drop off keys.  After verifying the individual, open the key box:
-•	Enter the 4-digit combo.  The numbers can be in any order, as long as you use the correct numbers.
-•	If the correct combo has been entered, you can turn the black knob to open the box.
-•	If you entered the wrong combo, the knob will not unlock the box.  In this case, slide the rectangular “reset” button down until it clicks.  Enter the combo again.
+On the wall in the office is a locked box containing key sets used on campus.  Only officers, the ACDC and dispatchers are permitted to know the combination to the key box.  If someone comes in wanting to check out or return a set of keys, ask for the person’s name and what department (or company if it is a contractor) he or she works for.  Verify the person’s name on the permission list inside the key box.  If the individual’s name is not on the permission list, please radio the officer or ask the ACDC to verify the individual.  After working a shift for a few weeks, you should begin to get a feel for who will come in to pickup/drop off keys.  After verifying the individual, open the key box:
+•	Enter the 3-digit combo. 
 •	You must follow all of the instructions on the permissions list.  NEVER check the keys out to people who are not on the list.  If you feel there may be an exception, an officer must be the one to check out the keys.
-•	When checking the keys out, enter it on the checkout log, writing the name, company/department, date & time and your initials.  Repeat this same process when returning keys.
+•	When checking the keys out, enter it on the checkout log, writing the name, company/department, key set #, date & time and your initials.  Repeat this same process when returning keys.
 •	If you think someone should be added to the list, please inform the ACDC.
 
 NOTE:  If you are found responsible for giving the key box combo to a person other than another currently employed dispatcher, officer or the ACDC, you will be permanently dismissed.
@@ -1179,28 +1178,23 @@ NOTE:  If you are found responsible for giving the key box combo to a person oth
 11.2	Returning Campus Issued Keys (App. Key Return Log)
 Public Safety handles key returns for the Physical Plant locksmith.  Key return information is kept on a log located on a clipboard on the wall near the customer service desk.
 •	WE DO NOT RECEIVE RESIDENTIAL OR HALL KEYS.
-o	These keys should be returned to CSD or the issuing RD.
+o	These keys should be returned to Student Life or the issuing RD.
 •	We do receive keys being returned at the end of a period of issue from students and faculty/staff.
 o	These include classroom, office, lab, academic building keys, and master keys.
-o	Dispatchers are authorized to sign a Faculty/Staff termination check sheet.
-•	Keys should be placed in the white key box on the shelf under the customer service counter.
+o	Dispatchers are not authorized to sign a Faculty/Staff termination check sheet. You must get an officer or the ACDC to do this. 
+•	Keys should be placed in the clear key return box on the windowsill.
 •	Record the return on the Key Return Log.
 o	Include your initials, the name that the keys were issued to, the person’s ID number, and the numbers that are imprinted on the keys that are being returned.
 
 We have no authority over key distribution or fining.  Any specific key requests and questions should be referred to Physical Plant (specifically the locksmith).  Currently, Leo Cleary is the locksmith.
 
 11.3	Lynn Van Keys (App. Lynn Van Sign-Out)
-Gordon in Lynn operates several vehicles for students to get to and from programs off campus. The vehicles are usually parked in the strip of spaces near the chapel and the keys are kept at RRC with the van checkout log.  The Gordon in Lynn program is in charge of van scheduling and driver authorization.  Our only responsibility is to ensure that all of the information is filled out in the checkout log and to check the driver’s license of the person taking the keys.  There is a space for you to initial to indicate that you have seen the person’s driver’s license.  The Lynn sign-out form and vehicle keys are kept beneath the service counter.
+The Office of Community Engagement operates several vehicles for students to get to and from programs off campus. The vehicles are usually parked in the strip of spaces near the chapel and the keys are kept at RRC with the van checkout log.  The OCE is in charge of van scheduling and driver authorization.  Our only responsibility is to ensure that all of the information is filled out in the checkout log and to check the driver’s license of the person taking the keys.  There is a space for you to initial to indicate that you have seen the person’s driver’s license.  The OCE sign-out form and vehicle keys are kept beneath the service counter.
 
-If the person checking out keys is not sure which vehicle he or she should be taking, or is not sure of the time he or she should be returning the vehicle, you can verify it on the Lynn Van Calendar feature in MasterPhone.  Currently, Gordon in Lynn uses a Google calendar to display their weekly schedule for vehicle use.
-•	Click the “Lynn Van Calendar” button.
-•	You will be prompted with the login name (oce.gordon).
-•	The password is “ocegordon”.
+If the person checking out keys is not sure which vehicle he or she should be taking, or is not sure of the time he or she should be returning the vehicle, you can verify it on the OCE Van Calander.  Currently, the OCE uses a Microsoft 365 calendar to display their weekly schedule for vehicle use.
+•	Click the “OCE Van Shedule” bookmark in Google Chrome.
 •	You cannot make changes to the calendar.
-We also occasionally sign out Admissions vehicles, which follows the exact same procedure with three major exceptions:
-•	Instead of the blue Lynn sign out sheets, you will use the admissions sign out sheets on the black clipboard that is usually right under the Lynn clipboard.
-•	Any person signing out the Admissions vehicle must be on the list of approved people that is affixed to the clipboard itself (under the sign out sheets).
-•	The person signing out the Admissions vehicle must leave their Gordon ID with you which you can put in the ID holder until their return.  You must still verify they have their drivers license with them, but do not keep that as a substitution for the Gordon ID as it is illegal to operate a motor vehicle without a license in possession in the state of MA.  As with any time we take an ID as collateral (excepting key box), affix a sticky note with the reason we have the ID as collateral, your initials, date, and time.
+•	If you do not have access, inform the ACDC.
 
 11.4	Wilson House Guests
 There is a box in the office on the window sill to the right of the monitors for Wilson House guest keys and information. We should receive a note from the President’s Office before the arrival of a guest for Wilson House.  These guests are usually important visitors to the college, such as board members or campus guest speakers. You should routinely check this box so that you can be aware of who the guests are and when they are coming. When a Wilson House guest arrives, give them their keys and any applicable information.  In addition, radio the officer that the Wilson House guest has arrived, so the officer can escort them up to the guest suite.
@@ -1255,7 +1249,6 @@ Section Thirteen: Miscellaneous Dispatch Duties
 13.12	Borrowing Items From DPS
 13.13	Parking Details
 13.14	Shovelers
-13.15	Public Phone and Phonebook
 ________________________________________
 13.1	BCA Alarm Calls
 Gordon uses an outside security service to protect the galleries in BCA. Alarm calls regarding the galleries will come in on the outside emergency line (phone above the dispatch console) and you will speak to a live person about the situation. If you receive a call from the alarm company, radio the officer about the situation.  The caller from the alarm company may ask for your name.  These calls should be followed up with expediency.
@@ -1272,7 +1265,7 @@ Please note that the wording might be slightly different each time, but it shoul
 The Wilson House (president’s residence) is set up with a security system similar to the Bennett Center.  This is set up mostly to alert the occupants of the house if the door is opened and a child is potentially running loose.  It is also used as a typical Security System for when the family is away.  These alarms will come in similar to the Bennett Center Supervisory Alarms on the fire computer work station but will be blue and characterized as a security alarm (and appear in blue) rather than a supervisory alarm (in yellow) and will also say “security” in the middle line in the black section at the bottom of the screen. However, where it would say Bennett” it will say “Wilson House.”  Due to the nature of the disability of one of the president’s children it is IMPERATIVE that these security alarms at the Wilson House be dispatched to the officer IMMEDIATELY.  You should then log the event as you would any security alarm.  If you receive a phone call from the president alerting you that everything is ok, inform the officer that you have received the call, however the officers still must respond to the residence and you still must dispatch the event.  The president knows this, but you can remind them (or his wife/family/babysitter) at the time they call that the officer will still come by and thank him for calling.
 
 13.4	Growth Chamber Automated Messages (App. Growth Chamber Procedure)
-If you receive an automated phone message saying that the Growth Chamber in the Ken Olsen Science Center has gone into alarm status, notify the officer and he or she will check out the room for anything obviously wrong. Once the officer has checked the room, ask if him or her if you should contact professor Stan Reczek or Dr. Ming Zheng.  If told to call, first try their offices and then their homes and cells. If you are unable to reach them, leave messages.  A paper copy of the procedure is in the at-hand information binder.
+If you receive an automated phone message saying that the Growth Chamber in the Ken Olsen Science Center has gone into alarm status, notify the officer and he or she will check out the room for anything obviously wrong. Once the officer has checked the room, ask if him or her if you should contact professor Stan Reczek or Dr. Ming Zheng.  If told to call, first try their offices and then their homes and cells. If you are unable to reach them, leave messages.
 
 13.5	Bookstore Alarm Calls
 The Gordon College Bookstore is owned and operated by Follett Corporation. Follett employs an outside alarm company to monitor the bookstore areas. If you receive a call regarding an alarm you should get the name of the person calling and the location of the alarm and relay this information to the Duty Officer immediately (if possible, keep the caller on the line in case the officer has a follow-up question he or she wants answered). The officers will follow up appropriately.
@@ -1285,7 +1278,7 @@ When the mail delivery comes for the office during the day, it will be dropped o
 •	You should sort this mail into the mailboxes at the back of the office.
 •	If anything is in a yellow intercampus mail envelope, remove it from the envelope before placing in the proper box unless it is marked as private or confidential.
 •	There is a box for the intercampus mail envelopes where you may place the empty envelope.
-•	Anything addressed to Public Safety with no identifying officers’ name may be put in the Chief’s box.
+•	Anything addressed to Gordon Police with no identifying officers’ name may be put in the Chief’s box.
 
 13.8	Other Deliveries
 We occasionally receive other deliveries for members of the campus community, such as flowers or lost luggage. Note: During normal business hours (M-F 0800-1630), all deliveries should be directed to the mailroom. Public Safety only receives deliveries during non-business hours, weekends, and holidays (in other words when the mailroom is not staffed).
@@ -1304,20 +1297,11 @@ Faculty/Staff may also ask to leave items with us as we are open 24 hours a day 
 •	Your initials, the date, and time.
 
 13.9	Van Testing (App. Van Test App, NH & PA App.)
-In order to drive a college-owned vehicle, faculty, staff or students must first obtain a van license. Public Safety is only responsible for testing individuals. Reserving vans, key pickup and key drop off are handled through Physical Plant.  If someone comes in requesting information regarding van testing or calls regarding van testing:
-•	Instruct them that the application, information booklet, and outline of the procedure can all be found online at the Go site.  They should click on departments, then public safety, then van testing on the left side of the screen.
-•	Ask the applicant if he or she is an Alaska, Georgia, New Hampshire, Pennsylvania, or a Washington state resident.  These states require a separate form to release a driver history. These forms can also be found beneath the service counter in the van test tray.  If the person is neither an NH nor PA resident, they only need a normal release form.
-•	The applicant must complete and return the form to Public Safety along with a receipt from the Cashier’s office for $15 before they can complete the three (3) on-line modules.  This fee is not our “testing fee”.  It is the fee for the driver history to be obtained.
-•	When the receipt and application are dropped off check that all of the sections have been filled out. Fill out the top box in the “Public Safety Office Use Only” section at the bottom of the sheet marked “Dispatcher Use.”
-•	Check that they either have a receipt for the fee, or the sponsoring department section is filled out (current faculty and staff are exempted from the fee).
-•	Check the state listed on their license in the information section and if their state is AK, GA, NH, PA, or WA, make sure the appropriate additional release form is also attached.
-•	Place the application and all accompanying forms in the “completed van test forms” box by the cork boards in the back of the office.
-•	The van-testing officer will sign the applicant up for an online test.  The applicant will receive an email with the test information and will need to complete the online test at least 48 hours before the scheduled van driving test day. The email will come from a company called “sonic e-learning.”
-•	After a person has completed the online testing modules, he or she can sign up for a test (posted on the bulletin board in the back of the office).
-o	We assign the time slots; the applicant does not choose (except with permission from the van-testing officer). Fill in the schedule from the earliest available time onwards, with no holes.
-o	If they cannot come in at the next available time on the sheet, have them check back later to sign up for a different time.
-o	Van test slots usually fill up fast—frequently we will have a standby list in case people do not show up.
-It would be helpful if during your first few shifts you read through the information brochure yourself for a better understanding of the process.  If at any point an applicant has a question that you cannot answer, ask the officer on duty, if the officer on duty does not know the answer, instruct them to email publicsafety@gordon.edu and the van testing officer will reply with an answer when they are next in the office.
+In order to drive a college-owned vehicle, faculty, staff or students must first obtain a van license. Gordon Police is only responsible for testing individuals. Reserving vans, key pickup and key drop off are handled through Physical Plant.  If someone comes in requesting information regarding van testing or calls regarding van testing:
+•	Instruct them that the application, information booklet, and outline of the procedure can all be found online at the Go site.  They should click on departments, then Police, then van testing on the left side of the screen.
+•	The van-testing officer (Currently 103) will sign the applicant up for an online test.  The applicant will receive an email with the test information and will need to complete the online test at least 48 hours before the scheduled van driving test day. The email will come from a company called “sonic e-learning.”
+•	After a person has completed the online testing modules, he or she can sign up for a test through the van testing officer.
+•	If at any point an applicant has a question that you cannot answer, ask the officer on duty, if the officer on duty does not know the answer, instruct them to email police@gordon.edu and the van testing officer will reply with an answer when they are next in the office.
 
 13.10	Citation Petitions (App. Citation Petition)
 If someone comes in requesting a citation petition, you can find the petitions in the file trays beneath the service counter.  The owner of the vehicle should fill in all requested info as well as the reason(s) he or she feels they should have their citation waived.  If the citation was written for expired plates, the owner will need to bring in his or her new/up to date registration and show the duty officer, who will then sign their petition.  Be sure to initial and date the petition form before putting it into the completed petitions folder.  Students have 10 calendar days from the date that they receive a citation if they wish to file petitions.  Visitor of the campus wishing to appeal a citation may check the box at the bottom of the citation and fill in all of the empty information fields at the top of the citation and the fee will be waived.  These filled out citations should be put in the data entry box.  Students CANNOT appeal Wenham/Town tickets through our office.  They must follow the procedure on the ticket itself.
@@ -1328,10 +1312,7 @@ When the RAD program is being offered, there is a safe box on top of the monitor
 If people need to borrow anything from the office (shovels in the winter, scrapers to remove old parking stickers, etc) always take an ID as collateral. There is a holder for them by the window. Anytime you take an ID as collateral for this purpose, you must affix a sticky note to the ID with the item it is collateral for, your initials, the date and the time
 
 13.13	Parking Details
-During parking details, give the parkers a timesheet when they come in. Check the parker timesheet folder to ensure they only receive one timesheet.  Also supply the parkers with vests and flashlight wands (if necessary) from the boxes under the front counter.  Ask the parkers if any of them are parking for us for the first time.  If they are, obtain a payroll authorization form from the file drawer under the dispatch desk and have them fill out their name and ID number and put the authorization form in the ACDC’s mailbox to be completed so that they can be paid.
+During parking details, give the parkers a parking vest when they come in and flashlight wands (if necessary). There are also rain jackets available under the counter if it is raining and they need to borrow one. Inform them that timesheets are ont the Go! site if it is there first time working.
 
 13.14	Shovelers
-In the winter, morning shifts may be asked by Physical Plant to call for shovelers or plow drivers. In that event, either M50 or M51 will provide the dispatcher with call list. Shovelers will report to Physical Plant and you should call down the list until you have obtained the number of shovelers needed for the particular situation.  Usually, the officer will be the one to call M50 or M51 during a snow emergency.  The call list can also be found on the Go site under departments and then physical plant.
-
-13.15	Public Phone and Phonebook
-A phone with an off campus number and a local phonebook are kept under the customer service counter. If a customer needs to make a call, they should use this phone. Use this phone sparingly as it is also the same line as our off-campus emergency phone line.
+In the winter, morning shifts may be asked by Physical Plant to call for shovelers or plow drivers. In that event, either M50 will provide the dispatcher with call list. Shovelers will report to Physical Plant and you should call down the list until you have obtained the number of shovelers needed for the particular situation.  Usually, the officer will be the one to call M50 during a snow emergency.  The call list can also be found on the Go site under departments and then physical plant.
