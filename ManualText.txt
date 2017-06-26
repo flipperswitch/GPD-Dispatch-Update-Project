@@ -574,6 +574,14 @@ Section Six: Emergency Situations
 6.9a Recurring Trouble Alarms
 6.9b Offline Buildings
 6.10 Panic Alarms
+6.11 Security Alarms
+	6.11a	General Security Alarms 
+	6.11b	BCA Alarm Calls
+	6.11c	Bennett Security Alarms
+	6.11d	Wilson House Security Alarms
+	6.11e	Growth Chamber Automated Messages
+	6.11f	Bookstore Alarm
+6.12 Weather and Power alerts
 ________________________________________
 6.1	General Information (App. Lists of Procedures)
 One of the most important tasks of a dispatcher is that he or she quickly and accurately dispatches emergency situations. While emergencies may not happen often, proper execution of procedure could save lives. Specific emergency procedures are always available in the at hand information binder on the dispatch desk, but these “cheat sheets” must never be relied upon.  You MUST know and have memorized these procedures before your first solo shift.  These protocol sheets are included in Appendix A at the end of the manual for your advance study and preparation.
@@ -734,7 +742,29 @@ Through the Alertus system, which is the system we use to alert the campus to ha
 •	You should be notified about these general campus alerts before they go out and you do not need to follow up on them unless instructed to do so.
 
 6.11	Security Alarms
+6.11a	General Security Alarms 
+
+6.11b	BCA Alarm Calls
+Gordon uses an outside security service to protect the galleries in BCA. Alarm calls regarding the galleries will come in on the outside emergency line (phone above the dispatch console) and you will speak to a live person about the situation. If you receive a call from the alarm company, radio the officer about the situation.  The caller from the alarm company may ask for your name.  These calls should be followed up with expediency.
+6.11c	Bennett Security Alarms
+The Bennett Center has a security alarm which is routed through the Fire Computer Work Station in the Dispatch Area. When a door alarm is tripped in Bennett, you will receive a TROUBLE ALARM through the fire alarm system. On the “normal” fire alarm monitor, you will see a yellow supervisory trouble alarm.  In the “new events” list it should say something like this: “Supervisory Alarm – Bennett”
+
+NOTE:  At this point, you still don’t know whether it is a normal fire-related trouble alarm or the security alarm. To determine this, you will need to DOUBLE-click on the new event (just like with fire alarms and other trouble alarms). Then (just like with fire alarms) you will want to read the MIDDLE line in the black section at the bottom of the screen. The middle line should say something like this:
+“Track Supervisory – BENNETT SECURITY PANEL SECURITY PANEL”
+
+Please note that the wording might be slightly different each time, but it should always include the word “Security.”  Again, just to be clear, you will NOT see the word “Security” in the new event when it first appears; you will only see it on the middle line when you double-click the new event.  If the alarm comes in during hours that Bennett is open, please call the front desk and tell the student worker that you just received an alarm and ask him or her if an officer is needed.  If the Bennett center is closed or there is no response at the Bennett front desk, radio the officer.
+
+6.11d  Wilson House Security Alarms
+The Wilson House (president’s residence) is set up with a security system similar to the Bennett Center.  This is set up mostly to alert the occupants of the house if the door is opened and a child is potentially running loose.  It is also used as a typical Security System for when the family is away.  These alarms will come in similar to the Bennett Center Supervisory Alarms on the fire computer work station but will be blue and characterized as a security alarm (and appear in blue) rather than a supervisory alarm (in yellow) and will also say “security” in the middle line in the black section at the bottom of the screen. However, where it would say Bennett” it will say “Wilson House.”  Due to the nature of the disability of one of the president’s children it is IMPERATIVE that these security alarms at the Wilson House be dispatched to the officer IMMEDIATELY.  You should then log the event as you would any security alarm.  If you receive a phone call from the president alerting you that everything is ok, inform the officer that you have received the call, however the officers still must respond to the residence and you still must dispatch the event.  The president knows this, but you can remind them (or his wife/family/babysitter) at the time they call that the officer will still come by and thank him for calling.
+
+6.11e	Growth Chamber Automated Messages (App. Growth Chamber Procedure)
+If you receive an automated phone message saying that the Growth Chamber in the Ken Olsen Science Center has gone into alarm status, notify the officer and he or she will check out the room for anything obviously wrong. Once the officer has checked the room, ask if him or her if you should contact professor Stan Reczek or Dr. Ming Zheng.  If told to call, first try their offices and then their homes and cells. If you are unable to reach them, leave messages.
+
+6.11f	Bookstore Alarm Calls
+The Gordon College Bookstore is owned and operated by Follett Corporation. Follett employs an outside alarm company to monitor the bookstore areas. If you receive a call regarding an alarm you should get the name of the person calling and the location of the alarm and relay this information to the Duty Officer immediately (if possible, keep the caller on the line in case the officer has a follow-up question he or she wants answered). The officers will follow up appropriately.
+
 6.12	Weather and Power alerts
+
 
 Section Seven: Safety and Security
 7.1	Lockouts and MasterPermission
@@ -1235,52 +1265,30 @@ For all other items, members of Gordon Police, including dispatchers, are allowe
 
 In order to be fair, unclaimed valuable items in lost and found will be handled via a silent auction, with the money going towards a worthy cause (Gordon missions trips, etc.).  If more than one person claims the item, the highest bidder will win.  If multiple people bid an equal amount and no one surpasses that amount, the names will be entered into a blind raffle.
 Section Thirteen: Miscellaneous Dispatch Duties
-13.1	BCA Alarm Calls
-13.2	Bennett Security Alarms
-13.3	Bennett Security Alarms
-13.4	Growth Chamber Automated Messages
-13.5	Bookstore Alarm
-13.6	Lane Deliveries
-13.7	Mail Deliveries
-13.8	Other Deliveries
-13.9	Van Testing
-13.10	Citation Petitions
-13.11	RAD
-13.12	Borrowing Items From DPS
-13.13	Parking Details
-13.14	Shovelers
+
+13.1	Lane Deliveries
+13.2	Mail Deliveries
+13.3	Other Deliveries
+13.4	Van Testing
+13.5	Citation Petitions
+13.6	RAD
+13.7	Borrowing Items From DPS
+13.8	Parking Details
+13.9	Shovelers
+13.10	Admissions Packets
 ________________________________________
-13.1	BCA Alarm Calls
-Gordon uses an outside security service to protect the galleries in BCA. Alarm calls regarding the galleries will come in on the outside emergency line (phone above the dispatch console) and you will speak to a live person about the situation. If you receive a call from the alarm company, radio the officer about the situation.  The caller from the alarm company may ask for your name.  These calls should be followed up with expediency.
 
-13.2	Bennett Security Alarms
-The Bennett Center has a security alarm which is routed through the Fire Computer Work Station in the Dispatch Area. When a door alarm is tripped in Bennett, you will receive a TROUBLE ALARM through the fire alarm system. On the “normal” fire alarm monitor, you will see a yellow supervisory trouble alarm.  In the “new events” list it should say something like this: “Supervisory Alarm – Bennett”
-
-NOTE:  At this point, you still don’t know whether it is a normal fire-related trouble alarm or the security alarm. To determine this, you will need to DOUBLE-click on the new event (just like with fire alarms and other trouble alarms). Then (just like with fire alarms) you will want to read the MIDDLE line in the black section at the bottom of the screen. The middle line should say something like this:
-“Track Supervisory – BENNETT SECURITY PANEL SECURITY PANEL”
-
-Please note that the wording might be slightly different each time, but it should always include the word “Security.”  Again, just to be clear, you will NOT see the word “Security” in the new event when it first appears; you will only see it on the middle line when you double-click the new event.  If the alarm comes in during hours that Bennett is open, please call the front desk and tell the student worker that you just received an alarm and ask him or her if an officer is needed.  If the Bennett center is closed or there is no response at the Bennett front desk, radio the officer.
-
-13.3  Wilson House Security Alarms
-The Wilson House (president’s residence) is set up with a security system similar to the Bennett Center.  This is set up mostly to alert the occupants of the house if the door is opened and a child is potentially running loose.  It is also used as a typical Security System for when the family is away.  These alarms will come in similar to the Bennett Center Supervisory Alarms on the fire computer work station but will be blue and characterized as a security alarm (and appear in blue) rather than a supervisory alarm (in yellow) and will also say “security” in the middle line in the black section at the bottom of the screen. However, where it would say Bennett” it will say “Wilson House.”  Due to the nature of the disability of one of the president’s children it is IMPERATIVE that these security alarms at the Wilson House be dispatched to the officer IMMEDIATELY.  You should then log the event as you would any security alarm.  If you receive a phone call from the president alerting you that everything is ok, inform the officer that you have received the call, however the officers still must respond to the residence and you still must dispatch the event.  The president knows this, but you can remind them (or his wife/family/babysitter) at the time they call that the officer will still come by and thank him for calling.
-
-13.4	Growth Chamber Automated Messages (App. Growth Chamber Procedure)
-If you receive an automated phone message saying that the Growth Chamber in the Ken Olsen Science Center has gone into alarm status, notify the officer and he or she will check out the room for anything obviously wrong. Once the officer has checked the room, ask if him or her if you should contact professor Stan Reczek or Dr. Ming Zheng.  If told to call, first try their offices and then their homes and cells. If you are unable to reach them, leave messages.
-
-13.5	Bookstore Alarm Calls
-The Gordon College Bookstore is owned and operated by Follett Corporation. Follett employs an outside alarm company to monitor the bookstore areas. If you receive a call regarding an alarm you should get the name of the person calling and the location of the alarm and relay this information to the Duty Officer immediately (if possible, keep the caller on the line in case the officer has a follow-up question he or she wants answered). The officers will follow up appropriately.
-
-13.6	Lane Deliveries
+13.1	Lane Deliveries
 Morning deliveries for Dining Services may come as early as 3am. If the baker has not arrived yet, you should radio the officer to let the delivery worker into the Lane.  If the baker has already arrived, you should call the downstairs kitchen to alert them that they have an incoming delivery.  There is no need to worry about this after the building is opened in the morning.
 
-13.7	Mail Delivery
+13.2	Mail Delivery
 When the mail delivery comes for the office during the day, it will be dropped off at the counter.
 •	You should sort this mail into the mailboxes at the back of the office.
 •	If anything is in a yellow intercampus mail envelope, remove it from the envelope before placing in the proper box unless it is marked as private or confidential.
 •	There is a box for the intercampus mail envelopes where you may place the empty envelope.
 •	Anything addressed to Gordon Police with no identifying officers’ name may be put in the Chief’s box.
 
-13.8	Other Deliveries
+13.3	Other Deliveries
 We occasionally receive other deliveries for members of the campus community, such as flowers or lost luggage. Note: During normal business hours (M-F 0800-1630), all deliveries should be directed to the mailroom. Gordon Police only receives deliveries during non-business hours, weekends, and holidays (in other words when the mailroom is not staffed).
 •	You should contact the recipient, letting them know to come and pick up the item (see section 2.5).
 o	If it is a perishable item (flowers, food, etc.), it is best to call the recipient’s cell phone, if they have one.  Use email if the party cannot be reached.  Whether you speak to the recipient directly or leave a message, be sure to request that they pick up their item(s) ASAP.
@@ -1296,23 +1304,26 @@ Faculty/Staff may also ask to leave items with us as we are open 24 hours a day 
 •	Any other important information.
 •	Your initials, the date, and time.
 
-13.9	Van Testing (App. Van Test App, NH & PA App.)
+13.4	Van Testing (App. Van Test App, NH & PA App.)
 In order to drive a college-owned vehicle, faculty, staff or students must first obtain a van license. Gordon Police is only responsible for testing individuals. Reserving vans, key pickup and key drop off are handled through Physical Plant.  If someone comes in requesting information regarding van testing or calls regarding van testing:
 •	Instruct them that the application, information booklet, and outline of the procedure can all be found online at the Go site.  They should click on departments, then Police, then van testing on the left side of the screen.
 •	The van-testing officer (Currently 103) will sign the applicant up for an online test.  The applicant will receive an email with the test information and will need to complete the online test at least 48 hours before the scheduled van driving test day. The email will come from a company called “sonic e-learning.”
 •	After a person has completed the online testing modules, he or she can sign up for a test through the van testing officer.
 •	If at any point an applicant has a question that you cannot answer, ask the officer on duty, if the officer on duty does not know the answer, instruct them to email police@gordon.edu and the van testing officer will reply with an answer when they are next in the office.
 
-13.10	Citation Petitions (App. Citation Petition)
+13.5	Citation Petitions (App. Citation Petition)
 If someone comes in requesting a citation petition, you can find the petitions in the file trays beneath the service counter.  The owner of the vehicle should fill in all requested info as well as the reason(s) he or she feels they should have their citation waived.  If the citation was written for expired plates, the owner will need to bring in his or her new/up to date registration and show the duty officer, who will then sign their petition.  Be sure to initial and date the petition form before putting it into the completed petitions folder.  Students have 10 calendar days from the date that they receive a citation if they wish to file petitions.  Visitor of the campus wishing to appeal a citation may check the box at the bottom of the citation and fill in all of the empty information fields at the top of the citation and the fee will be waived.  These filled out citations should be put in the data entry box.  Students CANNOT appeal Wenham/Town tickets through our office.  They must follow the procedure on the ticket itself.
-13.11	RAD
+13.6	RAD
 When the RAD program is being offered, there is a safe box on top of the monitors in which you can put RAD checks.  RAD registration is $15.  We only accept checks for payment for the class. Checks are made out to Gordon College with RAD in the memo line.
 
-13.12	Borrowing Items From DPS
+13.7	Borrowing Items From DPS
 If people need to borrow anything from the office (shovels in the winter, scrapers to remove old parking stickers, etc) always take an ID as collateral. There is a holder for them by the window. Anytime you take an ID as collateral for this purpose, you must affix a sticky note to the ID with the item it is collateral for, your initials, the date and the time
 
-13.13	Parking Details
+13.8	Parking Details
 During parking details, give the parkers a parking vest when they come in and flashlight wands (if necessary). There are also rain jackets available under the counter if it is raining and they need to borrow one. Inform them that timesheets are ont the Go! site if it is there first time working.
 
-13.14	Shovelers
+13.9	Shovelers
 In the winter, morning shifts may be asked by Physical Plant to call for shovelers or plow drivers. In that event, either M50 will provide the dispatcher with call list. Shovelers will report to Physical Plant and you should call down the list until you have obtained the number of shovelers needed for the particular situation.  Usually, the officer will be the one to call M50 during a snow emergency.  The call list can also be found on the Go site under departments and then physical plant.
+
+13.10	Admissions Packets
+We have a variety of admissions information items kept in a tray on the dispatch desk. If a prospective student comes into our office while the Admissions office is closed you can offer these materials to them and answer any questions you are able. Admissions may also give us a packet for a specific student if they know that they will be visitng while Admissions is closed. 
