@@ -589,6 +589,15 @@ If you are ever unsure of whether something should be logged or not, you can ask
 •	Anything else the officer asks you to log.
 
 5.2	MasterFiles (General Use Computer #2)
+MasterFiles is the main software used on the #2 computer. MasterFiles contains most of the information that you will need while on duty, such as cell phone numbers, dorm rooom addresses, vehicles listings, bike listings, etc. It is also how we print short term vehicles passes. You can log into MasterFiles using your standard Gordon username and password. You should log into MasterFiles at the beginning of your shifts to have the the information readily available. 
+
+NOTE: All of the information in MasterFiles is considered confidential and should not be shared with anyone outside of the office. 
+
+5.3	Email, Go! site, and Blackboard
+
+
+5.4	Other use
+5.5	Back-up logs
 
 Section Six: Emergency Situations
 6.1	General Information
