@@ -562,7 +562,7 @@ Section Five: Computer Use
 
 Aside from the camera computers (see section 7.3) and the fire computer (see section 6.6), we use two main computers for dispatch. Each has its own monitor, keyboard, and mouse that are all labeled accordingly. These computers are for work use only. If you wish to use the internent for personal browsing, you must bring in your own laptop. 
 
-5.1	Report Exec
+5.1	Report Exec (Computer #1)
 Report Exec is our current software used for dispatch logging and officer reporting. You need to be familiar with the Report Exec software before you begin working as it is how we keep our dipatch logs. The dispatch log is an important part of your job as a dispatcher. Dispatch logs are a public record and a legal document that can be called into court if needed as evidence. Please bear in mind: It is important that your log is always clear, accurate, and complete.
 
 5.1a	Using Report Exec
@@ -588,6 +588,7 @@ If you are ever unsure of whether something should be logged or not, you can ask
 •	All admittance requests: Log name of person, area of admittance, whether access was granted or denied.
 •	Anything else the officer asks you to log.
 
+5.2	MasterFiles (General Use Computer #2)
 
 Section Six: Emergency Situations
 6.1	General Information
