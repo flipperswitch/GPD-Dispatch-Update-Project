@@ -570,6 +570,8 @@ You will be provided a login and password from the ACDC when you begin working. 
 
 There are two types of entry methods in Report Exec: "New Call" and "Officer Status." "New Call" is used anytime we receive a request for assistance from someone outside the department (i.e. admit requests, emergency calls, fire alarms, motor vehicle assitance, etc.) and "Officer Status" is used anytime the officer or the dispatcher does something that needs to be logged, but was not a request from outside the department (i.e. opening/checking/securing buildings, calling people to move vehciles or bikes, PEAs going on duty, etc.). 
 
+Only some call types require a officer report. When selected these calls will automatically genereate a report and notify the officer. It may happen that a call comes in which the officer wants a report for, but the call type does not generate one automatically. If the officer asks you to create a report you can do so by opening the call, clicking on the "Call Information" tab, and then clicking "Create Report."
+
 In the case of multiple things happening at once or complex events such as emergency situations, use the scratch pad to take notes and fill out the entry in Report Exec when the situation is over.
 
 For specifics on how to navigate and use the Report Exec software, refer to the training video on Blackboard under "training."
