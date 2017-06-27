@@ -1339,6 +1339,7 @@ Section Thirteen: Miscellaneous Dispatch Duties
 13.8	Parking Details
 13.9	Shovelers
 13.10	Admissions Packets
+13.11	Special Needs Passes
 ________________________________________
 
 13.1	Lane Deliveries
@@ -1390,3 +1391,6 @@ In the winter, morning shifts may be asked by Physical Plant to call for shovele
 
 13.10	Admissions Packets
 We have a variety of admissions information items kept in a tray on the dispatch desk. If a prospective student comes into our office while the Admissions office is closed you can offer these materials to them and answer any questions you are able. Admissions may also give us a packet for a specific student if they know that they will be visitng while Admissions is closed. 
+
+13.11	Special Needs Passes
+If someone comes in or calls requesting a special needs pass, they can be given a special needs pass application (found under the front counter). Completed applications can be placed in 101's box. If they have any questions they can be instructed to talk to 101 or to email police@gordon.edu. If someone comes in to pick up a completed pass, find it on the dispatch desk and check their ID to verfity it is for them. If there is no pass ready for them, contact 101 or, if he is unavailable, the officer on duty. 
