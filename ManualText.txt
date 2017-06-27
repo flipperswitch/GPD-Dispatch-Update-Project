@@ -757,7 +757,7 @@ If this notice is posted on the alarm monitor AFTER BUSINESS HOURS, notify the o
 (A building was taken offline for service and has not been restored to normal function)
 
 6.10   Panic Alarms
-Through the Alertus system, which is the system we use to alert the campus to hazardous conditions or emergencies, we can also receive panic alarms from various locations across campus.  The system is tied into both the Alertus box that is located above the radio console as well as the secondary dispatch computer (top computer).
+Through the Alertus system, which is the system we use to alert the campus to hazardous conditions or emergencies, we can also receive panic alarms from various locations across campus.  The system is tied into both the Alertus box that is located on the radio console as well as the secondary dispatch computer (top computer).
 •	Various key locations across campus such as the Bennett Center, Library, Admission, etc. have panic buttons installed in discrete locations that act as a silent alarm of sorts.
 •	Once these buttons are pressed, it initiates an alarm condition which will activate an Alertus screen with instructions on the dispatch computer, and audible alarm, and flashing red lights on the Alertus box.  The audible alarm will cycle through twice and the lights will continue flashing for longer.  If the audible alarm is problematic for your dispatch of the alarm, it can be acknowledged to silence the beep by pressing the two black buttons on the front simultaneously.
 •	A panic alarm will come with two pieces of information, the location of the alarm and a call back number.  In most cases, this is the same place, but that is not always the case.  For instance, there is a button on the sound board desk in the chapel in the middle of the sanctuary, but the call back number is the lighting box on the third floor which has a bird’s eye view of the area.
@@ -775,7 +775,7 @@ Through the Alertus system, which is the system we use to alert the campus to ha
 6.11	Security Alarms
 We receive a variety of sercurity alarms to our office. Some will come in through the fire computer and others will come in as phone calls either to the main police line or on the white backup emergency phone. The standard procedure is to dispatch the officer immediately, attempt to call the source of the alarm if a number is available, and log the alarm in Report Exec.
 6.11a	BCA Alarm Calls
-Gordon uses an outside security service to protect the galleries in BCA. Alarm calls regarding the galleries will come in on the outside emergency line (phone above the dispatch console) and you will speak to a live person about the situation. If you receive a call from the alarm company, radio the officer about the situation.  The caller from the alarm company may ask for your name.  These calls should be followed up with expediency.
+Gordon uses an outside security service to protect the galleries in BCA. Alarm calls regarding the galleries will come in on the outside emergency line (white phone above the dispatch console) and you will speak to a live person about the situation. If you receive a call from the alarm company, radio the officer about the situation.  The caller from the alarm company may ask for your name.  These calls should be followed up with expediency.
 6.11b	Bennett Security Alarms
 The Bennett Center has a security alarm which is routed through the Fire Computer Work Station in the Dispatch Area. When a door alarm is tripped in Bennett, you will receive a TROUBLE ALARM through the fire alarm system. On the “normal” fire alarm monitor, you will see a yellow supervisory trouble alarm.  In the “new events” list it should say something like this: “Supervisory Alarm – Bennett”
 
@@ -962,7 +962,7 @@ In the event of an escort, you need to log ALL the information in Report Exec. C
 
 8.3	Tow Log & Bike Confiscations (App. Tow Log)
 MV Tows
-In the event of a vehicle tow, record the information in both the tow log and Report Exec.  The tow log is kept in a binder to the right of the dispatch console.  If someone comes to us saying his or her vehicle has disappeared, before treating it as a stolen item, check the logs see if it was towed.  If the vehicle has been towed, inform the party where his or her vehicle has been moved (usually the Woodland lot).  The owner will have been cited for the parking violation as well as the towing fee.
+In the event of a vehicle tow, record the information in both the tow log and Report Exec.  The tow log is kept in a binder to the right of the dispatch desk. If someone comes to us saying his or her vehicle has disappeared, before treating it as a stolen item, check the logs see if it was towed.  If the vehicle has been towed, inform the party where his or her vehicle has been moved (usually the Woodland lot).  The owner will have been cited for the parking violation as well as the towing fee.
 Bike Confiscations
 If the officer radios you with a bike confiscation, you will need to record the bike confiscation in MasterBike and in Report Exec.
 •	Click “MasterBike” and “Enter a New Confiscation”.
