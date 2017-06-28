@@ -570,7 +570,7 @@ You will be provided a login and password from the ACDC when you begin working. 
 
 There are two types of entry methods in Report Exec: "New Call" and "Officer Status." "New Call" is used anytime we receive a request for assistance from someone outside the department (i.e. admit requests, emergency calls, fire alarms, motor vehicle assitance, etc.) and "Officer Status" is used anytime the officer or the dispatcher does something that needs to be logged, but was not a request from outside the department (i.e. opening/checking/securing buildings, calling people to move vehciles or bikes, PEAs going on duty, etc.). 
 
-Only some call types require a officer report. When selected these calls will automatically genereate a report and notify the officer. It may happen that a call comes in which the officer wants a report for, but the call type does not generate one automatically. If the officer asks you to create a report you can do so by opening the call, clicking on the "Call Information" tab, and then clicking "Create Report."
+Only some call types require an officer report. When selected these calls will automatically genereate a report and notify the officer listed as primary for the call. When completing a call that assigns a report, the dispatcher should confirm with the officer which officer (only necessary if multiple officers responded) should receive the report before clicking "ok" to close the call. It may happen that a call comes in which the officer wants a report for, but the call type does not generate one automatically. If the officer asks you to create a report you can do so by opening the call, clicking on the "Call Information" tab, and then clicking "Create Report."
 
 In the case of multiple things happening at once or complex events such as emergency situations, use the scratch pad to take notes and fill out the entry in Report Exec when the situation is over.
 
@@ -602,7 +602,7 @@ At the beginning of your shift you will also log into your Gordon email, the Go!
 You can also use the General Use Computer for other work related things, such as creating a word document or looking up information on the internet. You should not use either computers for personal use and you should NEVER adjust the volumes on either of the dispatch computers. It is allowed to use a computer and/or browse the internet during your shift, but you must bring in a personal laptop to do this. 
 
 5.5	Back-up logs
-In the case that Report Exec is not working or the computers are down, you will continue to log everything you would in report exec on the backup paper logs. These can be found in the black tray above the Keurig. When you are done with your shift there is a return location for them just under the blank logs. When Report Exec is again available for use, the paper logs must be hand entered into the system for our records. 
+In the case that Report Exec is not working or the computers are down (i.e. scheduled network outages for upgrades), you will continue to log everything you would in report exec on the backup paper logs. These can be found in the black tray above the Keurig. When you are done with your shift there is a return location for them just under the blank logs. When Report Exec is again available for use, the paper logs must be hand entered into the system for our records. When begginning the process of reentering the logs into Report Exec the first call should be an information status call for the network outage itself. Each additional call should have the times adjusted to match the paper logs.  
 
 Your log should always have your full name, the date, and the shift you are working written at the top.
 •	The rest of your log should be an accurate and complete list of the events happening on your shift in chronological order.  Always use military time.
@@ -822,12 +822,12 @@ If you receive an automated phone message saying that the Growth Chamber in the 
 The Gordon College Bookstore is owned and operated by Follett Corporation. Follett employs an outside alarm company to monitor the bookstore areas. If you receive a call regarding an alarm you should get the name of the person calling and the location of the alarm and relay this information to the Duty Officer immediately (if possible, keep the caller on the line in case the officer has a follow-up question he or she wants answered). The officers will follow up appropriately.
 
 6.11f	Temperature alarms
-If you receive a recorded call informing you about the temperatue in a certain building, record the details and dispatch them to the officer. This is most common during winter break when the buildings get cold. 
+If you receive a recorded call informing you about the temperature in a certain building, record the details and dispatch them to the officer. This is most common during winter break when the buildings get cold. 
 
 6.12	Weather and Power alerts
 Weather alerts will come in via the dispatch cell phone. The most common situation is a lighening stike within ten miles fo campus. Always check the dispatch cell phone if a text message comes in. If you receive a lightening or other dangerous weather notification, press the general "alert" tone and dispatch to all units. You will then call the grounds supervisor at Physical Plant and the camp directors (Adventure camp and various Sports camps) if during the summer. 
 
-Power Alerts? 
+If you receive a call regarding a power alert, record the details and dispatch them to the offier. 
 
 Section Seven: Safety and Security
 7.1	Lockouts and MasterPermission
@@ -1264,6 +1264,7 @@ On the wall in the office is a locked box containing key sets used on campus.  O
 •	Enter the 3-digit combo. 
 •	You must follow all of the instructions on the permissions list.  NEVER check the keys out to people who are not on the list.  If you feel there may be an exception, an officer must be the one to check out the keys.
 •	When checking the keys out, enter it on the checkout log, writing the name, company/department, key set #, date & time and your initials.  Repeat this same process when returning keys.
+•	Any non-Gordon contractor also needs to be issued a vendor badge when working on campus (hanging on the side of the box). This helps identify them to staff and students on campus. This is regardless of whether or not they checked out a key set. This can be logged in the Key Set Check-Out Log along with their key set or as its own entry if they did not check out keys. If they did not check out keys you still must take an ID as collateral for the badge. Do not give out multiple badges for a single ID. If there are multiple workers they must each present an ID for their badge. 
 •	If you think someone should be added to the list, please inform the ACDC.
 
 NOTE:  If you are found responsible for giving the key box combo to a person other than another currently employed dispatcher, officer or the ACDC, you will be permanently dismissed.
