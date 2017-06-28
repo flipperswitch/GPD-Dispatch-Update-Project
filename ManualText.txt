@@ -405,7 +405,7 @@ Phone Preset Buttons
 •	Back Button (silver button): returns you to the last function. You will use this button if you misdial a name when looking up the number or wish to return to the call after searching for a name.
 •	Speaker (larger green button): Places a call on speakerphone if you are currently using the receiver. After ‘speaker’ has been pressed, the receiver can be replaced without hanging up the call. To hang up a call while on speaker, either lift and replace the receiver, or press the ‘speaker’ or ‘back’ key while the receiver is in the cradle.
 •	Message (red button): Used to check messages on the phone. There should never be messages on our phone.
-•	Mute (smaller green button): Mutes your side of the phone call.  We use this regularly when connecting emergency calls to the Regional Dispatch Center as a conference call.
+•	Mute (smaller green button): Mutes your side of the phone call.  We use this regularly when connecting emergency calls to Regional as a conference call.
 Speed Dial Numbers
 Department Lines
 •	Essex Regional: calls our direct line to the Essex Regional Dispatch Center.
@@ -429,8 +429,8 @@ o	Pressing the button next to a line will either select an incoming or on-hold c
 •	After hours and during breaks CTS will not answer the lines and you need to be more prepared to answer quickly just to put on hold by saying “Gordon College Operator, please hold” when you are unable to handle the call.
 •	If the receiver is in the cradle while you select a line, it will select speakerphone. While communicating on a selected line, there will be a solid line next to the line you are on.
 •	The phone has a built in phonebook feature. The numbers in this phonebook are the most up-to-date that we have access to.  To access this feature simply:
-o	Start typing a last name, first name, initials, or office name (such as CTS).  You may search partial listings such as “cen” instead of “center.”
-o	Press either name, 1st name, or initials on the screen display to search.
+o	Start typing a last name or office name (such as CTS).  You may search partial listings such as “cen” instead of “center.”
+o	Press name on the screen display to search.
 o	To call the number, press the key next to the correct listing
 o	Use the arrows to navigate through more than one page of results
 o	If you need to try again, press the back button to modify the search or end to end the search and start again.
@@ -440,36 +440,37 @@ o	While you are using this feature, the caller will automatically be placed on h
 •	You cannot transfer or initiate a conference call with a person who you called out to (rather than the caller calling in to you) unless you hit “transfer” first.  While this is not required for all calls, it is good practice to always hit transfer first so that it does not throw you off when you forget about this quirk of the phone system.
 •	To access the screen speed dials when you pick up the receiver when there is not a caller on the line, press the button next to “speed dial.”
 How To. . .
-o	Put Callers on Hold:
+•	Put Callers on Hold:
 o	Press the ‘hold’ button or select the button next to the other active phone line (if there is one).
 o	When someone is put on hold, the line will move to the display screen with a blinking music note next to the calling phone number.
 o	To take them off hold, press the button corresponding to their line on the display screen.
 o	When someone has been on hold for an extended period of time the phone will “ring the caller back” to ensure you have not forgotten about him or her.  This looks just like a new caller.
 o	Every time you put a caller on hold, when you pick the line back up, you should say: “Thank you for holding.” Or “I’m sorry for the delay. Thank you for holding.”  If you had to put someone on hold abruptly to deal with an emergency situation it is appropriate to apologize and explain at this time.
 Note: On the operator line calls on hold will appear on the speed dial attachment, but on the Police phone they will appear on the main screen. 
-•	Transferring Calls:
+•	Transfer Calls:
 o	To transfer a call to a campus extension, press:
 o	“Transfer”
 o	Press a speed dial button or look up a number in the phonebook and select to dial.
 o	Either remain on the line to introduce the caller or the question to the person they are being transferred to or press “Transfer” again or hang up to complete the transfer.
 o	The caller you are transferring will hear hold music until you hang up or hit “transfer” again.
-o	Until you complete the transfer you can hit the back button to get the caller back and cancel the transfer.
-•	Transferring Directly to Voicemail (only do this for the Chief, Lt. and ACDC):
+o	Until you complete the transfer you can hit "cons call off" to get the caller back and cancel the transfer.
+•	Transfer Directly to Voicemail (only do this for the Chief, Lt. and ACDC):
 o	Press “transfer”
 o	Dial *2
 o	Dial the person’s extension
 o	Press “transfer” again or hang up.
 o	If you delay hitting ‘release’, you may cut off the mailbox recording.
-•	Conference Calling
+•	Conference Call
 o	While on the line with the caller press “transfer.”
 o	Dial the number or press the speed dial of the person you want to conference in.
 o	Once the person you are conferencing in answers the line press “Conference.”
 o	You can repeat this as many times as you need with as many lines as is required.
 
 4.3	Specific Lines: Order of Importance and Handling
-Multiple lines come in to the office and each one is handled differently. We receive both emergency and non-emergency calls for Gordon Police and we also function as the operator. Due to the volume of calls, it is sometimes necessary that we triage calls. Our phone lines are as follows:
+Multiple lines come in to the office and each one is handled differently. We receive both emergency and non-emergency calls for Gordon Police and we also function as the Gordon Colllege operator. Due to the volume of calls, it is sometimes necessary that we triage calls. Our phone lines are as follows:
 4.3a - 3333
 •	This is the emergency line that campus callers use during an emergency.  This line is recorded and you must, by law, tell callers so.
+•	Anytime you call out from this phone, legally you must tell the person the line is recorded (Hello, this is the Gordon College Dispatcher callling on a recorded line... [then go on with call])
 o	Ext. 4333 is the former emergency line, and will also ring as 3333.
 o	Anyone who dials 911 from any campus phone will dial to the Essex Regional Dispatch Center but also will ring as a “listen only” call on x3333.  You will be able to hear their conversation but not speak. Handle these calls as if the request came directly to you.
 o	Hot Phones (emergency phones located strategically around the campus) automatically dial this number.
@@ -483,7 +484,7 @@ o	If you are on another line you should immediately put that person on hold and 
 o	The best course of action if another emergency call comes in is to quickly conference the first emergency with regional, hang up, and then take the second emergency call. 
 o	If you are in a conference call you must hang up the phone before taking another call. Otherwise, the conference call will fail on all three of the connected lines and regional will no longer be talking to the caller. 
 o	If a second call comes in on the emergency line, it is significantly less noticeable.  The computer will give its alert and you will hear a call waiting like beep on the phone.
-•	Only hang up when the officer arrives on scene, unless circumstances prevent the caller from remaining on the line (for example, if they are calling from a room phone reporting smoke in the building).
+•	Only hang up when the officer arrives on scene or regional hangs up on a conference call, unless circumstances prevent the caller from remaining on the line (for example, if they are calling from a room phone reporting smoke in the building).
 •	If someone calls in with a non-emergency Police call, inform the caller that they have dialed the wrong number and then transfer him or her to the 4444 line to free up the emergency line.
 Accidental calls and hang-ups
 Occasionally, we will receive accidental calls and hang-ups on this line. Regardless of the suspected cause of the call, you should always follow up on the call.
@@ -499,13 +500,13 @@ o	In the case of a disconnection, accidental call, or hang up where the caller d
 •	This line has priority second to that of the emergency line.
 o	Some people only know this number and not our emergency number, resulting in emergencies coming in on this line.
 •	This line should not ring more than 4 times (unless there is a caller on the emergency line).
-•	Answer this line “Gordon Police, [first name] speaking, how may I help you?”
+•	Answer this line “Gordon Police, this line is recorded, how may I help you?”
 •	Most requests for the officers and other important requests will come from this line.
-o	Unfortunately, some people are under the misconception that Gordon Police is the same as the Gordon Switchboard Operator and will call our business line for phone numbers. This misconception can slow our service and ability to get to higher priority calls fast.
-	If you receive a call on this line for a number, inform the caller of the direct dial line to the operator (978-927-2300 or ext. 4000).
+o	Unfortunately, some people are under the misconception that Gordon Police is the same as the Gordon Operator and will call our business line for phone numbers. This misconception can slow our service and ability to get to higher priority calls fast.
+	If you receive a call on this line for a number, inform the caller of the direct dial line to the operator (ext. 4000 or 978-927-2300).
 	You can then transfer them to the operator.
 	As we function in conjunction with CTS as the operator, we will essentially be transferring them back to our office.  This may seem redundant, but we want people to understand that Gordon Police is not the same as the Operator even though we answer that line.
-	You can also inform them of the operator number for future reference (Ext. 4000 or 978-927-2300).
+	You can also inform them of the operator number for future reference (ext. 4000 or 978-927-2300).
 	It is recommended that you not connect them to the number without ‘retraining’ them first as this will help cut down on the habit of calling 4444 for call transfers. There will be obvious exceptions where you have no time to do so and just need them off the line quick.
 4.3c – Operator Phone lines and Gordon College Phone lines (4000 adn 4513)
 These two sources ring to the same “campus” phone line.  This is the listed college number (978-927-2300) as well as the number reached if anyone dials 0 from any on campus number
