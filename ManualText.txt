@@ -850,7 +850,7 @@ If you receive a recorded call informing you about the temperature in a certain 
 6.12	Weather and Power alerts 
 Weather alerts will come in via the dispatch cell phone. The most common situation is a lightning stike within ten miles of campus. Always check the dispatch cell phone if a text message comes in. If you receive a lightning or other dangerous weather notification, press the general "alert" tone and dispatch to all units. You will then call the grounds supervisor at Physical Plant and the camp directors (Adventure camp and various Sports camps) if during the summer. There is a procedure for lightning strikes in the at-hand binder. 
 
-If you receive a call regarding a power alert, record the details and dispatch them to the offier. 
+If you receive a notification regarding a power alert, record the details and dispatch them to the offier. They may come in as supervisory alarms on the fire computer. 
 
 Section Seven: Safety and Security
 7.1	Lockouts and MasterPermission
