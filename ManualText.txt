@@ -1055,11 +1055,10 @@ ________________________________________
 
 During the school year shifts are typically 2 hours long during business hours and 4 hours long outside of the business day.  Some experienced dispatchers will work 8-hour shifts but these are unusual.  During scheduled campus breaks (i.e. summer) shifts will usually be 8 hours long.  The shift cycle usually starts at 0400 (i.e. 0400-1200, 1200-2000, 2000-0400) for breaks, and is always noted in military time.
 
-
 9.2	Desk Coverage and Breaks
 During your shift you should remain at the dispatch station AT ALL TIMES.  At no time should you go past the front counter without proper substitute coverage at the desk.
 The following policies apply to breaks:
-•	You are entitled to a 15-minute bathroom break during a 4-hour shift and two 15-minute breaks during an 8-hour shift.
+•	You are entitled to a 15-minute bathroom break during a  4-hour shift and two 15-minute breaks during an 8-hour shift.
 •	Only currently employed dispatchers and officers are capable of covering you for a break.
 •	You must have desk coverage for all breaks (including bathroom breaks or anything requiring you to leave the desk area), so breaks are dependent upon the availability of an officer or dispatcher to cover for you.
 •	It is good to notify the officer well in advance if you need to take a bathroom break, rather than waiting until the very last moment as it may take time for them to return to the office.
@@ -1071,14 +1070,14 @@ While you are on a break:
 Because we are an emergency response center, we cannot reiterate enough the importance of never leaving the desk for any length of time.  Please do not abuse your privilege to take a short break.
 
 9.3	Beginning a Shift
-You are expected to come in at least 10 minutes before your shift begins so that you are completely ready to take over on the hour. As you begin your shift, you should:
+You are expected to come in 10 minutes before your shift begins so that you are completely ready to take over on the hour. As you begin your shift, you should:
 •	Note which officer is on duty from the dispatcher you are relieving as well as any relevant information and ongoing situations.
 •	Check the fire computers to see any existing troubles and their locations so you can recognize a new trouble should one come in.
 •	Log into your email to check for any new anouncements or shift coverage requests.
 •	Check for any new notices in the at hand information folder, on the bulletin board, the tack strip, or the white board.
 •	Check the counter to see if there is anything waiting to be picked up and make sure you understand who will collect the item and when.  Ensure there is a properly initialed, timed, and dated note on the item indicating all of the above. Additionally make sure the person has been notified that the item is in the office by either phone or email.
-•	Log into Report Exec and put yourself on duty as "dispatch."
-•	Log into MasterFiles and the Go! site on the general use computer. 
+•	Log into Report Exec and put yourself on duty as with the area "dispatch."
+•	Log into MasterFiles and the Go! site on the general use computer. Makes sure to read all new shift notes in MasterFiles.  
 •	Officially relieve the dispatcher on duty.
 
 9.4	Ending a Shift
@@ -1133,7 +1132,7 @@ When you wish to have a shift covered, you must EMAIL the entire dispatch staff 
 •	A detailed description of the shift you want coverage for (date, time, brief reason for why you want coverage).
 •	If you feel as though it is mandatory you have the requested shift covered, please email the ACDC explaining your reasons at least 2 weeks in advance.
 •	When multiple dispatchers reply saying they would like to cover a shift, the general rule is first one to respond gets it. 
-•	When a shift is exchanged either the dispatcher giving the shift or the one taking it should cross their name of the shift on the schedule in the back of the office and write the new name in. If they cannot come into the office, they should call and ask the dispatcher on duty to do so for them. 
+•	When a shift is exchanged either the dispatcher giving the shift (or the one taking it) should cross their name of the shift on the schedule in the back of the office and write the new name in. If they cannot come into the office, they should call and ask the dispatcher on duty to do so for them. 
 The following policies for shift changes apply:
 •	There is NEVER a time when someone else covers your shift and a shift coverage email is not required.  Even if you have a sub arranged from the start, notification must be posted (both on the schedule and an email to ACDC copying all parties involved in the swap).
 •	If you arrange coverage and it is not written in on the schedule or in an email to the ACDC, and a dispatcher does not show up, it will be your responsibility.  If it’s not in writing, it is still your shift.
@@ -1158,6 +1157,7 @@ If the shift change request was NOT mandatory, or if the request for mandatory w
 Examples of acceptable mandatory shift changes are weddings, funerals, finals occurring during your shift, illnesses, surgeries, a play that you are in, etc.
 
 Examples of non-mandatory shift changes are your birthday, going on a date, seeing a play that your friend is in, going home for the weekend, personal travel/trip, company (family/friends) coming, etc.
+
 Section Ten: Motor Vehicle and Bike Information
 10.1	Motor Vehicle Registration
 10.1a ipad Registration
