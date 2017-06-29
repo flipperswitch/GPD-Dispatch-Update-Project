@@ -306,7 +306,7 @@ o	Always circle the current plate number or sticker number for the vehicle invol
 o	Any verbal warnings or listing changes should be placed in its respective verbal warning or data entry bin unless the officer otherwise instructs you.
 o	Any change to a listing that an officer requests that only involves one field of a listing (i.e. an incorrect letter or number in a plate listing), incorrect state, incorrect color…etc) can be logged on the added/changed information log for data entry to add clarity for Data Entry personnel.
 3.6a Running a Plate
-•	Always write the plate down on the notepad and repeat it back to the officer to confirm that you heard it properly.
+•	Always write the plate down on the scratch pad and repeat it back to the officer to confirm that you heard it properly.
 •	You may ask the officer to “stand by” while you search for the listing, but do not keep them waiting for more than a few seconds.
 •	Bring up the vehicle listing on the computer.
 •	Let the officer know you have the information by saying, “[Officer Number] from Control with your listing.”
@@ -744,7 +744,7 @@ Some Psychological Emergencies will be treated as requests for medical aid and o
 •	 However we will always ensure the safety and wellbeing of anyone, even if they are currently in china and we have to contact others to do so.
 •	Tell the caller that we will ensure that they are safe and take a call back number in case you lose the call or the officer has follow up questions.  When the person is located, they will be instructed to contact the caller should they choose to do so.  We will not call them back ourselves to confirm.  If you feel there is an exception, it will be decided by the officer, not you.
 •	Dispatch the officer simply saying that you have a 10-50 request.  The officer will then call you for details or ask you to transfer the caller to them.  This preserves the privacy of the person in question.
-•	If the officer asks you to, obtain and record from the caller all the details they have, including their relation to the person and the reason for their concern, on the notepad.
+•	If the officer asks you to, obtain and record from the caller all the details they have, including their relation to the person and the reason for their concern, on the scratch pad.
 
 6.6	Fire Alarm
 We can receive two types of fire alarms through our fire panel in addition to notification of fire or smoke called in by an individual.
@@ -868,9 +868,9 @@ Part of the roll of a dispatcher is to watch for suspicious or potentially hazar
 These two admittance request items are handled in a similar manner. First, find the person’s name in Master Permission and verify that he or she has permission to access the location that he or she requested.
 •	Lockouts
 o	When a student is locked out of a residence hall or specific room, he or she will call Gordon Police if the RA or RD is unavailable. One of the first questions we should ask is whether or the student’s RA or RD is able to help, especially with room lockouts.  If no one else is able to help the student . . .
-o	Find the student’s name using MasterFiles and confirm that he or she actually lives in the requested hall or room.
+o	Find the student’s name using People Listings MasterFiles and confirm that he or she actually lives in the requested hall or room.
 o	If the caller is a guest or a student who is a resident of a different hall, he or she will have to call the host/friend in the building to be let in. We cannot accommodate such requests.
-o	If a student or staff member calls in regards to a door that is locked during a scheduled reservation, always verify it on the the master calander on 25 Live  If it is not on the report and there is no posted update or other printed note in the office ALWAYS radio the officer to confirm that there has not been any other emails, updates, or direct notifications to the officer of the reservation BEFORE instructing the caller that we cannot help them.
+o	If a student or staff member calls in regards to a door that is locked during a scheduled reservation, always verify it on the the master calander in 25 Live  If it is not on the report and there is no posted update or other printed note in the office ALWAYS radio the officer to confirm that there has not been any other emails, updates, or direct notifications to the officer of the reservation BEFORE instructing the caller that we cannot help them. The officer makes the final decision as to whether of not a person is admitted somewhere, NOT the dispatcher. 
 	If it is not on the report and if there was no update from Facilities Use and Space Planning, and the officer has no knowledge of any exceptions, inform the caller that we cannot open the space for him or her without authorization from Faciliteis Use and Space Planning that the space was officially reserved.
 o	If you have verified the room reservation in 25 Live, notify the officer of the lockout request.
 	NOTE: If the request is for a room in KOSC, CBMW or the Tavilla Conference Room, check with the ACDC if he or she is in office, as those areas can be opened automatically from Rodger.  Some residence hall exterior doors can also be opened automatically, though it is wiser to send the officer to tend to those requests in person since they pertain to residential living space.
@@ -879,9 +879,10 @@ o	If a student requests access to a locked space on campus, confirm that he or s
 	Pay attention to any time and date restrictions that may be placed on the student.
 	Verify that the caller is already AT the location that he or she wishes to be admitted to.  Officers will not accept an admit request if the caller is asking something like, “Can the officer let me into [area] in 15 or 20 minutes?”
 o	We cannot let students in to locked areas without prior permission from a professor or supervisor of some kind.
-o	If the name is not found in MasterPermission, the officer may have you ask the student to have his or her professor/supervisor call or email police@gordon.edu to receive permission.  However, for regular access we must have permission on file in our office.
+o	If the name is not found in MasterPermission, the officer may have you ask the student to have his or her professor/supervisor call x4444 or email police@gordon.edu to receive permission.  However, for regular access we must have permission on file in our office.
 o	At no time, should you give a yes or no response for an access request without FIRST radioing the officer, there always may be extenuating circumstances or arrangements that you have not been apprised of.
-With both types of admits, ask the person calling to call us back if they gain access before the officer arrives. This will prevent the officer from wasting time going to needless requests. All admittance requests should be entered on your dispatch log (appropriately note whether the person was admitted or denied).
+With both types of admits, ask the person calling to call us back if they gain access before the officer arrives. This will prevent the officer from wasting time going to needless requests. All admittance requests should be entered in Report Exec (appropriately note whether the person was admitted or denied).
+
 7.1a Access Control (Key Cards)
 The access control system includes all Gordon issued key cards and automatic door locks.  Dispatchers are never required to know how to manage the access control system, but it is helpful to know how to handle calls or requests for access control needs.
 Card Access
@@ -889,69 +890,70 @@ All students who have card access to areas on campus other than their residentia
 •	Name of individual.
 •	Description of the problem.
 o	If the problem is related to proximity doors (KOSC, CBMW & Bromley & Chase entrances), please acquire the “prox” number (see graphic).
-o	This number is located on the rear of the ID card along the very bottom edge.  The prox number is the first 5 digits of the long number string.  Cards do not need to be encoded for prox access.
-o	If the problem is related to the card swipe doors (Chase, Tavilla, Fulton, Nyland, etc.), advise the individual to see Auxiliary Services between the hours of 0800 and 1630, but please get a detailed description of the problem.
-•	If the person requesting card access is a student, inform him or her that we need authorization from a professor or departmental authority before setting up card access.  Dispatchers can double check the Master Permissions database to verify whether or not we have already received such authorization.
+o	This number is located on the rear of the ID card along the bottom right edge.  The prox number is the last 5 digits following the "D."  Cards do not need to be encoded for prox access.
+o	If the problem is related to the card swipe doors (Chase, Tavilla, Fulton, Nyland, etc.), get a detailed description of the problem.
+•	If the person requesting card access is a student, inform him or her that we need authorization from a professor or departmental authority before setting up card access.  Dispatchers can double check the MasterPermission database to verify whether or not we have already received such authorization.
 •	Please give all of the aforementioned information to the ACDC in an email.
+•	As a general rule we do not take ID cards that need to be fixed while the ACDC is out. If he or she is needed to fix the problem, the individual seeking help should be informed of the ACDC's next in time, so they can give it to him or her directly and any follow up questions can be asked.
+•	If the ACDC and the Access Control Assistant are both out, you can have the individual seeking help to try CTS as they may be able to fix some card problems. 
 •	You may also feel free to give the ACDC’s business card (located on the windowsill near the service counter) which includes the ACDC’s extension for voicemail and email address for problems that seem complicated.
 •	If a student comes into the office for a replacement or damaged ID card, inform them that CTS handles ID card replacement. 
-•	Please note that there are several areas on campus that function on automatic door schedules.  These are always programmed by the ACDC.  However, if someone calls or comes into the office claiming that a scheduled door (such as in Ken Olsen or a Chase classroom) is locked, treat the situation like a normal admit request.  After the request is dispatched please send the ACDC the details of the problem.  Again, these room reservations should be on 25 Live, though sometimes things slip through the cracks.  No matter the reason, the ACDC should be alerted that a problem occurred.
+•	Please note that there are several areas on campus that function on automatic door schedules.  These are always programmed by the ACDC.  However, if someone calls or comes into the office claiming that a scheduled door (such as in Ken Olsen or a Chase classroom) is locked, treat the situation like a normal admit request.  After the request is dispatched please send the ACDC the details of the problem.  Again, these room reservations should be in 25 Live, though sometimes things slip through the cracks.  No matter the reason, the ACDC should be alerted that a problem occurred.
 
 7.2	The Gates
-We monitor two gates from the office: the main gate outside the dispatch window and the Woodland lot gate. When the gates are down, the main gate is the only legal access to the campus, so anyone coming to the college should pass by us. A dispatcher will never deny a person entry to campus. However, if you ever think that something is not right with a situation and/or you feel that someone is giving you false information/should not be on campus, notify the officer of the situation and give a good description of the vehicle. If possible, try to stall the suspicious party before letting them in to allow the officer to find them.
+We monitor two gates from the office: the main gate outside the dispatch window and the Woodland lot gate. When the gates are down, the main gate is the only legal access to the campus, so anyone coming to the college should pass by us. A dispatcher will never deny a person entry to campus. However, if you ever think that something is not right with a situation and/or you feel that someone is giving you false information/should not be on campus, let the person through and then notify the officer of the situation and give a good description of the vehicle. If possible, try to stall the suspicious party before letting them in to allow the officer time to find them.
 
 7.2a Main Gate
-The Main Gate is to be closed by the dispatcher whenever the officer secures the BCA Gate at night (around 2200) and is to be raised when the BCA gate is opened or at 0600, whichever comes first.
+The Main Gate is to be closed by the dispatcher whenever the officer secures the BCA Gate at night (around 2200) and is to be raised when the officer opens the BCA gate in the morning (around 0600).
 •	Most people pass through the main gate at night.
-•	A button on the dispatch console manually manages the main gate (bottom button on right side of console, underneath “remote gate”).
+•	A button on the dispatch console manually manages the main gate (bottom button on right side of console that says “main gate”). When it is down it will have a red light lit up next to it, when it is down the green light will be lit.
 o	We always put the gate down between each car with no exceptions (even for the cruiser).
 o	If a car hits the gate, fails to stop for it, or sneaks in with another car, you should radio the officer immediately to let him or her know.
 	Include as much information as possible about the vehicle/situation so that the vehicle operator can be tracked down.
 Main Gate Protocol
 •	As a car approaches the gate, you should look on the windshield for a current parking permit or on the dash for a current temporary pass.
 o	If the vehicle has a temporary pass, be sure to check the expiration date.
-o	Faculty and staff members who have been around for a number of years may still have a square gold sticker in the rear driver’s side window, so keep an eye out for that as well.
+o	Faculty and staff members who have been around for a number of years may still have a square gold sticker in the rear driver’s side window, so keep an eye out for that as well. If they have this sticker, ask them to come into the office to receive a new sticker free of charge.
 o	If the vehicle has a current sticker or pass, you can raise the gate.
 •	If the vehicle does not have a current sticker or pass, use the intercom and ask the driver if he or she is a current student.  You should ask this of every person entering no matter their apparent age. If you feel uncomfortable asking just if they are a student and they are obviously older, you can ask if they are a student or a staff member. Remember that we do have a growing and thriving graduate program that people of all ages enroll in.
 o	If the driver responds that he or she is just dropping someone off or that the car will not be on campus over night, you must still confirm whether or not he or she is a student or staff member. Commuters will often try to avoid registering their car in this way (even though they are automatically billed for a commuter pass).
 •	If the driver is a student, ask why the vehicle is not registered.  If the driver is a staff member, have him or her come inside and register (FREE registration for all staff and faculty).
 o	If the driver has not had time to register yet, tell him or her to come in and register the vehicle immediately. It only takes a few minutes.
 o	If the student refuses, you may let him or her through, but you should let the student know that he or she is at risk of receiving a citation.  You should then give the vehicle information to the officer on duty and the possible location that the student is headed.
-o	If the student is waiting on information for registration, or is borrowing the car, have him or her come inside to get a temporary parking pass for $20 or risk a citation for $25 or $60 for excessive violations.
+o	If the student is borrowing the car, have him or her come inside to get a temporary parking pass for $20 or risk a citation for $25 or $60 for excessive violations.
+o	If the student is waiting on information to register, have them fill out a card with the minimum requried info (which all drivers operating a vehicle will have - see section 10.1b) and tell them to come in later to complete the process. 
 	Students who are borrowing a vehicle, but already have a different vehicle registered for the current school year, do not need to pay for the temporary pass.  The normal registration fee covers it.
 •	If the person is not a student or staff member, you should ask them what his or her purpose on campus is.
 o	If he or she is staying over night, a 3-day visitor pass is necessary. These passes are free for visitors (see section 10.2).
 o	If the visitor is just dropping off/picking up, confirm the name and location of the person he or she is visiting/dropping off in the computer before you open the gate
 6.2b Woodland Gate
 The Woodland lot gate is closed automatically from 1800-0600 nightly.
-•	Gordon community members can swipe an ID card to open the gate.
+•	Gordon community members can use an ID card to open the gate.
 •	We have the ability to raise the gate for one car at a time to pass through.
 •	This gate will automatically lower behind each car, so if a second car follows, the gate may come down on it.
 Woodland Gate Protocol
 •	If someone calls the intercom (black and gray pohone behind the police line), ask the driver if he or she is a current student.
-•	If the driver claims to be a student, verify by asking for his or her name and ID number and confirming this information in the computer.
-•	If he or she is not a student, ask for his or her reason for being on campus. As with the main gate, verify any information about who/where he or she is visiting in the computer before letting them in.
-•	If you believe that the person should not be on campus or that the person is giving you false information, stall them and notify the officer before opening the gate.  Once you open the gate, monitor the vehicle using the cameras and relay any relevant information to the officer, such as location and any suspicious activity.
+•	If the driver claims to be a student, verify by asking for his or her name and ID number and confirming this information in the computer. You can use the Class & Commuter Status Check to verify ID numbers
+•	If he or she is not a student, ask for his or her reason for being on campus. As with the main gate, verify any information about who/where he or she is visiting in the computer before letting them in. 
+•	If they are a vistor who is staying overnight, ask them to come to our office to get a visitors pass before parking in woodland. You will still let open the gate to let them go through and turn around (NEVER ask a driver to back out from either of the gates). 
+•	If you believe that the person should not be on campus or that the person is giving you false information, stall them and notify the officer before opening the gate (you can put the woodland intercom on hold by . Once you open the gate, monitor the vehicle using the cameras and relay any relevant information to the officer, such as location and any suspicious activity.
 
 7.3	Cameras
-Keep an eye on the cameras as much as possible during your shift. This does not mean constantly watching them, but keeping them in your peripheral vision and glancing at them frequently.  If you notice anything suspicious on the cameras during your shift, write down any relevant information on your scratch pad and radio the officer.  It is a good idea to also record the time in case you need to log the information later.
+Keep an eye on the cameras as much as possible during your shift. This does not mean constantly watching them, but keeping them in your peripheral vision and glancing at them frequently.  If you notice anything suspicious on the cameras during your shift, write down any relevant information on your scratch pad and radio the officer.  It is a good idea to also record the time in case you need to log the information or find the recording later.
 
 Using the Cameras
-•	There are four camera monitors controlled by two seperate computers. They share a keyboard and mouse, so you must use the black switch-box on the desk to choose which one to operate. 
+•	There are four camera monitors controlled by two seperate computers. They share a keyboard and mouse, so you must use the black switch-box on the desk to choose which one to operate. Computer 1 controls the two monitors on the left and computer two contorls the two on the right.
 •	These computers are designated for camerera monitoring ONLY. They should never be used for any other purpose.
 •	You can make a camera full screen by selecting it from the dropdown menu on the left of the screen.
 •	When a camera is selected in full screen, you can use the controls in the bottom left of the screen to manuever, focus, zoom, etc. 
 o	Note: Only some cameras have the ability to move.
-o	Do NOT unnecessarily move cameras. Some are positioned for specific reasons. If you beleieve a camera should be moved, ask an officer or the ACDC if it should be where it is or if it should be positioned differently.
-
-o	If yoy do move a camera, unless instructed otherwise, return it to its normal home setting. 
-
+o	Do NOT unnecessarily move cameras. Some are positioned for specific reasons. If you beleieve a camera should be moved, ask an officer or the ACDC if it should be where it is or if it should be positioned differently. Some will reset themselves to a default angle, but some will NOT.
+o	If you do move a camera, unless instructed otherwise, return it to its normal home setting. 
 o	If you need to operate a camera for an extended period of time, it can be helpful to close the other window on the same computer. This can help to keep the computer from responding slowly while you try to manuever a camera. 
 •	To go back to the standard view, select the appropriately labeled layout (1A, 1B, 2A, or 2B). 
-o	Be aware that there is a camera in our office. We do not monitor it, but you can pull it up from the menu. There is also a camara in KOSC 036 that we do not monitor, but only the officers and the ACDC have access to it. 
-•	Avoid moving cameras if not neccessary. Some will reset themselves to a default angle, but some will NOT. 
+o	Be aware that there is a camera in our office. We do not monitor it, but you can pull it up from the menu. There is also a camara in KOSC 036 that we do not monitor, but only the officers and the ACDC have access to it.  
 Recorded Files 
-•	You can access camera recordings from the camera computers by selecting the camera from the menu on the left and then expanding it by pressing the plus sign next to it. Select the day you want and select a time (times reflect the beginning of that recording).
+•	You can access camera recordings from the camera computers by selecting the camera from the dropdown menu on the left and then expanding it by pressing the plus sign next to it. Select the day you want and select a time (times reflect the beginning of that recording).
 •	You can use the controls to fast forward, pause, etc. 
 •	To reset, select the appropriately labeled layout from the menu on the left. 
 Logging In
@@ -961,11 +963,9 @@ Logging In
 If cameras go down
 •	Cameras often go down on the computer. They will turn gray and we will get no feed from them. Sometimes it is a glitch in the system and will come back up quickly (the cameras at 216 Grapevine sometimes do this). Other times it is permanent and needs to be fixed. 
 o	Note: If a camera appears black, look more closely. It is probably just dark where the camera is pointed. When a camera goes down, the screen will be obviously all gray. 
-•	If at any point a camera feed goes gray on the computer screen, wait a moment. If it does not come back up in a minute or two, close that window and log back in. If it is still down, notify the officer which camera is not functioning. If it is still down by the end of your shift, send an email to CTS from the dispatch email letting them know which camera is down and when it went down.
-
+•	If at any point a camera feed goes gray on the computer screen, wait a moment. If it does not come back up in a minute or two, close that program window and log back in. If it is still down, notify the officer which camera is not functioning. If it is still down by the end of your shift, send an email to CTS from the dispatch email letting them know which camera is down and when it went down.
 •	If all the cameras go down at once. Immediately let the officer know that all the cameras are currently down. Try restarting the program. If this does not fix the problem call CTS (or email if it is not during business hours).
-o	The exeption is if there is a scheduled network outage. You should be notified prior to or at the beginning of your shift if this is going to happen. If this is the case, you can ignore the cameras going down. 
-
+o	The exeption is if there is a scheduled network outage. You should be notified prior to or at the beginning of your shift if this is going to happen. If this is the case, you can ignore the cameras going down.
 •	If the camera for the Cashier's office goes down, immediately notify the officer and follow the same steps to try and fix it. This is because a lot of money is handled through this office and it is important for security reasons to have the cameras up. 
 Confidentiality
 •	As with all other things in the office, what is seen on the cameras is to be kept confidential and only shared with other members of the department on a need to know basis. 
@@ -973,13 +973,17 @@ Confidentiality
 •	Capturing images of people on the camera system is an invasion of privacy and is a serious offense. 
 
 7.4	Scanner
-Speakers for our radio scanner are on the window sill behind the dispatch computer. We monitor several local channels but the most important are the Wenham PD and FD channels. You are permitted to turn down the volume on scanner during high traffic times (meaning multiple stations are talking as is GCPD) if it is distracting you from listening to the Gordon radio. However it is NEVER all right to turn the volume all the way down. The scanner should also be audible over any movies, games, or music you are listening to while in the office. Monitoring the scanner may seem pointless, but Wenham may try to contact us over the radio or you may hear about an incident near the campus (i.e. Grapevine Rd., Parsons Hill, or Iron Rail) that you or the officer should be aware of. It is also possible in a world of cell phones that there is an emergency called in to 911 by a cell phone on campus that the officer will need to respond to.
+Speakers for our radio scanner are on the window sill behind the dispatch computer. Wenham is also linked to our backup radio. We monitor several local channels but the most important are the Wenham PD and FD channels. You are permitted to turn down the volume on scanner during high traffic times (meaning multiple stations are talking as is GCPD) if it is distracting you from listening to the Gordon radio. However it is NEVER all right to turn the volume all the way down. The scanner should also be audible over any movies, games, or music you are listening to while in the office. Monitoring the scanner may seem pointless, but Wenham may try to contact us over the radio or you may hear about an incident near the campus (i.e. Grapevine Rd., Parsons Hill, or Iron Rail) that you or the officer should be aware of. It is also possible in a world of cell phones that there is an emergency called in to 911 by a cell phone on campus that the officer will need to respond to.
 Any time you overhear anything on the scanner that the officer should be aware of, radio him/her to make sure they heard it as well.  This includes BOLOs (Be On the Look Out).
+•	Always write down BOLOs you here over the scanners on the scratch pad and confirm with the office that they also received it. If not, then read it off to them. If you receive the BOLO near shift change, pass on the information to your relief.
 
-7.5	RRC Back Doors and Mirror
-At night and on windy days the back door to the office door is sometimes locked by the officer.  People will buzz the door for access.  You can let them in by pressing and holding the “Rodger Door” button above the gate buttons on the dispatch console. Occasionally, people will think the door is locked when it is not and will buzz in accordingly. Motion them to come in the door.   If it is late at night and the door has not been locked and you would feel more comfortable if it were, radio the officer and (s)he will lock it for you.
+7.5	RRC Back Door, office door, and  Mirror
+At nights the main building back door can be locked by the officer.  People will buzz the door for access.  You can let them in by pressing and holding the “Rodger Door” button above the gate buttons on the dispatch console. Occasionally, people will think the door is locked when it is not and will buzz in accordingly. Motion them to come in the door or press the "Rogder Door" button whihc will click and let them know they can enter.   If it is late at night and the door has not been locked and you would feel more comfortable if it were, radio the officer and (s)he will lock it for you. 
 
-The convex mirror in the office will allow you to see the customer service counter from the back of the office. However, it is most useful when you are sitting in front of the computer; you can view the desk, hallway, and back door without having to turn around. Check the hallway when you hear the back door open. If an unauthorized party goes upstairs, notify the officer immediately.
+The office door is secured at all times and only the officers, ACDC, and a handful of physical plant employees have access. Dispatchers do not need access as there should always be one in the office who can let their relief in. This door should NEVER be propped as it presents a breach of security and allows anyone to walk in. 
+•	When it is propped open, people often get confused if someone does not immediately greet them at the front desk and often walk right into the office to get assistance. 
+
+The convex mirror in the office will allow you to see the customer service counter from the back of the office. However, it is most useful when you are sitting in front of the computer; you can view the desk, hallway, and back door without having to turn around. Check the hallway when you hear the back door open. If an unauthorized party goes upstairs, notify the officer immediately. 
 
 Section Eight: Other Logs and Forms
 8.1	Work Request Items
@@ -987,7 +991,8 @@ Section Eight: Other Logs and Forms
 8.3	MV Tow Log & Bike Confiscations
 8.4	Absentee Parking Passes
 8.5	Missing/Added/Changed Information Log
-8.6	Move CITATION PETITIONS here from section 13.10?
+8.6	Citation Petitions
+8.7	Special Needs Parkings Passes
 ________________________________________
 8.1	Work Request Items
 Physical Plant
@@ -999,35 +1004,39 @@ Work orders for Physical Plant are handled online. When the officer requests you
 •	Click “Enter a new request.”
 •	Scroll to the bottom of the drop down list to select “Police.”  - if you do not see a drop down list here, notify the ACDC so that your access level in the system can be adjusted.
 •	Enter 4444 as the phone number and Police as the department.
-•	Fill in any information provided by the officer.   As much as possible, entries should be word for word descriptions as provided by the officer.  If you are unsure of the wording, read it back to the officer before submitting.
+•	Fill in any information provided by the officer. As much as possible, entries should be word for word descriptions as provided by the officer. If you are unsure of the wording, read it back to the officer before submitting.
 •	Click “Submit.”
 CTS
 Work orders for CTS usually only fall under the category of major network emergencies or outages or problems with campus phones or our cameras.  We do not have to enter work orders for individuals who call us with network problems.  They can be connected directly to CTS (x4500).
 
 Dispatchers may enter CTS work requests for issues involving campus phones and technology if instructed by the officer (as with Physical Plant work orders), which can be done by emailing CTS@gordon.edu.  Always use the dispatch email function for these emails so that they are sent from the police@gordon.edu email address rather than your personal email address.
 
-
 8.2	Logging Escorts 
-In the event of an escort, you need to log ALL the information in Report Exec. Create a new call and put "Assistance: Escort" as the call type. Make sure to include the time that the call came in, the name of the person requesting the escort, where he or she is going (from and to), the officer responding, his or her arrival time, and his or her clear time.
-
+In the event of an escort, you need to log ALL the information in Report Exec. Create a new call and put "Assistance: Escort" as the call type. Make sure to include the time that the call came in, the name of the person requesting the escort, where he or she is going (from and to), the officer responding, his or her arrival time, and his or her clear time. Make sure to get all of this information for quality contorl purposes. 
 
 8.3	Tow Log & Bike Confiscations (App. Tow Log)
 MV Tows
-In the event of a vehicle tow, record the information in both the tow log and Report Exec.  The tow log is kept in a binder to the right of the dispatch desk. If someone comes to us saying his or her vehicle has disappeared, before treating it as a stolen item, check the logs see if it was towed.  If the vehicle has been towed, inform the party where his or her vehicle has been moved (usually the Woodland lot).  The owner will have been cited for the parking violation as well as the towing fee.
+In the event of a vehicle tow, record the information in both the tow log and Report Exec. The tow log is kept in a binder to the right of the dispatch desk. If someone comes to us saying his or her vehicle has disappeared, before treating it as a stolen item, check the logs see if it was towed.  If the vehicle has been towed, inform the party where his or her vehicle has been moved (usually the Woodland lot).  The owner will have been cited for the parking violation as well as the towing fee.
 Bike Confiscations
 If the officer radios you with a bike confiscation, you will need to record the bike confiscation in MasterBike and in Report Exec.
 •	Click “MasterBike” and “Enter a New Confiscation”.
 •	Ask the officer if the bike has a sticker.
-•	Fill out the form with the details provided by the officer.  If the officer does not give them to you, ask for the make, model, color, location found, serial number and reason confiscated.
+•	Fill out the form with the details provided by the officer. If the officer does not give them to you, ask for the make, model, color, location found, serial number and reason confiscated.
 •	Give the officer the confiscation number.
-If a student comes into the office claiming his or her bike has been stolen or lost, check the bike confiscation list in MasterBike before reporting it as stolen.  There is usually a $15 punitive fine for the retrieval of a confiscated bike. To retrieve a bike, the party must take a Confiscated Bike Slip to the Cashier's window in MacDonald and bring back a reciept or pay the fine on CashNet. After ownership is verified and the fee is paid, an officer can take the owner to the confiscation area to retrieve his or her bike.
+If a student comes into the office claiming his or her bike has been stolen or lost, check the bike confiscation list in MasterBike before reporting it as stolen.  There is usually a $15 punitive fine for the retrieval of a confiscated bike. To retrieve a bike, the party must take a Confiscated Bike Slip to the Cashier's window in MacDonald and bring back a reciept or pay the fine on CashNet through their my.gordon.edu account. After ownership is verified and the fee is paid, an officer can take the owner to the confiscation area to retrieve his or her bike.
 •	If the individual believes they should be exempt from the $15 fine, they should be directed to speak with the officer.
 
 8.4	Absentee Parking Passes (App. Green Pass and Waiver Form)
-During the summer, students who will be off campus for any length of time and will be leaving their cars here will need to obtain an absentee parking pass.  They are required to fill out an application for absentee parking and assumption of risk with the vehicle’s information as well as the time period that they plan on being away from campus.  Dispatchers fill out a green Absentee Parking Pass to be placed on the dashboard of the car, with the vehicle information.  An officer or the ACDC needs to sign both forms before the pass is valid.  These cars are typically parked in lot G or H.  During the summer, these forms are kept in a folder near the citation petition forms next to the lost and found cabinet.
+Anytime a student will be away from campus for a length of time (Summer break, studying abroad, etc.) and will be leaving their cars here, they will need to obtain an absentee parking pass.  They are required to fill out an application for absentee parking and assumption of risk with the vehicle’s information as well as the time period that they plan on being away from campus.  Dispatchers fill out a green Absentee Parking Pass to be placed on the dashboard of the car, with the vehicle information.  An officer or the ACDC needs to sign both forms before the pass is valid.  These cars are typically parked in Woodland lot G or H. These forms are kept in a folder near the citation petition forms next to the lost and found cabinet. They are file in alphabetical order. 
 
 8.5	Missing/Added/Changed Information Log
-Anytime that you are notified of updated or incorect information that you are not able to correct, there is a log to the right of the dispatch desk where this can be logged for data entry. This could include incorrect information in MasterFiles or any updated information that we are notified about (vehicle plates, cell phone numbers, vehicle descriptions, etc.). This log will be checked regularly by senior dispatch staff. Be sure to intitial and each entry in case there are follow up or clarification questions.
+Anytime that you are notified of updated or incorect information that you are not able to correct, there is a log to the right of the dispatch desk where this can be logged for data entry. This could include incorrect information in MasterFiles or any updated information that we are notified about (vehicle plates, cell phone numbers, vehicle descriptions, etc.). This log will be checked regularly by senior dispatch staff. Be sure to intitial and date each entry in case there are follow up or clarification questions.
+
+8.6	Citation Petitions (App. Citation Petition)
+If someone comes in requesting a citation petition, you can find the petitions in the file trays beneath the service counter.  The owner of the vehicle should fill in all requested info as well as the reason(s) he or she feels they should have their citation waived.  If the citation was written for expired plates, the owner will need to bring in his or her new/up to date registration and show the duty officer, who will then sign their petition.  Be sure to initial and date the petition form before putting it into the completed petitions folder.  Students have 10 calendar days from the date that they receive a citation if they wish to file petitions.  Visitor of the campus wishing to appeal a citation may check the box at the bottom of the citation and fill in all of the empty information fields at the top of the citation and the fee will be waived.  These filled out citations should be put in the data entry box.  Students CANNOT appeal Wenham/Town tickets through our office.  They must follow the procedure on the ticket itself.
+
+8.7	Special Needs Passes
+If someone comes in or calls requesting a special needs pass, they can be given a special needs pass application (you can find the applications in the file trays beneath the service counter). Completed applications can be placed in 101's box. If they have any questions they can be instructed to talk to 101 or to email police@gordon.edu. If someone comes in to pick up a completed pass, find it on the dispatch desk and check their ID to verfity it is for them. If there is no pass ready for them, contact 101 or, if he is unavailable, the officer on duty to see if a pass was left upstairs. 
 
 Section Nine: Dispatcher Shift Information
 9.1		Shift Length
@@ -1178,7 +1187,7 @@ Keep in mind that since the registrant should have his or her state vehicle regi
 
 If the registrant does not have his or her registration and proof of insurance in hand, it must be retrieved from the vehicle before beginning the registration procedure.  This is for our own good because we can then verify the information is accurate. Remember, the minimum information required to issue a Gordon sticker is highlighted above and also on a laminated sheet near the front counter.
 
-If registrants are missing NON-REQUIRED information, you can proceed with completing the registration and issue the appropriate Gordon sticker.  He or she should then be instructed to email the missing information to police@gordon.edu at their earliest convenience so that we can eventually have the information on file.
+If registrants are missing NON-REQUIRED information, you can proceed with completing the paper registration and issue the appropriate Gordon sticker.  He or she should then be instructed to email the missing information to police@gordon.edu at their earliest convenience so that we can eventually have the information on file.
 
 10.1c Nonresident Driver Statement
 All nonresident students of Massachusetts must obtain a nonresident permit (explanation on form).  THE NONRESIDENT PERMIT FORM IS A COMPLETELY SEPARATE PROCESS FROM THE GORDON VEHICLE REGISTRATION PROCESS.  In other words, students should always be issued a Gordon College permit (see section 10.1a) even if they cannot complete the nonresident form at the time of registration.  The nonresident permit should only be issued to full time undergraduate and graduate students (this does not apply to faculty or staff).  The nonresident permit has nothing to do with whether the student lives on campus or commutes and applies even to students who commute from out of state.  The nonresident permit should only be issued to students whose vehicle has an out of state plate.
@@ -1357,13 +1366,11 @@ Section Thirteen: Miscellaneous Dispatch Duties
 13.2	Mail Deliveries
 13.3	Other Deliveries
 13.4	Van Testing
-13.5	Citation Petitions
-13.6	RAD
-13.7	Borrowing Items From DPS
-13.8	Parking Details
-13.9	Shovelers
-13.10	Admissions Packets
-13.11	Special Needs Passes
+13.5	RAD
+13.6	Borrowing Items From DPS
+13.7	Parking Details
+13.8	Shovelers
+13.9	Admissions Packets
 ________________________________________
 
 13.1	Lane Deliveries
@@ -1399,22 +1406,17 @@ In order to drive a college-owned vehicle, faculty, staff or students must first
 •	After a person has completed the online testing modules, he or she can sign up for a test through the van testing officer.
 •	If at any point an applicant has a question that you cannot answer, ask the officer on duty, if the officer on duty does not know the answer, instruct them to email police@gordon.edu and the van testing officer will reply with an answer when they are next in the office.
 
-13.5	Citation Petitions (App. Citation Petition)
-If someone comes in requesting a citation petition, you can find the petitions in the file trays beneath the service counter.  The owner of the vehicle should fill in all requested info as well as the reason(s) he or she feels they should have their citation waived.  If the citation was written for expired plates, the owner will need to bring in his or her new/up to date registration and show the duty officer, who will then sign their petition.  Be sure to initial and date the petition form before putting it into the completed petitions folder.  Students have 10 calendar days from the date that they receive a citation if they wish to file petitions.  Visitor of the campus wishing to appeal a citation may check the box at the bottom of the citation and fill in all of the empty information fields at the top of the citation and the fee will be waived.  These filled out citations should be put in the data entry box.  Students CANNOT appeal Wenham/Town tickets through our office.  They must follow the procedure on the ticket itself.
-13.6	RAD
+13.5	RAD
 When the RAD program is being offered, there is a safe box on top of the monitors in which you can put RAD checks.  RAD registration is $15.  We only accept checks for payment for the class. Checks are made out to Gordon College with RAD in the memo line.
 
-13.7	Borrowing Items From DPS
+13.6	Borrowing Items From DPS
 If people need to borrow anything from the office (shovels in the winter, scrapers to remove old parking stickers, etc) always take an ID as collateral. There is a holder for them by the window. Anytime you take an ID as collateral for this purpose, you must affix a sticky note to the ID with the item it is collateral for, your initials, the date and the time
 
-13.8	Parking Details
+13.7	Parking Details
 During parking details, give the parkers a parking vest when they come in and flashlight wands (if necessary). There are also rain jackets available under the counter if it is raining and they need to borrow one. Inform them that timesheets are ont the Go! site if it is there first time working.
 
-13.9	Shovelers
+13.8	Shovelers
 In the winter, morning shifts may be asked by Physical Plant to call for shovelers or plow drivers. In that event, either M50 will provide the dispatcher with call list. Shovelers will report to Physical Plant and you should call down the list until you have obtained the number of shovelers needed for the particular situation.  Usually, the officer will be the one to call M50 during a snow emergency.  The call list can also be found on the Go site under departments and then physical plant.
 
-13.10	Admissions Packets
+13.9	Admissions Packets
 We have a variety of admissions information items kept in a tray on the dispatch desk. If a prospective student comes into our office while the Admissions office is closed you can offer these materials to them and answer any questions you are able. Admissions may also give us a packet for a specific student if they know that they will be visitng while Admissions is closed. 
-
-13.11	Special Needs Passes
-If someone comes in or calls requesting a special needs pass, they can be given a special needs pass application (found under the front counter). Completed applications can be placed in 101's box. If they have any questions they can be instructed to talk to 101 or to email police@gordon.edu. If someone comes in to pick up a completed pass, find it on the dispatch desk and check their ID to verfity it is for them. If there is no pass ready for them, contact 101 or, if he is unavailable, the officer on duty. 
