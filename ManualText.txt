@@ -603,7 +603,7 @@ Common Siuations that are NOT logged:
 •	Students getting there cards encoded by the ACDC or other staff.
 •	The officer asking for a plate listing (different from a MV stop).
 •	People checking out OCE or campus keys (This is logged in seperate keys logs, not Rerport Exec).
-•	A REOCCURRING trouble alarm.
+•	A RECURRING trouble alarm.
 •	People picking up items that were left on our desk for them. 
 
 
