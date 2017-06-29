@@ -664,9 +664,8 @@ You should also be somewhat familiar with these protocols before coming in for y
 
 Emergency situations are always toned out over the radio before being dispatched.
 
-•	These tones are heard on the Gordon Police channels (3 and emergency only channel).
-•	You will conduct the entirety of the emergency dispatch only on Channel 3.
-
+•	These tones are heard on the Gordon Police channels (channel 3 and Emergency Only channel).
+•	You will conduct the entirety of the emergency dispatch only on Channel 3. Anyone wanting to hear the dispatch will m
 •	The fire tone is automatic in the event of a standard fire alarm, when an existing alarm is not already in the system.
 •	In other cases, you will activate a tone manually by pressing the appropriate button on the radio console.
 o	Fire Tone
@@ -685,10 +684,10 @@ Radio Silence
 Regional Dispatch and our relation to them
 •	Regional dispatch is the dispatch center for the County of Essex region.  Some neighboring towns still maintain their own independent dispatch centers such as ECO in Hamilton.  The Town of Wenham however, uses Essex Regional Dispatch.
 •	Regional is our main point of contact for assistance from outside agencies such as Wenham Police, Wenham Fire, and Ambulance Response.  We also contact them for other needs such as animal control, fire permits, and information.
-•	You should never be intimidated when talking to Regional as they are dispatchers like you.  Regional, like emergency callers are an exception to the general rule that we put callers on hold when talking on the radio or asking a question of someone in the office.  If, while on the phone with Regional, the officer contacts you on the radio, you may simultaneously hold both conversations as they are capable of monitoring our radio channel anyway.
+•	You should never be intimidated when talking to Regional as they are dispatchers like you.  Regional, like emergency callers, are an exception to the general rule that we put callers on hold when talking on the radio or asking a question of someone in the office.  If, while on the phone with Regional, the officer contacts you on the radio, you may simultaneously hold both conversations as they are capable of monitoring our radio channel anyway.
 •	You may occasionally receive dispatches on the phone or the dispatcher cell phone from Regional for the officers.  This could be situations like someone on campus dialing 911 from a cell phone, where they received the phone call, but our officers are part of the response.  The officers should be receiving these dispatches on their duty cell phones, however as a back-up measure, you should always dispatch these calls following the appropriate protocol as if the call came to you instead.
 •	When phones that are part of the internal campus land-line system dial 911, you will receive a “listen only” version of the phone call.  You will be able to listen in to the conversation between the caller and Regional.  You should dispatch these calls as if they came directly to you.
-6.2	10-35 CALL Regional—Wenham Police Backup Needed Immediately
+6.2	10-35 CALL REGIONAL —Wenham Police Backup Needed Immediately
 The 10-35 code (police emergency) means that the officer is in trouble and needs immediate police backup. Officers may only be able to make one transmission depending on the situation. You need to know this code in your sleep because our officers’ lives may depend on a speedy response. Your hand should already be on the receiver as you repeat back the call and your finger on the Regional speed dial before you finish your reply over the radio.
 
 6.3	10-7E – Dispatcher Distress Call
@@ -708,13 +707,13 @@ All medical aid requests are treated as an emergency, and they are ALL toned out
 •	If you feel that a call that sounds medical in nature is simply an individual attempting to obtain a medical item, clarify the request.  Examples of these type calls are students trying to find a band-aid to apply to a cut or an ice pack to apply to a twisted ankle.  The distinction is this: if they are looking for either assistance with the medical issue or even advice about whether they should seek further treatment, tone it as a medical.  If they are simply trying to obtain an object, you may dispatch as you would any other call.  As always, our motto remains: “when in doubt, tone it out.”
 •	When receiving a medical emergency call, your priority is to get the patient’s location and call back number and then the general nature of the emergency.  Unlike with routine requests of the officer, do not waste time getting the caller’s name.  You can always gather this type of information later after your initial dispatch.
 •	When gathering the call back number, don’t just read it off of the e911 window on the computer screen or the phone screen, confirm the number with them and write it down.
-•	It is important when speaking with emergency callers that you keep them from rambling.  You do not want to waste time hearing a medical history for the patient, or getting all of the pertinent details about how a collision happened that resulted in an injury.  We only want to get a quick brief summary description of the main medical issue (i.e. a broken arm, twisted ankle, chest pain, difficulty breathing, allergic reaction, seizure, fainting, attempted suicide by(fill in the blank with knife, pills, gun…etc) and so on).  The only follow up questions you should ever take time to gather are regarding consciousness or difficulty breathing if those answers are in doubt.
+•	It is important when speaking with emergency callers that you keep them from rambling.  You do not want to waste time hearing a medical history for the patient, or getting all of the pertinent details about how a collision happened that resulted in an injury.  We only want to get a quick brief summary description of the main medical issue (i.e. a broken arm, twisted ankle, chest pain, difficulty breathing, allergic reaction, seizure, fainting, attempted suicide by (fill in the blank with knife, pills, gun…etc) and so on).  The only follow up questions you should ever take time to gather are regarding consciousness or difficulty breathing if those answers are in doubt.
 •	Focus on gathering the information as quickly as possible so that officers can get dispatched on en-route to their location.
 •	Once you gather those three information items from the dispatcher, you will initiate a conference call with Regional and then put your line on mute so that you can monitor the flow of information to Regional but are not posing a distraction by the background noise of you dispatching the medical.
 •	You must press the medical tone on the dispatch console to tone out the Medical Alarm.
 •	It is particularly important for medical calls that you refrain from using names over the radio.
 •	Medical situations should be broadcast using the following format:
-o	Control to all units: You are responding to a request for medical aid at [specific location] for [main medical issue].  The caller is on with Regional.  All responding units please acknowledge.
+o	"Control to all units: You are responding to a request for medical aid at [specific location] for [main medical issue].  The caller is on with Regional.  All responding units please acknowledge."
 •	You will dispatch this same way whether you received the call and conferenced in Regional or you received a listen only mode call to Regional (911).
 •	Examples of wording for dispatching a medical situation over the radio. “You are responding to a request for medical aid at…
 o	Ferrin Field for a possible dislocated elbow.”
@@ -723,20 +722,21 @@ o	Nyland, in the RD apartment, for a person who is having trouble breathing, pos
 o	MacDonald, room 101, for a cut finger.”
 o	The Center for Balance and Mobility for a party experiencing chest pains.”
 6.5	Psychological Emergencies
-Some Psychological Emergencies will be treated as requests for medical aid and others will be transferred to the officers’ cell phone.  Due to the inherently gray nature of Psychological emergencies and the sometime necessity for a delicate response, these calls will always either be passed on to either the officer’s phone or conferenced to Regional.
+Some Psychological Emergencies will be treated as requests for medical aid and others will be transferred to the officer via the duty cell.  Due to the inherently gray nature of Psychological emergencies and the sometime necessity for a delicate response, these calls will always either be passed on to either the officer’s phone or conferenced to Regional.
 •	You will need to obtain the normal three pieces of information just like in a medical call, location of the person in question, a call back number for the caller and a very brief/quick and basic description of the issue.  As in a medical, prevent the caller from rambling to you as they will need to tell the details to someone else and we do not want to delay response.
 •	In addition to these you will need to ask the caller the following two questions:
 1.	“Does the person have any obvious MEDICAL NEEDS OR ISSUES (e.g. injury, difficulty breathing, loss of consciousness, etc)?”
 2.	“To your knowledge has the person attempted to harm themselves or are they actively and imminently preparing to do so (e.g. they’ve threatened to take pills, etc)?”
 •	If the answer to either of the above questions is yes, you will treat the call as a medical call and immediately start the conference call with Regional.
-•	In all other cases you will initiate a conference call with the Duty Cell (or if the officer specifies that you should call the double coverage officer, to the double coverage cell phone).  Once you are on with the officer and get the caller speaking with the officer, you will then hang up and follow any directions that the officer gives you.
+•	In all other cases you will initiate a conference call with the Duty Cell (or if the officer specifies that you should call the double coverage officer, transfer to Duty Cell #2).  Once you are on with the officer and get the caller speaking with the officer, you will then hang up and follow any directions that the officer gives you.
 
 	6.5a 	 10-50 - Well Being Check
-	There are times that you will receive a call where there is no psychological emergency in progress but 	where a parent, roommate, or Residence life staff has a general concern about the location or well-	being of a student or other person.  In these cases, you do not need to escalate to a psychological 	emergency but we will investigate every request.
+	There are times that you will receive a call where there is no psychological emergency in progress but 	where a parent, roommate, or Residence Life staff has a general concern about the location or well-being of a student or other person.  In these cases, you do not need to escalate to a psychological 	emergency but we will investigate every request.
 •	We will neither confirm nor deny that someone is even a student at the college for the sake of the student’s privacy (some students have restraining orders against family members or just don’t want them knowing where they are and as adults, that is their right).
 •	 However we will always ensure the safety and wellbeing of anyone, even if they are currently in china and we have to contact others to do so.
 •	Tell the caller that we will ensure that they are safe and take a call back number in case you lose the call or the officer has follow up questions.  When the person is located, they will be instructed to contact the caller should they choose to do so.  We will not call them back ourselves to confirm.  If you feel there is an exception, it will be decided by the officer, not you.
 •	Dispatch the officer simply saying that you have a 10-50 request.  The officer will then call you for details or ask you to transfer the caller to them.  This preserves the privacy of the person in question.
+•	If the officer asks you to, obtain and record from the caller all the details they have, including their relation to the person and the reason for their concern, on the notepad.
 
 6.6	Fire Alarm
 We can receive two types of fire alarms through our fire panel in addition to notification of fire or smoke called in by an individual.
@@ -744,7 +744,7 @@ We can receive two types of fire alarms through our fire panel in addition to no
 This is a real fire alarm detected by one of our fire computers. Alarms will sound in the building involved to evacuate the building. An emergency tone will be sent directly to Regional, though they will not know the specific location of the alarm until you call them.
 •	You will hear an alarm over the the fire computer.
 •	The Fire Tone will automatically go out over the radio unless another alarm is already active in the system.
-•	The RED light on the panel will light up, indicating that you should call Regional.
+•	The RED light on the panel will light up, indicating that it is a STANDARD fire alarm.
 •	Never assume that the alarm activation is only one alarm until you confirm that fact on the computer.  Two alarms coming in simultaneously sounds exactly the same as one or many.
 6.6b Local Fire Alarm
 These alarms are located in areas where there is likelihood of non-emergency smoke (such as cooking smoke). As they will often activate when there is no active fire, they only sound locally; alarms will NOT sound to evacuate the building and an automatic tone will NOT go to Regional.
@@ -755,7 +755,7 @@ These alarms are located in areas where there is likelihood of non-emergency smo
 
 6.7	Report of LOCAL Smoke Detector Activation & Report of Fire/Smoke
 •	You will have to press the fire alarm tone.
-•	In the case of a report of a local smoke detector activation you will call Regional after your dispatch to notify them of the alarm.
+•	In the case of a report of a local smoke detector activation YOU will call Regional (do not conference call) after your dispatch to notify them of the alarm.
 •	In the case of a report of Fire or Smoke you will begin a conference call to Regional dispatch just like in medical calls before dispatching the officer.
 •	If possible (if the caller is not in danger from the fire or on a mobile phone) keep the caller on the line until the officers arrive at the scene.
 •	If at any point you determine that a reasonable person would think that the building should be evacuated (such as an uncontrolled oven fire, a room filled with smoke..etc) instruct the caller to leave the building and pull a pull station.
@@ -780,9 +780,9 @@ Occasionally a trouble may come in and clear repeatedly. If the person you relie
 If a trouble clears from the system immediately after you acknowledge it (meaning it does not appear in the yellow Acknowledged Events field), there is no need to contact the duty officer.  An example of this is the 24 Hour Alarm (Trouble Restored Node101 T093) which comes in each day.  IF IN DOUBT, HOWEVER, ALWAYS CONTACT THE DUTY OFFICER.  Do contact them if this event occurs repeatedly in succession.
 
 Some trouble alarms look differently than others.  Power related trouble alarms usually come in under the alarm type “Supervisory Alarm.”  Treat these as you would a trouble alarm except in one case:
-•	A supervisory alarm that has the word “Security” in it for the Bennett Center is actually the Bennett  security alarm tripping.  For these alarms, you should call the Bennett front desk when Bennett is open (confirm with the cameras) both informing them of the alarm and ensuring that everything is OK.  When Bennett is closed, dispatch the officer to the security alarm at Bennett.
+•	A supervisory alarm that has the word “Security” in it for the Bennett Center is actually the Bennett security alarm tripping.  For these alarms, you should call the Bennett front desk when Bennett is open (confirm with the cameras) both informing them of the alarm and ensuring that everything is OK.  When Bennett is closed, dispatch the officer to the security alarm at Bennett.
 5.9a Recurring Trouble Alarms
-When there are recurring troubles, there will be a PRINTED list on the cork board/dry erase board to the left of the Onyx fire computer monitor.  If you receive instruction from Mike Favaloro (Mobile 12) or an officer to add a new trouble, write it on the dry erase side with your initials and date.  These troubles will be added to the printed list on a regular basis, and will be sent to Mike regularly for updating.  You do NOT have to contact the duty officer any time these troubles come in.
+When there are recurring troubles, there will be a PRINTED list on the cork board/dry erase board to the left of the fire computer monitor.  If you receive instruction from Mike Favaloro (Mobile 12) or an officer to add a new trouble, write it on the dry erase side with your initials and date.  These troubles will be added to the printed list on a regular basis, and will be sent to Mike regularly for updating.  You do NOT have to contact the duty officer any time these troubles come in.
 5.9b Offline Buildings
 Buildings will only be taken offline if Mike Favaloro (M12) or another alarm technician is working on the fire systems. Or if there is construction work in the building that has a high likely hood of tripping a false alarm. Whenever Mike or another alarm technician takes a building offline for service, he will attach a red laminated placard (stored behind the fire alarm monitor) to the top front of the alarm monitor as a visible reminder to all of us that a building is offline.  Mike may also call to instruct a member of Gordon Police staff to hang the placard; we should NEVER display it unless directly asked to do so by Mike or his designee. When Mike has returned the building to normal function, he will either remove the placard (storing it again behind the monitor) or he will instruct us to remove it.
 
@@ -839,8 +839,8 @@ The Gordon College Bookstore is owned and operated by Follett Corporation. Folle
 6.11f	Temperature alarms
 If you receive a recorded call informing you about the temperature in a certain building, record the details and dispatch them to the officer. This is most common during winter break when the buildings get cold. 
 
-6.12	Weather and Power alerts
-Weather alerts will come in via the dispatch cell phone. The most common situation is a lighening stike within ten miles fo campus. Always check the dispatch cell phone if a text message comes in. If you receive a lightening or other dangerous weather notification, press the general "alert" tone and dispatch to all units. You will then call the grounds supervisor at Physical Plant and the camp directors (Adventure camp and various Sports camps) if during the summer. 
+6.12	Weather and Power alerts 
+Weather alerts will come in via the dispatch cell phone. The most common situation is a lightening stike within ten miles of campus. Always check the dispatch cell phone if a text message comes in. If you receive a lightening or other dangerous weather notification, press the general "alert" tone and dispatch to all units. You will then call the grounds supervisor at Physical Plant and the camp directors (Adventure camp and various Sports camps) if during the summer. There is a procedure for lightening strikes in the at-hand binder. 
 
 If you receive a call regarding a power alert, record the details and dispatch them to the offier. 
 
@@ -860,7 +860,7 @@ Part of the roll of a dispatcher is to watch for suspicious or potentially hazar
 These two admittance request items are handled in a similar manner. First, find the person’s name in Master Permission and verify that he or she has permission to access the location that he or she requested.
 •	Lockouts
 o	When a student is locked out of a residence hall or specific room, he or she will call Gordon Police if the RA or RD is unavailable. One of the first questions we should ask is whether or the student’s RA or RD is able to help, especially with room lockouts.  If no one else is able to help the student . . .
-o	Find the student’s name using MasterPhone and confirm that he or she actually lives in the requested hall or room.
+o	Find the student’s name using MasterFiles and confirm that he or she actually lives in the requested hall or room.
 o	If the caller is a guest or a student who is a resident of a different hall, he or she will have to call the host/friend in the building to be let in. We cannot accommodate such requests.
 o	If a student or staff member calls in regards to a door that is locked during a scheduled reservation, always verify it on the the master calander on 25 Live  If it is not on the report and there is no posted update or other printed note in the office ALWAYS radio the officer to confirm that there has not been any other emails, updates, or direct notifications to the officer of the reservation BEFORE instructing the caller that we cannot help them.
 	If it is not on the report and if there was no update from Facilities Use and Space Planning, and the officer has no knowledge of any exceptions, inform the caller that we cannot open the space for him or her without authorization from Faciliteis Use and Space Planning that the space was officially reserved.
@@ -1214,7 +1214,7 @@ Other Registration Notes
 •	Nonresident stickers go in top center of the front windshield, just beneath the rear-view mirror.
 •	Dependents of Faculty/Staff are charged zero “0” fee.
 •	Gordon Police does not receive student payments in the office.  The fee will be charged to his or her student bill.  However, if he or she wishes to pay it right away, he or she can take the money to the cashier’s window in Frost. WE NEVER ACCEPT PAYMENT IN THE OFFICE.
-•	First and second year students must park in Woodland.  Clarify what year the student is so that they receive a Woodland sticker, if necessary. You can verify standing through the Commuter status check in MasterPhone.
+•	First and second year students must park in Woodland.  Clarify what year the student is so that they receive a Woodland sticker, if necessary. You can verify standing through the Commuter status check in MasterFiles.
 •	All commuters are billed automatically for the full year fee.  Therefore, there is no financial gain for a commuter student to delay registration.
 •	Check all registration forms for legibility and clarity.  We need to be able to read them with NO confusion!  Watch out for 5’s and S’s, 4’s and 9’s, 6’s and G’s, zeroes and O’s and 2’s and Z’s and 1’s and I’s! (it is common practice to cross a zero to differentiate from O’s and cross Zs to differentiate from 2s)
 •	Initial and date registration cards.
@@ -1243,18 +1243,18 @@ Students and guests who will have a vehicle on campus overnight that is not alre
 
 Visitor Passes
 Visitor passes are good for 3 days (the Student Life mandated maximum length of overnight stay for guests on campus) and are free or charge.  Visitors can park in marked visitor’s spaces or the chapel lot for overnight parking.  To issue the pass:
-•	Click “Issue Vistor Pass” on the home screen in MasterPhone.
+•	Click “Issue Vistor Pass” on the home screen in MasterFiles.
 •	Search for the host student’s name and read them the notifications on the screen. 
 •	Fill in the vehicle information and submit the form.  It should print out to the dispatch printer.  Sign the sheet and inform the visitor where he or she should park.
 Short-Term Passes
 Short-term passes are good for 2 Weeks and cost $20. Students may not receive more than 2 passes per quad. Students who already have a car registered on campus who wish to receive a pass (borrowing a different car, car is in the shop) will not be charged the fee.  Students are required to follow all normal lot restrictions while they have a temporary pass.  To issue the pass:
-•	Enter the first four letters of the student’s last name in “Issue 2-Week Passes” on the home screen in MasterPhone.
+•	Enter the first four letters of the student’s last name in “Issue 2-Week Passes” on the home screen in MasterFiles.
 •	Verify the name of the student and click “continue”.
 •	Explain that unless the student already has a car registered on campus, he or she will be charged $20 to his or her student bill.
 •	Submit the form and it should print out at the dispatcher computer.  Sign the form and explain the parking regulations.
 Staff Passes
 If a faculty/staff member has a car temporarily that they do not wish to register, we can issue them a 2 or 4-week pass.
-•	Enter the first four letters of the staff's last name in "Issue 2-Week Passes” on the home screen in MasterPhone.
+•	Enter the first four letters of the staff's last name in "Issue 2-Week Passes” on the home screen in MasterFiles.
 •	Follow the same steps as issuing a student pass, but ignore the fee, as it is free for this pass.
 •	If the staff member wants a pass for longer than a month, suggest that he or she registers the car the normal way, as it is also free of charge.
 
