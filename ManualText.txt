@@ -1290,7 +1290,7 @@ Section Eleven: Keys
 11.3	Lynn Van Keys
 11.4	Wilson House Guests
 ________________________________________
-Because we are open 24/7, Rodgers Reception Center is a convenient location for key pickup, drop off, or return. Various types of keys will be handled in different ways.
+Because we are open 24/7, Rodger Reception Center is a convenient location for key pickup, drop off, or return. Various types of keys will be handled in different ways.
 
 11.1	Key Sets for Campus Workers
 On the wall in the office is a locked box containing key sets used on campus.  Only officers, the ACDC and dispatchers are permitted to know the combination to the key box.  If someone comes in wanting to check out or return a set of keys, ask for the person’s name and what department (or company if it is a contractor) he or she works for.  Verify the person’s name on the permission list inside the key box.  If the individual’s name is not on the permission list, please radio the officer or ask the ACDC to verify the individual.  After working a shift for a few weeks, you should begin to get a feel for who will come in to pickup/drop off keys.  After verifying the individual, open the key box:
@@ -1303,7 +1303,7 @@ On the wall in the office is a locked box containing key sets used on campus.  O
 NOTE:  If you are found responsible for giving the key box combo to a person other than another currently employed dispatcher, officer or the ACDC, you will be permanently dismissed.
 
 11.2	Returning Campus Issued Keys (App. Key Return Log)
-Gordon Police handles key returns for the Physical Plant locksmith.  Key return information is kept on a log located on a clipboard on the wall near the customer service desk.
+Gordon Police handles key returns for the Physical Plant locksmith.  Key return information is kept on a log located to the right of the dispatch desk.
 •	WE DO NOT RECEIVE RESIDENTIAL OR HALL KEYS.
 o	These keys should be returned to Student Life or the issuing RD.
 •	We do receive keys being returned at the end of a period of issue from students and faculty/staff.
@@ -1315,7 +1315,7 @@ o	Include your initials, the name that the keys were issued to, the person’s I
 
 We have no authority over key distribution or fining.  Any specific key requests and questions should be referred to Physical Plant (specifically the locksmith).  Currently, Leo Cleary is the locksmith.
 
-11.3	Lynn Van Keys (App. Lynn Van Sign-Out)
+11.3	OCE Van Keys (App. Lynn Van Sign-Out)
 The Office of Community Engagement operates several vehicles for students to get to and from programs off campus. The vehicles are usually parked in the strip of spaces near the chapel and the keys are kept at RRC with the van checkout log.  The OCE is in charge of van scheduling and driver authorization.  Our only responsibility is to ensure that all of the information is filled out in the checkout log and to check the driver’s license of the person taking the keys.  There is a space for you to initial to indicate that you have seen the person’s driver’s license.  The OCE sign-out form and vehicle keys are kept beneath the service counter.
 
 If the person checking out keys is not sure which vehicle he or she should be taking, or is not sure of the time he or she should be returning the vehicle, you can verify it on the OCE Van Calander.  Currently, the OCE uses a Microsoft 365 calendar to display their weekly schedule for vehicle use.
