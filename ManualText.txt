@@ -563,8 +563,9 @@ Section Five: Computer Use
 	5.1b What should be logged?
 5.2 MasterFiles
 5.3 Email, Go! site, Operator Look-up Tool, and Blackboard
-5.4 Other use
-5.5 Back-up logs
+5.4 25 Live Master Calander 
+5.5 Other use
+5.6 Back-up logs
 
 Aside from the camera computers (see section 7.3) and the fire computer (see section 6.6), we use two main computers for dispatch. They are labeled "#1 Report Exec Computer" and "#2 Information Computer." Each has its own monitor, keyboard, and mouse that are all labeled accordingly. These computers are for work use only. If you wish to use the internent for personal browsing, you must bring in your own laptop. 
 
@@ -615,10 +616,17 @@ NOTE: All of the information in MasterFiles is considered confidential and shoul
 5.3	Email, Go! site, Operator Look-up Tool, and Blackboard
 At the beginning of your shift you will log into your Gordon email, the Go! site and Blackboard. These should all be opened on the general use computer. The #1 computer is for Rerpot Exec ONLY. If you open Google Chrome the tabs for these sites will open automatically. Google Chrome will also have all of the bookmark links that you might use, so it is always best to use this internet browser. The operator look-up tool is linked to the Go! site, so you will only need to log into one of the pages. 
 
-5.4	Other use
+5.4	25 Live Master Calander
+Logging In
+
+General Use
+
+Helpful tips on Searching
+
+5.5	Other use
 You can also use the #2 Information computer for other work related things, such as creating a word document or looking up information on the internet. You should not use either computers for personal use and you should NEVER adjust the volumes on either of the dispatch computers. It is allowed to use a computer and/or browse the internet during your shift, but you must bring in a personal laptop to do this. 
 
-5.5	Back-up logs
+5.6	Back-up logs
 In the case that Report Exec is not working or the computers are down (i.e. scheduled network outages for upgrades), you will continue to log everything you would in Report Exec on the backup paper logs. These can be found in the black tray above the Keurig. When you are done with your shift there is a return location for them just under the blank logs. When Report Exec is again available for use, the paper logs must be hand entered into the system for our records. When begginning the process of reentering the logs into Report Exec, the first call should be an information status call for the network outage itself. Each additional call should have the times adjusted to match the paper logs.  
 
 Your paper log should always have your full name, the date, and the shift you are working written at the top.
