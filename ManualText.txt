@@ -1161,7 +1161,7 @@ Examples of non-mandatory shift changes are your birthday, going on a date, seei
 Section Ten: Motor Vehicle and Bike Information
 10.1	Motor Vehicle Registration
 10.1a ipad Registration
-10.1b Gordon Registration Form
+10.1b Gordon Registration Paper Form
 10.1c Nonresident Driver Statement
 10.1d Registration Notes
 10.1e Special Registrations
@@ -1220,16 +1220,16 @@ Q:  I’m going abroad in the spring. Can I only be charged for a semester fee i
 A:  We have to record a full-year fee for all students, but if you are definitely going abroad, send an email to police@gordon.edu at the end of the semester and your fee will be reduced to the semester rate at that time.
 
 Q:  Where can I park without getting a ticket?
-A:  All of the parking restrictions are listed on the Go site and posted here in our office on the bulletin boards.
+A:  All of the parking restrictions are listed on the Go! site and posted here in our office on the bulletin boards.
 
 Any question that you cannot answer can always be directed to the duty officer or sent in an email to police@gordon.edu from the student.
 
 Other Registration Notes
-•	Always record the full-year fee (unless otherwise instructed).  Fees are not always the same from year to year.
+•	Always record the full-year fee (unless otherwise instructed) if using the paper forms.  Fees are not always the same from year to year.
 •	Students who believe they qualify for a fee reduction should email police@gordon.edu.
 •	Gordon stickers go in the lower left hand side front windshield.
 •	Nonresident stickers go in top center of the front windshield, just beneath the rear-view mirror.
-•	Dependents of Faculty/Staff are charged zero “0” fee.
+•	Dependents of Faculty/Staff are charged zero “0” fee. They should still email police@gordon.edu
 •	Gordon Police does not receive student payments in the office.  The fee will be charged to his or her student bill.  However, if he or she wishes to pay it right away, he or she can take the money to the cashier’s window in Frost. WE NEVER ACCEPT PAYMENT IN THE OFFICE.
 •	First and second year students must park in Woodland.  Clarify what year the student is so that they receive a Woodland sticker, if necessary. You can verify standing through the Commuter status check in MasterFiles.
 •	All commuters are billed automatically for the full year fee.  Therefore, there is no financial gain for a commuter student to delay registration.
@@ -1239,11 +1239,11 @@ Other Registration Notes
 
 10.1e Special Registrations
 When a graduate student comes in to register:
-•	Have the grad student fill out only the Gordon registration card and a non-resident form if the plates are not MA.
+•	Have the grad student register on the ipads and a non-resident form if the plates are not MA.
 •	Double-check the information by referencing the person’s state registration form.
 •	Issue a graduate sticker and record the number on the Gordon registration card.
 •	Check the “Graduate Student” box.
-•	Record zero “0” fee.  They pay for parking as part of their “graduate fee” on their student bill.
+•	Record zero “0” fee if using the papers forms.  They pay for parking as part of their “graduate fee” on their student bill.
 •	Initial and date the form.
 Motorcycles are registered in the following manner:
 •	Have the individual fill out a paper form.
@@ -1270,18 +1270,19 @@ Short-term passes are good for 2 Weeks and cost $20. Students may not receive mo
 •	Explain that unless the student already has a car registered on campus, he or she will be charged $20 to his or her student bill.
 •	Submit the form and it should print out at the dispatcher computer.  Sign the form and explain the parking regulations.
 Staff Passes
-If a faculty/staff member has a car temporarily that they do not wish to register, we can issue them a 2 or 4-week pass.
+If a faculty/staff member has a car temporarily that they do not wish to register, we can issue them a 2-week pass.
 •	Enter the first four letters of the staff's last name in "Issue 2-Week Passes” on the home screen in MasterFiles.
 •	Follow the same steps as issuing a student pass, but ignore the fee, as it is free for this pass.
-•	If the staff member wants a pass for longer than a month, suggest that he or she registers the car the normal way, as it is also free of charge.
+•	If the staff member wants a pass for longer than two weeks, suggest that he or she registers the car the normal way, as it is also free of charge.
 
 10.3	Bicycle Registration (App. Bike Cards)
 We require students to register their bikes if kept on campus. Bike registration is free. When someone comes in to register a bike:
 •	Have him or her fill out a bike registration card.  These are in a small black box on the windowsill.
 •	All fields must be completed before we can accept the card and issue a sticker.
 •	If someone has problems finding the serial number, either the ACDC or officer can help him or her locate it.
-•	Issue them a reflective sticker and instruct them to put it in a visible spot on a permanent portion of the bike (i.e. not on the seat, pedals, handlebars, or wheels).
-•	Fill in the sticker number on the card, as well as your initials and the date, and place in the bike registrations box.
+•	There is also a sheet on the bulletin board in the hallway that can help locate the serial number.
+•	Issue them a reflective sticker and instruct them to put it in a visible spot on a permanent portion of the bike (i.e. the frame - not on the seat, pedals, handlebars, or wheels).
+•	Fill in the sticker number on the card, as well as your initials and the date, and place in the completed bike registrations box.
 
 Section Eleven: Keys
 11.1	Key Sets for Campus Workers
