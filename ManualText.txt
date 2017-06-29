@@ -566,7 +566,7 @@ Section Five: Computer Use
 5.4 Other use
 5.5 Back-up logs
 
-Aside from the camera computers (see section 7.3) and the fire computer (see section 6.6), we use two main computers for dispatch. Each has its own monitor, keyboard, and mouse that are all labeled accordingly. These computers are for work use only. If you wish to use the internent for personal browsing, you must bring in your own laptop. 
+Aside from the camera computers (see section 7.3) and the fire computer (see section 6.6), we use two main computers for dispatch. They are labeled "#1 Report Exec Computer" and "#2 Information Computer." Each has its own monitor, keyboard, and mouse that are all labeled accordingly. These computers are for work use only. If you wish to use the internent for personal browsing, you must bring in your own laptop. 
 
 5.1	Report Exec (Computer #1)
 Report Exec is our current software used for dispatch logging and officer reporting. You need to be familiar with the Report Exec software before you begin working as it is how we keep our dipatch logs. The dispatch log is an important part of your job as a dispatcher. Dispatch logs are a public record and a legal document that can be called into court if needed as evidence. Please bear in mind: It is important that your log is always clear, accurate, and complete.
@@ -595,25 +595,34 @@ If you are ever unsure of whether something should be logged or not, you can ask
 •	Any complaint or report someone makes of an observation that pertains to the department: Log details and notify 	officer.
 •	All admittance requests: Log name of person, area of admittance, whether access was granted or denied.
 •	Anything else the officer asks you to log.
+•	Emergency situations
+
+Common Siuations that are NOT logged:
+•	Someone registering for a vehicle or bike.
+•	Someone calling the department or coming up to the counter with a basic question that you can answer (e.g. "Where can I park?" - "Where are the athletic fields?" - "Where is a CTS located?").
+•	Students getting there cards encoded by the ACDC or other staff.
+•	The officer asking for a plate listing (different from a MV stop).
+•	People checking out OCE or campus keys (This is logged in seperate keys logs, not Rerport Exec).
+•	A REOCCURRING trouble alarm.
+•	People picking up items that were left on our desk for them. 
+
 
 5.2	MasterFiles (General Use Computer #2)
-MasterFiles is the main software used on the #2 computer. MasterFiles contains most of the information that you will need while on duty, such as cell phone numbers, dorm rooom addresses, vehicles listings, bike listings, etc. It is also how we print short term vehicles passes. You can log into MasterFiles using your standard Gordon username and password. You should log into MasterFiles at the beginning of your shifts to have the the information readily available. 
+MasterFiles is the main software used on the #2 computer. MasterFiles contains most of the information that you will need while on duty, such as cell phone numbers, dorm rooom addresses, vehicles listings, bike listings, etc. It is also how we print short term vehicles passes and verbal warnings. You can log into MasterFiles using your standard Gordon username and password. You should log into MasterFiles at the beginning of your shifts to have the the information readily available. 
 
-NOTE: All of the information in MasterFiles is considered confidential and should not be shared with anyone outside of the office. 
+NOTE: All of the information in MasterFiles is considered confidential and should not be shared with anyone outside of the office without direct permission from an officer. 
 
 5.3	Email, Go! site, Operator Look-up Tool, and Blackboard
-At the beginning of your shift you will also log into your Gordon email, the Go! site and Blackboard. These should all be opened on the general use computer. The #1 computer is for Rerpot Exec ONLY. If you open Google Chrome the tabs for these sites will open automatically. Google Chrome will also have all of the bookmark links that you might use, so it is always best to use this internet browser. 
+At the beginning of your shift you will log into your Gordon email, the Go! site and Blackboard. These should all be opened on the general use computer. The #1 computer is for Rerpot Exec ONLY. If you open Google Chrome the tabs for these sites will open automatically. Google Chrome will also have all of the bookmark links that you might use, so it is always best to use this internet browser. The operator look-up tool is linked to the Go! site, so you will only need to log into one of the pages. 
 
 5.4	Other use
-You can also use the General Use Computer for other work related things, such as creating a word document or looking up information on the internet. You should not use either computers for personal use and you should NEVER adjust the volumes on either of the dispatch computers. It is allowed to use a computer and/or browse the internet during your shift, but you must bring in a personal laptop to do this. 
+You can also use the #2 Information computer for other work related things, such as creating a word document or looking up information on the internet. You should not use either computers for personal use and you should NEVER adjust the volumes on either of the dispatch computers. It is allowed to use a computer and/or browse the internet during your shift, but you must bring in a personal laptop to do this. 
 
 5.5	Back-up logs
-In the case that Report Exec is not working or the computers are down (i.e. scheduled network outages for upgrades), you will continue to log everything you would in report exec on the backup paper logs. These can be found in the black tray above the Keurig. When you are done with your shift there is a return location for them just under the blank logs. When Report Exec is again available for use, the paper logs must be hand entered into the system for our records. When begginning the process of reentering the logs into Report Exec the first call should be an information status call for the network outage itself. Each additional call should have the times adjusted to match the paper logs.  
+In the case that Report Exec is not working or the computers are down (i.e. scheduled network outages for upgrades), you will continue to log everything you would in Report Exec on the backup paper logs. These can be found in the black tray above the Keurig. When you are done with your shift there is a return location for them just under the blank logs. When Report Exec is again available for use, the paper logs must be hand entered into the system for our records. When begginning the process of reentering the logs into Report Exec, the first call should be an information status call for the network outage itself. Each additional call should have the times adjusted to match the paper logs.  
 
-Your log should always have your full name, the date, and the shift you are working written at the top.
-•	The rest of your log should be an accurate and complete list of the events happening on your shift in chronological order.  Always use military time.
-o	The very first entry and the very last entry will be relief times.
-	These times should match the person you relieve and your relief. Log the relief time by entering it in the “time” column and then, ignoring the fields, writing ‘relieved’ and the name of the person you are relieving. Similarly, at the end of your shift, you will write ‘relieved by’ and then the full name of the dispatcher relieving you. Do not use a person’s nickname.
+Your paper log should always have your full name, the date, and the shift you are working written at the top.
+•	The very first entry and the very last entry will be relief times. These times should match the person you relieve and your relief. Log the relief time by entering it in the “time” column and then, ignoring the fields, writing ‘relieved’ and the name of the person you are relieving. Similarly, at the end of your shift, you will write ‘relieved by’ and then the full name of the dispatcher relieving you. Do not use a person’s nickname.
 •	Each entry should always include:
 o	The name of the person making the request.
 o	The caller’s location or the location of the request.
