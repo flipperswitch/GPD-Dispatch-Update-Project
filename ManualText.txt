@@ -563,7 +563,7 @@ Section Five: Computer Use
 	5.1b What should be logged?
 5.2 MasterFiles
 5.3 Email, Go! site, Operator Look-up Tool, and Blackboard
-5.4 25 Live Master Calander 
+5.4 25Live Master Calander 
 5.5 Other use
 5.6 Back-up logs
 
@@ -616,12 +616,8 @@ NOTE: All of the information in MasterFiles is considered confidential and shoul
 5.3	Email, Go! site, Operator Look-up Tool, and Blackboard
 At the beginning of your shift you will log into your Gordon email, the Go! site and Blackboard. These should all be opened on the general use computer. The #1 computer is for Rerpot Exec ONLY. If you open Google Chrome the tabs for these sites will open automatically. Google Chrome will also have all of the bookmark links that you might use, so it is always best to use this internet browser. The operator look-up tool is linked to the Go! site, so you will only need to log into one of the pages. 
 
-5.4	25 Live Master Calander
-Logging In
-
-General Use
-
-Helpful tips on Searching
+5.4	25Live Master Calander
+25Live acts as our master calander for campus. All scheduled events can be found and veriried through this tool. You can log into 25Live using your Gordon username and password. There is a bookmark for it on the information computer in Chrome. You can search for specific events to verify permission or to get details or you can search by specific building or room if the officer inquires about a specfic space. The best way to do this is to search by room or building under the "Locations" tab.
 
 5.5	Other use
 You can also use the #2 Information computer for other work related things, such as creating a word document or looking up information on the internet. You should not use either computers for personal use and you should NEVER adjust the volumes on either of the dispatch computers. It is allowed to use a computer and/or browse the internet during your shift, but you must bring in a personal laptop to do this. 
@@ -797,7 +793,7 @@ Buildings will only be taken offline if Mike Favaloro (M12) or another alarm tec
 Anytime a building is taken offline for work or testing of any kind, it is important that you know why it is being taken offline.  There are two general cases and two responses to alarms that come in while a building is offline:
 •	If the building is offline due to testing of the system or work by a fire alarm technician directly on the fire system where a fire alarm technician will be present and intentionally sending the building into alarm, you may ignore all alarms both trouble and fire that come in the system for that building while it is offline.
 •	If the building is offline due to other construction work which we suspect may cause a false alarm (such as welding or sanding, or steam treating), you should dispatch the officer to any fire alarm that comes in for that building without tone and without notifying Regional.  This is because there is no fire system person on scene to determine if the alarm is legitimate or not.  The officer will simply confirm that the alarm was tripped due to the construction work as expected and report back to you.
-      Whatever the reason, anytime a building is taken offline, you must log it and the reason on your log.  This log entry should be highlighted to remind you to pass on the information at shift change.  Similarly, you will log anytime a building is put back online and also highlight it.  Once the system goes live, you will also enter any fire system work into the fire system work section of the dispatch program main screen.
+      Whatever the reason, anytime a building is taken offline, you must log it and the reason on in Report Exec. You can do this by starting a status call, selecting "BUILDING OFFLINE" as the type, and putting M14 or M12 on the call (whichever is overseeing the work).
 
 If you EVER see the red placard still displayed AFTER WORKING HOURS (1630-0800), you should immediately notify the duty officer who should IMMEDIATELY contact Mike.  NOTE: there are no exceptions to this, no matter how late it is and no matter whether or not you think the building may have been restored already, if the red placard is still displayed we will ALWAYS call Mike to confirm that everything is as it should be.  Only upon Mike’s instruction should the placard be removed and stored.
 
@@ -1335,11 +1331,11 @@ Section Twelve: Lost and Found
 ________________________________________
 12.1	Receiving Found Items (App. New Items Log)
 Items may be turned in by an individual, but also frequently come in via custodial or intercampus mail. Regardless of how the item is received, the procedure is the same.
-•	Immediately fill out an entry in the Lost & Found check-in log, which is located in the back of the office on the new items drawer. Fill out as much information as possible, including a detailed description of the item.
+•	Immediately fill out an entry in the Lost & Found check-in log. Fill out as much information as possible, including a detailed description of the item.
 •	Be sure to tag the item. Tags frequently escape, so ensure they are securely fastened, use tape if necessary.
 •	If there is information available about the owner of an item (an ID in a wallet, name inside of a book, entry for ‘home’ in cell phone book, etc.), attempt to contact the person and note any action taken on the log, as well as on a note securely fastened to the item.
 •	Also check the Lost Items log in the clipboard file by the window near the customer service counter to see if anyone may have already reported the item missing.
-•	Place ALL items in the blue NEW ITEMS drawer. The only exceptions to this are cash, credit cards, or other valuable items (such as electronics), in which case ask the officer to place them in the safe.  Mark the log accordingly.
+•	Place ALL items into their proper place in the lost and found closet. The only exceptions to this are cash, credit cards, or other valuable items (such as electronics), in which case ask the officer to place them in the safe.  Mark the log accordingly.
 
 12.2	Searching for Lost Items (App. Lost Item Log)
 If a person comes to RRC or calls in looking for a lost item:
@@ -1354,6 +1350,7 @@ When a person comes in to claim an item,
 •	You must check the person’s ID before you return any item, regardless of the item’s supposed value.
 o	This is in part because of security, but also because we want to have a record of where the item went in case someone else comes in looking for the same item at a later date.
 o	To check the ID of a person who has lost a wallet/purse, you may compare a photo ID found in the wallet to the person coming to claim the item.
+•	Write the entry number, your initials, and the date on the tag.
 
 12.4	Lost and Found Clean Out
 After a period of 30 days (60 days for valuable items), the ACDC will clean out items from lost and found.  Individuals who turned items into lost and found, but who wanted to keep the item if it went unclaimed, will be contacted to pick up the item.  These should still be handled using the Lost and Found Pickup log.
