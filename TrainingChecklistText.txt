@@ -290,17 +290,13 @@ o	The officer is in charge.
 o	Channel 3 = Gordon Police
 o	Alternate
 	Channel 1 = Physical Plant – rarely used
-	Channel 2 = for extended conversation (mostly used by Physical Plant) – rarely used
-	Channel 4 = if repeater fails, transmits directly to officers’ radios, use this ONLY if instructed to do so.  Both officer and dispatcher must be on the same channel.
+	Channel 4 (aka "Gordon Direct") = if repeater fails, transmits directly to officers’ radios, use this ONLY if instructed to do so.  Both officer and dispatcher must be on the same channel.
+	Wenham PD 
+	Wenham FD
 
 	How to change channels
 o	Console
 o	Box unit – explain that this is the second line on the console and once changed can also be used from there.
-
-	Simu-select
-o	Do repeatedly to get feel for it
-o	Select off of it
-o	When to use (such as announcements like lightning strike alerts)
 
 	Scanners: Volume controls and rules
 o	Keep “Select” knob at 1/3rd volume.  Keep “Unselect” knob at around 1/4 volume.
@@ -337,9 +333,13 @@ o	Control (Dispatcher)
 o	101-109 (Officers)
 o	110 (ACDC)
 o	121-124 (Student Openers)
+o	131-134 (PEAs)
+o	141-144 (Closers)
 o	201-210 (Student Parking Enforcers
 o	125 (Access Control Assistant)
-o	D1 and D2 (Head Dispatcher(s))
+o	126 (Administrative Assistant)
+o	D1 (Head Dispatcher)
+o	D2 (Assistant to the VP for Technology and Operations)
 
 Physical Plant
 o	Base (Physical Plant Office)
@@ -369,7 +369,7 @@ o	How to decipher current student status and resident/commuter status in Master 
 o	Write down and repeat back to officer to confirm that you heard it properly.
 o	What to do if a search does not return results.
 
-	Response the same: “10--” from Control with your listing
+	Response the same: “10-- from Control with your listing"
 o	Wait for the go ahead before reading the listing (wait time will be longer on a stop)
 o	Read straight across the columns that are marked in the system (provide additional information only as directed)
 o	Demonstrate and have them practice reading vehicle listings appropriately.
@@ -377,8 +377,8 @@ o	Demonstrate and have them practice reading vehicle listings appropriately.
 	Driver history
 o	Click on the listing to be taken to the complete vehicle record
 o	Only include history from the current school year, unless the officer requests more.
-o	When listing the history, indicate the number (code) of the infraction, whether it was a warning or a citation and the location
-o	If the history is extensive, it can be summarized (i.e. multiple number 20s in the Tavilla Lot)
+o	When listing the history, indicate type of the infraction, whether it was a warning or a citation and the location
+o	If the history is extensive, it can be summarized (i.e. multiple Woodland only parkings in the Tavilla Lot)
 
 	MV Listing written on scratch pad (not on log)
 
@@ -387,18 +387,18 @@ o	Dangerous situation for the officer – they are your priority.
 o	Status checks.
 
 	Printing a listing:
-o	Need to be in the extended vehicle information screen (where you can see the history)
-o	Print icon is at top of page
+o	Need to be in the initial vehicle listing screen
+o	Print icon is to the left of the listing
 o	Always circle the plate number or sticker number for the vehicle involved
 o	How to process a Verbal Warning or listing changes (should be placed in the data entry bin unless you are otherwise instructed by the officer
 
 Issuing MV Passes
 	How to issue a Visitor Pass (have them create one for Joe Dispatcher)
 
-	How to issue a Temporary Pass (Student and Staff)
-o	What do when length of time needed is longer than 7 days.
-o	Emphasize: students who already have a registered car on campus will NOT be charged the $5 fee
-o	Staff passes = Free  (if they want one for more than 4 weeks, suggest they register the car)
+	How to issue a Temporary Pass (Student and Staff)  
+o	What do when length of time needed is longer than 2 weeks.
+o	Emphasize: students who already have a registered car on campus will NOT be charged the $20 fee
+o	Staff passes = Free  (if they want one for more than 2 weeks, suggest they register the car)
 
 	How to handle request for Temporary Handicap Privileges
 
@@ -466,8 +466,8 @@ Cameras
 	Returning to the default screens
 	Moving the cameras (pan tilt and zoom)
 	Finding recent history (expand the camera in the tree to the left)
-	Show how to start SENTRY VMS if it ever shuts down (username and password in the drawer).
-	Fixing Layout – 1st opened should be dispatch 3!
+	Show how to start SENTRY VMS (Monitor Station on computer 2) if it ever shuts down (username and password in the drawer).
+	Fixing Layouts
 	Using the Joystick – not required but optional
 	Occasionally the IP cameras lose connection, but often reconnect on their own.
 o	If a camera is down and does not come back up on your shift:
