@@ -595,12 +595,13 @@ Trainee Name:				Trainer Name:
 	Have the Trainee get a new log that they will use to log the practice emergencies.  Watch them to make sure they understand how to log these events.  At the end of the shift they can put their log into the shred box.
 	Have them go through the motions as well as simply describing what they would do for muscle memory (i.e. pointing at the tone they would press, pushing their finger on the table next to the radio transmission button, finding the speed dials in the phones…etc.)
 	For calls that would be transferred to regional, use the back office phone, operator line, and/or your cell to allow them to physically complete a conference call for the simulation without actually calling regional.
-o	Fire Alarms
+o	Standard Fire Alarms
+o	Local Fire Alarms
+o	Report of Local Fire Alarm
 o	Report of Fire or Smoke
 o	Medicals
 o	Psychological Emergencies
 o	Well Being Check
-o	Local Fire Alarms
 o	Security Alarm (various locations or income methods)
 o	Officer in Distress
 o	Bomb Threats
@@ -651,16 +652,13 @@ Trainee Name:				Trainer Name:
 	Explain: what to do if their relief is late (5 min +)
 TRAIN:
 	Blackboard
-o	Finding forms, information, printing documents, checking discussion boards/open shifts, calendar, announcements, etc.
-o	GO OVER SHIFT COVERAGE PROCEDURE.
+o	Finding forms, information, printing documents, training , etc.
+	GO OVER SHIFT COVERAGE PROCEDURE.
 	Email Policy – key information by email.  Must reply to all department emails within 24 hours of sending (check daily).
-	Van Testing – process, receiving/filing applications
+	Van Testing
 	OCE Vehicles Procedures
 	RAD
 	Parking Violation Petitions
-	Escort Log
-o	Make sure they know where to find the separate escort log.
-o	Clarify what info goes on General Dispatch log and Escort Log
 	Campus Awareness
 	Admissions Guests
 	Wilson House Guests
@@ -708,6 +706,7 @@ o	Ask them to find several things on the cameras to practice
 TRAIN:
 	Vehicle Registration
 o	Explain the difference in forms
+o	Using the ipads
 o	Explain protocols for fac/staff, residents, commuters & grad students (not billed by our dept., but issued commuter pass).
 	Bike Registration
 o	Location of cards and stickers
@@ -757,6 +756,7 @@ Trainee Name:				Trainer Name:
 •	The 3rd Supervised shift is the time for tying up any loose ends.  Take a look at the past evaluations of the dispatcher in training to determine the points of emphasis for this shift.
 
 REFRESHER IDEAS:
+•	Emergency Procedures
 •	Vehicle Registration (residents, commuters, faculty/staff)
 •	Physical Plant Work Orders
 •	Receiving Mail
