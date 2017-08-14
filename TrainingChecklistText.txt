@@ -44,19 +44,14 @@ Office Tour
 	Dispatch Area Neatness (using anti-bacterial, wipes, etc.)
 	Cleaning Checklist and policies
 	Coverage and importance of never leaving the area.  Bathroom requests.
-Dispatcher Logs
-	Have the Trainee get a new log that they will use to copy yours (or the dispatcher on duty if it is not you).  Help them make entries as you discuss Log use.  At the end of the shift they can put their log into the shred box.
 
-	Locations of new and used logs
-
-	First and last entry (relieving / being relieved by)
-o	Times should match person you relieve and your relief
-
-	How to log…each entry should include:
-o	Name of person making the request
-o	Time request is made and location
-o	Brief (but complete) description of the request or situation (admit, off with, BOLO, MV Stop, Jump Start, Lockout, Opened, Checked, etc.)
-o	Officer or person responding in the disposition column followed by a forward slash (/)
+Dispatch Logging/Report Exec
+Report Exec
+	Using Report Exec
+o	How to log in
+o	Difference between "New Call" and "Officer Status"
+o	How to mark individuals on and off duty - How to change "area"
+o	Using the "notes" section to log additional information that does not go into the fields
 
 	What to log
 o	Anything that the officer does
@@ -70,6 +65,22 @@ o	Any phone calls the officer asks you to make (e.g. a student to move vehicle f
 o	Any complaint or report someone makes of an observation that pertains to the department (example: students hitting golf balls behind Tavilla Hall, someone sitting on top of Frost)
 o	Anything else the officer asks you to log.
 o	Emergency situations (explain use of incident number/incident system)
+
+Backup Paper Logs
+	Have the Trainee get a new log that they will use to copy yours (or the dispatcher on duty if it is not you).  Help them make entries as you discuss Log use.  At the end of the shift they can put their log into the shred box.
+
+	Locations of new and used logs
+
+	First and last entry (relieving / being relieved by)
+o	Times should match person you relieve and your relief
+
+	How to log…each entry should include:
+o	Name of person making the request
+o	Time request is made and location
+o	Brief (but complete) description of the request or situation (admit, off with, BOLO, MV Stop, Jump Start, Lockout, Opened, Checked, etc.)
+o	Officer or person responding in the disposition column followed by a forward slash (/)
+
+
 
 	“Scratch” pads and their protocol and storage
 o	Label sections
@@ -104,7 +115,7 @@ o	4’s = Gordon Police Lines
 SECOND PRIORITY – should be answered within 2 rings
 “Gordon Police, this line is recorded.”
 *Someone calling Gordon Police for to be connected to another number – give operator number and have them call.
-o	978 – 927- 2300 = Operator
+o	978 – 867- 4000 = Operator
 THIRD PRIORITY – should be answered within 4 rings
 “Gordon College Operator, this is ________.  How can I help you?”
 *Someone may be calling the operator, wanting to be connected to Gordon Police
@@ -177,7 +188,7 @@ o	If someone calls for the primary officer, radio them to ask if they are availa
 o	Never take a message for an officer who is working—unless you are instructed to do so.
 o	If someone calls for a specific officer, first ask the primary officer if that person is currently on campus. (If they are on-campus, attempt to radio directly, ask if they can receive a call).
 o	If the requested person is confirmed not on campus, ask the caller if the primary officer can assist them.
-o	If the primary officer cannot help them, offer to forward to the officers’ voicemail (“Transfer” > Extension/Speed Dial > “Release”).
+o	If the primary officer cannot help them, offer to transfer them to the officer's voicemail (only if for 101, 102, or 110) or ask them to email the officer. 
 
 Scripts for Common Phone Situations
 Operator Line - “Someone called me from this number,” “This number was on my caller ID,” etc.
@@ -223,13 +234,13 @@ Intercom
 	Raising the gates at both locations.
 	Never deny access, only delay and gather info to give to the officer if something is off.
 Door Buzzer
-	Importance of having Rodger secured during the over night shift
+	Having Rodger secured during the over night shift
 	Be cautious at night
 	Use the mirror and/or cameras
 	Play door buzzer sound, have them practice admitting someone
 Session 1 Evaluation:
 
-How is the trainee’s understanding of Log use?
+How is the trainee’s understanding of Report Exec and logging?
 
 
 
@@ -279,17 +290,13 @@ o	The officer is in charge.
 o	Channel 3 = Gordon Police
 o	Alternate
 	Channel 1 = Physical Plant – rarely used
-	Channel 2 = for extended conversation (mostly used by Physical Plant) – rarely used
-	Channel 4 = if repeater fails, transmits directly to officers’ radios, use this ONLY if instructed to do so.  Both officer and dispatcher must be on the same channel.
+	Channel 4 (aka "Gordon Direct") = if repeater fails, transmits directly to officers’ radios, use this ONLY if instructed to do so.  Both officer and dispatcher must be on the same channel.
+	Wenham PD 
+	Wenham FD
 
 	How to change channels
 o	Console
 o	Box unit – explain that this is the second line on the console and once changed can also be used from there.
-
-	Simu-select
-o	Do repeatedly to get feel for it
-o	Select off of it
-o	When to use (such as announcements like lightning strike alerts)
 
 	Scanners: Volume controls and rules
 o	Keep “Select” knob at 1/3rd volume.  Keep “Unselect” knob at around 1/4 volume.
@@ -326,9 +333,13 @@ o	Control (Dispatcher)
 o	101-109 (Officers)
 o	110 (ACDC)
 o	121-124 (Student Openers)
+o	131-134 (PEAs)
+o	141-144 (Closers)
 o	201-210 (Student Parking Enforcers
 o	125 (Access Control Assistant)
-o	D1 and D2 (Head Dispatcher(s))
+o	126 (Administrative Assistant)
+o	D1 (Head Dispatcher)
+o	D2 (Assistant to the VP for Technology and Operations)
 
 Physical Plant
 o	Base (Physical Plant Office)
@@ -358,7 +369,7 @@ o	How to decipher current student status and resident/commuter status in Master 
 o	Write down and repeat back to officer to confirm that you heard it properly.
 o	What to do if a search does not return results.
 
-	Response the same: “10--” from Control with your listing
+	Response the same: “10-- from Control with your listing"
 o	Wait for the go ahead before reading the listing (wait time will be longer on a stop)
 o	Read straight across the columns that are marked in the system (provide additional information only as directed)
 o	Demonstrate and have them practice reading vehicle listings appropriately.
@@ -366,8 +377,8 @@ o	Demonstrate and have them practice reading vehicle listings appropriately.
 	Driver history
 o	Click on the listing to be taken to the complete vehicle record
 o	Only include history from the current school year, unless the officer requests more.
-o	When listing the history, indicate the number (code) of the infraction, whether it was a warning or a citation and the location
-o	If the history is extensive, it can be summarized (i.e. multiple number 20s in the Tavilla Lot)
+o	When listing the history, indicate type of the infraction, whether it was a warning or a citation and the location
+o	If the history is extensive, it can be summarized (i.e. multiple Woodland only parkings in the Tavilla Lot)
 
 	MV Listing written on scratch pad (not on log)
 
@@ -376,18 +387,18 @@ o	Dangerous situation for the officer – they are your priority.
 o	Status checks.
 
 	Printing a listing:
-o	Need to be in the extended vehicle information screen (where you can see the history)
-o	Print icon is at top of page
+o	Need to be in the initial vehicle listing screen
+o	Print icon is to the left of the listing
 o	Always circle the plate number or sticker number for the vehicle involved
 o	How to process a Verbal Warning or listing changes (should be placed in the data entry bin unless you are otherwise instructed by the officer
 
 Issuing MV Passes
 	How to issue a Visitor Pass (have them create one for Joe Dispatcher)
 
-	How to issue a Temporary Pass (Student and Staff)
-o	What do when length of time needed is longer than 7 days.
-o	Emphasize: students who already have a registered car on campus will NOT be charged the $5 fee
-o	Staff passes = Free  (if they want one for more than 4 weeks, suggest they register the car)
+	How to issue a Temporary Pass (Student and Staff)  
+o	What do when length of time needed is longer than 2 weeks.
+o	Emphasize: students who already have a registered car on campus will NOT be charged the $20 fee
+o	Staff passes = Free  (if they want one for more than 2 weeks, suggest they register the car)
 
 	How to handle request for Temporary Handicap Privileges
 
@@ -455,8 +466,8 @@ Cameras
 	Returning to the default screens
 	Moving the cameras (pan tilt and zoom)
 	Finding recent history (expand the camera in the tree to the left)
-	Show how to start SENTRY VMS if it ever shuts down (username and password in the drawer).
-	Fixing Layout – 1st opened should be dispatch 3!
+	Show how to start SENTRY VMS (Monitor Station on computer 2) if it ever shuts down (username and password in the drawer).
+	Fixing Layouts
 	Using the Joystick – not required but optional
 	Occasionally the IP cameras lose connection, but often reconnect on their own.
 o	If a camera is down and does not come back up on your shift:
@@ -584,12 +595,13 @@ Trainee Name:				Trainer Name:
 	Have the Trainee get a new log that they will use to log the practice emergencies.  Watch them to make sure they understand how to log these events.  At the end of the shift they can put their log into the shred box.
 	Have them go through the motions as well as simply describing what they would do for muscle memory (i.e. pointing at the tone they would press, pushing their finger on the table next to the radio transmission button, finding the speed dials in the phones…etc.)
 	For calls that would be transferred to regional, use the back office phone, operator line, and/or your cell to allow them to physically complete a conference call for the simulation without actually calling regional.
-o	Fire Alarms
+o	Standard Fire Alarms
+o	Local Fire Alarms
+o	Report of Local Fire Alarm
 o	Report of Fire or Smoke
 o	Medicals
 o	Psychological Emergencies
 o	Well Being Check
-o	Local Fire Alarms
 o	Security Alarm (various locations or income methods)
 o	Officer in Distress
 o	Bomb Threats
@@ -640,16 +652,13 @@ Trainee Name:				Trainer Name:
 	Explain: what to do if their relief is late (5 min +)
 TRAIN:
 	Blackboard
-o	Finding forms, information, printing documents, checking discussion boards/open shifts, calendar, announcements, etc.
-o	GO OVER SHIFT COVERAGE PROCEDURE.
+o	Finding forms, information, printing documents, training , etc.
+	GO OVER SHIFT COVERAGE PROCEDURE.
 	Email Policy – key information by email.  Must reply to all department emails within 24 hours of sending (check daily).
-	Van Testing – process, receiving/filing applications
+	Van Testing
 	OCE Vehicles Procedures
 	RAD
 	Parking Violation Petitions
-	Escort Log
-o	Make sure they know where to find the separate escort log.
-o	Clarify what info goes on General Dispatch log and Escort Log
 	Campus Awareness
 	Admissions Guests
 	Wilson House Guests
@@ -697,6 +706,7 @@ o	Ask them to find several things on the cameras to practice
 TRAIN:
 	Vehicle Registration
 o	Explain the difference in forms
+o	Using the ipads
 o	Explain protocols for fac/staff, residents, commuters & grad students (not billed by our dept., but issued commuter pass).
 	Bike Registration
 o	Location of cards and stickers
@@ -746,6 +756,7 @@ Trainee Name:				Trainer Name:
 •	The 3rd Supervised shift is the time for tying up any loose ends.  Take a look at the past evaluations of the dispatcher in training to determine the points of emphasis for this shift.
 
 REFRESHER IDEAS:
+•	Emergency Procedures
 •	Vehicle Registration (residents, commuters, faculty/staff)
 •	Physical Plant Work Orders
 •	Receiving Mail
